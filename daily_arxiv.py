@@ -214,30 +214,35 @@ def update_paper_links(filename):
         with open(filename,"w") as f:
             json.dump(json_data,f)
 
-def update_json_file(filename,data_dict):
+def update_json_file(filename, data_dict, keep_removed_keywords_content):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
+    with open(filename, "r") as f:
         content = f.read()
         if not content:
-            m = {}
+            json_data = {}
         else:
-            m = json.loads(content)
+            json_data = json.loads(content)
 
-    json_data = m.copy()
+    # Create a set of keywords in data_dict for easy checking
+    keywords_in_data_dict = set()
+    for data in data_dict:
+        keywords_in_data_dict.update(data.keys())
 
-    # update papers in each keywords
+    if not keep_removed_keywords_content:
+        # Remove keywords not in data_dict
+        keywords_to_remove = [keyword for keyword in json_data.keys() if keyword not in keywords_in_data_dict]
+        for keyword in keywords_to_remove:
+            del json_data[keyword]
+
+    # Update papers in each keyword
     for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
+            json_data[keyword] = papers  # Always update with the new papers
 
-            if keyword in json_data.keys():
-                json_data[keyword].update(papers)
-            else:
-                json_data[keyword] = papers
-
-    with open(filename,"w") as f:
+    with open(filename, "w") as f:
         json.dump(json_data,f)
 
 def json_to_md(filename,md_filename,
@@ -378,6 +383,7 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    keep_removed_keywords_content = config['keep_removed_keywords_content']
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -401,7 +407,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             # update json data
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector,keep_removed_keywords_content)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
@@ -414,7 +420,7 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector,keep_removed_keywords_content)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
@@ -427,7 +433,7 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
-            update_json_file(json_file, data_collector_web)
+            update_json_file(json_file, data_collector_web,keep_removed_keywords_content)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 

@@ -6,6 +6,7 @@ show_authors: True
 show_links: True
 show_badge: True
 max_results: 10
+keep_removed_keywords_content: False
 
 publish_readme: True
 publish_gitpage: True
