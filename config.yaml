@@ -22,18 +22,21 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+  # Subjects
+  "Communications":
+    filters: ["Communication", "Network"]
+  "Data Center":
+    filters: ["Data Center"]
+  "Time Series":
+    filters: ["Time Series"]
+  "RAG":
+    filters: ["RAG", "Retrieval-Augmented Generation"]
+  # Methods
+  "Large Model":
+    filters: ["LLM", "Large Model",]
+  "Generative AI":
+    filters: ["Generative AI"]
+  "Reinforcement Learning":
+    filters: ["Reinforcement Learning"]
+  "Federated Learning":
+    filters: ["Federated Learning"]
