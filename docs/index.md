@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -50,7 +50,7 @@ layout: default
 |**2024-11-04**|**Time-multiplexed Reservoir Computing with Quantum-Dot Lasers: Does more complexity lead to better performance?**|Huifang Dong et.al.|[2411.02032](http://arxiv.org/abs/2411.02032)|null|
 |**2024-11-04**|**GDP nowcasting with large-scale inter-industry payment data in real time -- A network approach**|Anastasia Mantziou et.al.|[2411.02029](http://arxiv.org/abs/2411.02029)|null|
 |**2024-11-04**|**ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer**|Jiawen Zhang et.al.|[2411.01842](http://arxiv.org/abs/2411.01842)|null|
-|**2024-11-04**|**LES-SINDy: Laplace-Enhanced Sparse Identification of Nonlinear Dynamical Systems**|Haoyang Zheng et.al.|[2411.01719](http://arxiv.org/abs/2411.01719)|null|
+|**2024-11-04**|**LES-SINDy: Laplace-Enhanced Sparse Identification of Nonlinear Dynamical Systems**|Haoyang Zheng et.al.|[2411.01719](http://arxiv.org/abs/2411.01719)|**[link](https://github.com/haoyangzheng1996/LES-SINDy)**|
 |**2024-11-03**|**FilterNet: Harnessing Frequency Filters for Time Series Forecasting**|Kun Yi et.al.|[2411.01623](http://arxiv.org/abs/2411.01623)|**[link](https://github.com/aikunyi/filternet)**|
 |**2024-11-03**|**Online Graph Learning via Time-Vertex Adaptive Filters: From Theory to Cardiac Fibrillation**|Alexander Jenkins et.al.|[2411.01567](http://arxiv.org/abs/2411.01567)|null|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
@@ -113,7 +113,7 @@ layout: default
 |**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821](http://arxiv.org/abs/2411.01821)|null|
 |**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
-|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
+|**2024-11-05**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 
 ## Federated Learning
 

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334](http://arxiv.org/abs/2411.02334)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-10-22**|**AI-focused HPC Data Centers Can Provide More Power Grid Flexibility and at Lower Cost**|Yihong Zhou et.al.|[2410.17435](http://arxiv.org/abs/2410.17435)|null|
 |**2024-10-24**|**FlowTracer: A Tool for Uncovering Network Path Usage Imbalance in AI Training Clusters**|Hasibul Jamil et.al.|[2410.17078](http://arxiv.org/abs/2410.17078)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Time Series
 
@@ -64,12 +64,12 @@
 |**2024-11-04**|**Time-multiplexed Reservoir Computing with Quantum-Dot Lasers: Does more complexity lead to better performance?**|Huifang Dong et.al.|[2411.02032](http://arxiv.org/abs/2411.02032)|null|
 |**2024-11-04**|**GDP nowcasting with large-scale inter-industry payment data in real time -- A network approach**|Anastasia Mantziou et.al.|[2411.02029](http://arxiv.org/abs/2411.02029)|null|
 |**2024-11-04**|**ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer**|Jiawen Zhang et.al.|[2411.01842](http://arxiv.org/abs/2411.01842)|null|
-|**2024-11-04**|**LES-SINDy: Laplace-Enhanced Sparse Identification of Nonlinear Dynamical Systems**|Haoyang Zheng et.al.|[2411.01719](http://arxiv.org/abs/2411.01719)|null|
+|**2024-11-04**|**LES-SINDy: Laplace-Enhanced Sparse Identification of Nonlinear Dynamical Systems**|Haoyang Zheng et.al.|[2411.01719](http://arxiv.org/abs/2411.01719)|**[link](https://github.com/haoyangzheng1996/LES-SINDy)**|
 |**2024-11-03**|**FilterNet: Harnessing Frequency Filters for Time Series Forecasting**|Kun Yi et.al.|[2411.01623](http://arxiv.org/abs/2411.01623)|**[link](https://github.com/aikunyi/filternet)**|
 |**2024-11-03**|**Online Graph Learning via Time-Vertex Adaptive Filters: From Theory to Cardiac Fibrillation**|Alexander Jenkins et.al.|[2411.01567](http://arxiv.org/abs/2411.01567)|null|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-11-01**|**Rationale-Guided Retrieval Augmented Generation for Medical Question Answering**|Jiwoong Sohn et.al.|[2411.00300](http://arxiv.org/abs/2411.00300)|**[link](https://github.com/dmis-lab/rag2)**|
 |**2024-11-04**|**LLM-Ref: Enhancing Reference Handling in Technical Writing with Large Language Models**|Kazi Ahmed Asif Fuad et.al.|[2411.00294](http://arxiv.org/abs/2411.00294)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-11-04**|**Sparsing Law: Towards Large Language Models with Greater Activation Sparsity**|Yuqi Luo et.al.|[2411.02335](http://arxiv.org/abs/2411.02335)|null|
 |**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327](http://arxiv.org/abs/2411.02327)|**[link](https://github.com/farewellthree/ppllava)**|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-11-01**|**From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces**|Jose A. Guridi et.al.|[2411.00949](http://arxiv.org/abs/2411.00949)|null|
 |**2024-11-01**|**Generative AI and Agency in Education: A Critical Scoping Review and Thematic Analysis**|Jasper Roe et.al.|[2411.00631](http://arxiv.org/abs/2411.00631)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -135,9 +135,9 @@
 |**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821](http://arxiv.org/abs/2411.01821)|null|
 |**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
-|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
+|**2024-11-05**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-11-03**|**Stochastic Communication Avoidance for Recommendation Systems**|Lutfi Eren Erdogan et.al.|[2411.01611](http://arxiv.org/abs/2411.01611)|null|
 |**2024-11-03**|**Trustworthy Federated Learning: Privacy, Security, and Beyond**|Chunlu Chen et.al.|[2411.01583](http://arxiv.org/abs/2411.01583)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
