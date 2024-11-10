@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-11-07**|**Belief propagation for general graphical models with loops**|Pedro Hack et.al.|[2411.04957](http://arxiv.org/abs/2411.04957)|null|
 |**2024-11-07**|**Global Optimal Closed-Form Solutions for Intelligent Surfaces With Mutual Coupling: Is Mutual Coupling Detrimental or Beneficial?**|Matteo Nerini et.al.|[2411.04949](http://arxiv.org/abs/2411.04949)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-10-28**|**Knowledge Distillation for Real-Time Classification of Early Media in Voice Communications**|Kemal Altwlkany et.al.|[2410.21478](http://arxiv.org/abs/2410.21478)|null|
 |**2024-10-26**|**Access control in a distributed micro-cloud environment**|Tamara Ranković et.al.|[2410.20278](http://arxiv.org/abs/2410.20278)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-11-06**|**Effective Capacity of a Battery Energy Storage System Captive to a Wind Farm**|Vinay A. Vaishampayan et.al.|[2411.04274](http://arxiv.org/abs/2411.04274)|null|
 |**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996](http://arxiv.org/abs/2411.03996)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-11-05**|**Long Context RAG Performance of Large Language Models**|Quinn Leng et.al.|[2411.03538](http://arxiv.org/abs/2411.03538)|null|
 |**2024-11-05**|**HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems**|Jiejun Tan et.al.|[2411.02959](http://arxiv.org/abs/2411.02959)|**[link](https://github.com/plageon/HtmlRAG)**|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
 |**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-11-06**|**GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis**|Temitope Akinboyewa et.al.|[2411.03205](http://arxiv.org/abs/2411.03205)|null|
 |**2024-11-05**|**Generative AI and Security Operations Center Productivity: Evidence from Live Operations**|James Bono et.al.|[2411.03116](http://arxiv.org/abs/2411.03116)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-11-07**|**Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**|Zuzanna Osika et.al.|[2411.04784](http://arxiv.org/abs/2411.04784)|**[link](https://github.com/osikazuzanna/bi-objective-clustering)**|
 |**2024-11-07**|**TacEx: GelSight Tactile Simulation in Isaac Sim -- Combining Soft-Body and Visuotactile Simulators**|Duc Huy Nguyen et.al.|[2411.04776](http://arxiv.org/abs/2411.04776)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-11-06**|**FedRISE: Rating Induced Sign Election of Gradients for Byzantine Tolerant Federated Aggregation**|Joseph Geo Benjamin et.al.|[2411.03861](http://arxiv.org/abs/2411.03861)|null|
 |**2024-11-06**|**Overcoming label shift in targeted federated learning**|Edvin Listo Zec et.al.|[2411.03799](http://arxiv.org/abs/2411.03799)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
