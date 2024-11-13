@@ -14,22 +14,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|null|
-|**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
-|**2024-11-11**|**Floquet Topological Dissipative Kerr Solitons and Incommensurate Frequency Combs**|Seyed Danial Hashemi et.al.|[2411.07236](http://arxiv.org/abs/2411.07236)|null|
-|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
-|**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
-|**2024-11-11**|**LOS/NLOS Estimators for mmWave Cellular Systems With Blockages**|Tomàs Ortega et.al.|[2411.07193](http://arxiv.org/abs/2411.07193)|null|
-|**2024-11-11**|**Revisiting Ensembling in One-Shot Federated Learning**|Youssef Allouah et.al.|[2411.07182](http://arxiv.org/abs/2411.07182)|**[link](https://github.com/sacs-epfl/fens)**|
-|**2024-11-11**|**Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation**|Ismail Cosandal et.al.|[2411.07179](http://arxiv.org/abs/2411.07179)|null|
-|**2024-11-11**|**Enhancing Predictive Maintenance in Mining Mobile Machinery through a TinyML-enabled Hierarchical Inference Network**|Raúl de la Fuente et.al.|[2411.07168](http://arxiv.org/abs/2411.07168)|null|
+|**2024-11-12**|**Superpositions of tree-tensor networks for single-reference ground states in the strong correlation regime**|Dominic Bergeron et.al.|[2411.08036](http://arxiv.org/abs/2411.08036)|null|
+|**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
+|**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Harnessing Network Science for Urban Resilience: The CASA Model's Approach to Social and Environmental Challenges**|Miguel Fuentes et.al.|[2411.08015](http://arxiv.org/abs/2411.08015)|null|
+|**2024-11-12**|**Artistic Neural Style Transfer Algorithms with Activation Smoothing**|Xiangtian Li et.al.|[2411.08014](http://arxiv.org/abs/2411.08014)|null|
+|**2024-11-12**|**ExpressivityArena: Can LLMs Express Information Implicitly?**|Joshua Tint et.al.|[2411.08010](http://arxiv.org/abs/2411.08010)|null|
+|**2024-11-12**|**Markov Processes for Enhanced Deepfake Generation and Detection**|Jyoti Bhadana et.al.|[2411.07993](http://arxiv.org/abs/2411.07993)|null|
+|**2024-11-12**|**Maximum likelihood estimation of log-affine models using detailed-balanced reaction networks**|Oskar Henriksson et.al.|[2411.07986](http://arxiv.org/abs/2411.07986)|null|
+|**2024-11-12**|**Scalable piecewise smoothing with BART**|Ryan Yee et.al.|[2411.07984](http://arxiv.org/abs/2411.07984)|null|
 
 ## Data Center
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-10**|**ElectricityEmissions.jl: A Framework for the Comparison of Carbon Intensity Signals**|Joe Gorka et.al.|[2411.06560](http://arxiv.org/abs/2411.06560)|null|
+|**2024-11-12**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
+|**2024-11-12**|**A Framework for Carbon-aware Real-Time Workload Management in Clouds using Renewables-driven Cores**|Tharindu B. Hewage et.al.|[2411.07628](http://arxiv.org/abs/2411.07628)|null|
+|**2024-11-12**|**ElectricityEmissions.jl: A Framework for the Comparison of Carbon Intensity Signals**|Joe Gorka et.al.|[2411.06560](http://arxiv.org/abs/2411.06560)|null|
 |**2024-11-08**|**Do Data Center Network Metrics Predict Application-Facing Performance?**|Brian Chang et.al.|[2411.06004](http://arxiv.org/abs/2411.06004)|null|
 |**2024-11-08**|**SSSD: Simply-Scalable Speculative Decoding**|Michele Marzollo et.al.|[2411.05894](http://arxiv.org/abs/2411.05894)|null|
 |**2024-11-07**|**Interplay between Federated Learning and Explainable Artificial Intelligence: a Scoping Review**|Luis M. Lopez-Ramos et.al.|[2411.05874](http://arxiv.org/abs/2411.05874)|null|
@@ -37,98 +39,96 @@ layout: default
 |**2024-11-05**|**Photon: Federated LLM Pre-Training**|Lorenzo Sani et.al.|[2411.02908](http://arxiv.org/abs/2411.02908)|null|
 |**2024-11-04**|**Euclid: High-precision imaging astrometry and photometry from Early Release Observations. I. Internal kinematics of NGC 6397 by combining Euclid and Gaia data**|M. Libralato et.al.|[2411.02487](http://arxiv.org/abs/2411.02487)|null|
 |**2024-11-04**|**Euclid: The $r_{\rm b}$-$M_\ast$ relation as a function of redshift. I. The $5 \times 10^9 M_\odot$ black hole in NGC 1272**|R. Saglia et.al.|[2411.01927](http://arxiv.org/abs/2411.01927)|null|
-|**2024-11-04**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
-|**2024-10-30**|**Accelerated AI Inference via Dynamic Execution Methods**|Haim Barad et.al.|[2411.00853](http://arxiv.org/abs/2411.00853)|null|
 
 ## Time Series
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
+|**2024-11-12**|**A dynamic latent space time series model to assess the spread of mumps in England**|Hardeep Kaur et.al.|[2411.07749](http://arxiv.org/abs/2411.07749)|null|
+|**2024-11-12**|**Testing LRD in the spectral domain for functional time series in manifolds**|M. D. Ruiz-Medina et.al.|[2411.07731](http://arxiv.org/abs/2411.07731)|null|
+|**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|null|
+|**2024-11-12**|**FM-TS: Flow Matching for Time Series Generation**|Yang Hu et.al.|[2411.07506](http://arxiv.org/abs/2411.07506)|**[link](https://github.com/unites-lab/fmts)**|
+|**2024-11-11**|**ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor for Streaming Time Series Forecasting**|Futoon M. Abushaqra et.al.|[2411.07413](http://arxiv.org/abs/2411.07413)|null|
 |**2024-11-11**|**Reconstruction of neuromorphic dynamics from a single scalar time series using variational autoencoder and neural network map**|Pavel V. Kuptsov et.al.|[2411.07055](http://arxiv.org/abs/2411.07055)|null|
 |**2024-11-11**|**Leveraging LSTM for Predictive Modeling of Satellite Clock Bias**|Ahan Bhatt et.al.|[2411.07015](http://arxiv.org/abs/2411.07015)|null|
 |**2024-11-11**|**Causal-discovery-based root-cause analysis and its application in time-series prediction error diagnosis**|Hiroshi Yokoyama et.al.|[2411.06990](http://arxiv.org/abs/2411.06990)|null|
 |**2024-11-11**|**Detecting relevant deviations from the white noise assumption for non-stationary time series**|Patrick Bastian et.al.|[2411.06909](http://arxiv.org/abs/2411.06909)|null|
-|**2024-11-11**|**Quantum machine learning via continuous-variable cluster states and teleportation**|Jorge García-Beni et.al.|[2411.06907](http://arxiv.org/abs/2411.06907)|null|
-|**2024-11-11**|**MP-PINN: A Multi-Phase Physics-Informed Neural Network for Epidemic Forecasting**|Thang Nguyen et.al.|[2411.06781](http://arxiv.org/abs/2411.06781)|null|
-|**2024-11-11**|**Research on an intelligent fault diagnosis method for nuclear power plants based on ETCN-SSA combined algorithm**|Jiayan Fang et.al.|[2411.06765](http://arxiv.org/abs/2411.06765)|null|
-|**2024-11-11**|**Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data**|Kai Kim et.al.|[2411.06735](http://arxiv.org/abs/2411.06735)|null|
-|**2024-11-10**|**Deep drilling in the time domain with DECam II: characterizing the light curves of candidates in the extragalactic fields**|Melissa L. Graham et.al.|[2411.06617](http://arxiv.org/abs/2411.06617)|null|
-|**2024-11-10**|**Generalized Principal Component Analysis for Large-dimensional Matrix Factor Model**|Yong He et.al.|[2411.06423](http://arxiv.org/abs/2411.06423)|null|
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders**|Xiaofeng Zhu et.al.|[2411.07870](http://arxiv.org/abs/2411.07870)|null|
+|**2024-11-12**|**Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820](http://arxiv.org/abs/2411.07820)|null|
+|**2024-11-12**|**Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG**|Zilun Zhang et.al.|[2411.07688](http://arxiv.org/abs/2411.07688)|null|
+|**2024-11-11**|**Toward Optimal Search and Retrieval for RAG**|Alexandria Leto et.al.|[2411.07396](http://arxiv.org/abs/2411.07396)|null|
+|**2024-11-11**|**ChatGPT Inaccuracy Mitigation during Technical Report Understanding: Are We There Yet?**|Salma Begum Tamanna et.al.|[2411.07360](http://arxiv.org/abs/2411.07360)|null|
 |**2024-11-11**|**OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model**|Sumeth Yuenyong et.al.|[2411.07238](http://arxiv.org/abs/2411.07238)|null|
 |**2024-11-11**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021](http://arxiv.org/abs/2411.07021)|null|
 |**2024-11-11**|**AssistRAG: Boosting the Potential of Large Language Models with an Intelligent Information Assistant**|Yujia Zhou et.al.|[2411.06805](http://arxiv.org/abs/2411.06805)|**[link](https://github.com/smallporridge/assistrag)**|
 |**2024-11-10**|**Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement**|Zhennan Chen et.al.|[2411.06558](http://arxiv.org/abs/2411.06558)|null|
 |**2024-11-10**|**LProtector: An LLM-driven Vulnerability Detection System**|Ze Sheng et.al.|[2411.06493](http://arxiv.org/abs/2411.06493)|null|
-|**2024-11-09**|**Leveraging Retrieval-Augmented Generation for University Knowledge Retrieval**|Arshia Hemmat et.al.|[2411.06237](http://arxiv.org/abs/2411.06237)|null|
-|**2024-11-09**|**Exploring Knowledge Boundaries in Large Language Models for Retrieval Judgment**|Zhen Zhang et.al.|[2411.06207](http://arxiv.org/abs/2411.06207)|null|
-|**2024-11-09**|**Clustering Algorithms and RAG Enhancing Semi-Supervised Text Classification with Large LLMs**|Shan Zhong et.al.|[2411.06175](http://arxiv.org/abs/2411.06175)|null|
-|**2024-11-09**|**Sufficient Context: A New Lens on Retrieval Augmented Generation Systems**|Hailey Joren et.al.|[2411.06037](http://arxiv.org/abs/2411.06037)|null|
-|**2024-11-08**|**Qwen2.5-32B: Leveraging Self-Consistent Tool-Integrated Reasoning for Bengali Mathematical Olympiad Problem Solving**|Saad Tahmid et.al.|[2411.05934](http://arxiv.org/abs/2411.05934)|null|
 
 ## Large Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|null|
-|**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
-|**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
-|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
-|**2024-11-11**|**The Super Weight in Large Language Models**|Mengxia Yu et.al.|[2411.07191](http://arxiv.org/abs/2411.07191)|**[link](https://github.com/mengxiayu/llmsuperweight)**|
-|**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186](http://arxiv.org/abs/2411.07186)|null|
-|**2024-11-11**|**Continual Memorization of Factoids in Large Language Models**|Howard Chen et.al.|[2411.07175](http://arxiv.org/abs/2411.07175)|**[link](https://github.com/princeton-nlp/continual-factoid-memorization)**|
-|**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163](http://arxiv.org/abs/2411.07163)|null|
-|**2024-11-11**|**Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models**|Yancheng He et.al.|[2411.07140](http://arxiv.org/abs/2411.07140)|null|
-|**2024-11-12**|**Stronger Models are NOT Stronger Teachers for Instruction Tuning**|Zhangchen Xu et.al.|[2411.07133](http://arxiv.org/abs/2411.07133)|null|
+|**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
+|**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
+|**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
+|**2024-11-12**|**ExpressivityArena: Can LLMs Express Information Implicitly?**|Joshua Tint et.al.|[2411.08010](http://arxiv.org/abs/2411.08010)|null|
+|**2024-11-12**|**Can adversarial attacks by large language models be attributed?**|Manuel Cebrian et.al.|[2411.08003](http://arxiv.org/abs/2411.08003)|null|
+|**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
+|**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
+|**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
+|**2024-11-12**|**CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts**|Aniket Deroy et.al.|[2411.07917](http://arxiv.org/abs/2411.07917)|null|
+|**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871](http://arxiv.org/abs/2411.07871)|null|
 
 ## Generative AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Generative AI in Self-Directed Learning: A Scoping Review**|Jasper Roe et.al.|[2411.07677](http://arxiv.org/abs/2411.07677)|null|
+|**2024-11-11**|**Using Generative AI and Multi-Agents to Provide Automatic Feedback**|Shuchen Guo et.al.|[2411.07407](http://arxiv.org/abs/2411.07407)|null|
+|**2024-11-11**|**Data-Driven Analysis of AI in Medical Device Software in China: Deep Learning and General AI Trends Based on Regulatory Data**|Yu Han et.al.|[2411.07378](http://arxiv.org/abs/2411.07378)|null|
+|**2024-11-11**|**ChatGPT Inaccuracy Mitigation during Technical Report Understanding: Are We There Yet?**|Salma Begum Tamanna et.al.|[2411.07360](http://arxiv.org/abs/2411.07360)|null|
 |**2024-11-11**|**Generative midtended cognition and Artificial Intelligence. Thinging with thinging things**|Xabier E. Barandiaran et.al.|[2411.06812](http://arxiv.org/abs/2411.06812)|null|
 |**2024-11-11**|**LA4SR: illuminating the dark proteome with generative AI**|David R. Nelson et.al.|[2411.06798](http://arxiv.org/abs/2411.06798)|null|
 |**2024-11-10**|**Phantom: Constraining Generative Artificial Intelligence Models for Practical Domain Specific Peripherals Trace Synthesizing**|Zhibai Huang et.al.|[2411.06376](http://arxiv.org/abs/2411.06376)|null|
 |**2024-11-10**|**Prompts Matter: Comparing ML/GAI Approaches for Generating Inductive Qualitative Coding Results**|John Chen et.al.|[2411.06316](http://arxiv.org/abs/2411.06316)|null|
 |**2024-11-09**|**Enhancing Well-Being Through Positive Technology: VR Forest Bathing**|Francisco R. Ortega et.al.|[2411.06293](http://arxiv.org/abs/2411.06293)|null|
 |**2024-11-09**|**AI's Spatial Intelligence: Evaluating AI's Understanding of Spatial Transformations in PSVT:R and Augmented Reality**|Uttamasha Monjoree et.al.|[2411.06269](http://arxiv.org/abs/2411.06269)|null|
-|**2024-11-09**|**Evaluating the Propensity of Generative AI for Producing Disinformation During an Election Cycle**|Erik J Schlicht et.al.|[2411.06120](http://arxiv.org/abs/2411.06120)|null|
-|**2024-11-09**|**Provocation on Expertise in Social Impact Evaluations of Generative AI (and Beyond)**|Zoe Kahn et.al.|[2411.06017](http://arxiv.org/abs/2411.06017)|null|
-|**2024-11-08**|**Emotional Images: Assessing Emotions in Images and Potential Biases in Generative Models**|Maneet Mehta et.al.|[2411.05985](http://arxiv.org/abs/2411.05985)|null|
-|**2024-11-08**|**The Empirical Impact of Data Sanitization on Language Models**|Anwesan Pal et.al.|[2411.05978](http://arxiv.org/abs/2411.05978)|null|
 
 ## Reinforcement Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
-|**2024-11-11**|**Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation**|Ismail Cosandal et.al.|[2411.07179](http://arxiv.org/abs/2411.07179)|null|
-|**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
-|**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|
-|**2024-11-11**|**OCMDP: Observation-Constrained Markov Decision Process**|Taiyi Wang et.al.|[2411.07087](http://arxiv.org/abs/2411.07087)|null|
-|**2024-11-11**|**To Train or Not to Train: Balancing Efficiency and Training Cost in Deep Reinforcement Learning for Mobile Edge Computing**|Maddalena Boscaro et.al.|[2411.07086](http://arxiv.org/abs/2411.07086)|null|
-|**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
-|**2024-11-11**|**Enhancing Robot Assistive Behaviour with Reinforcement Learning and Theory of Mind**|Antonio Andriella et.al.|[2411.07003](http://arxiv.org/abs/2411.07003)|**[link](https://github.com/prisca-lab/q-learning_concentration)**|
-|**2024-11-11**|**Streetwise Agents: Empowering Offline RL Policies to Outsmart Exogenous Stochastic Disturbances in RTC**|Aditya Soni et.al.|[2411.06815](http://arxiv.org/abs/2411.06815)|null|
-|**2024-11-11**|**QuadWBG: Generalizable Quadrupedal Whole-Body Grasping**|Jilong Wang et.al.|[2411.06782](http://arxiv.org/abs/2411.06782)|null|
+|**2024-11-12**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
+|**2024-11-12**|**Scaling policy iteration based reinforcement learning for unknown discrete-time linear systems**|Zhen Pang et.al.|[2411.07825](http://arxiv.org/abs/2411.07825)|null|
+|**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
+|**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
+|**2024-11-12**|**Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning**|Stefan Pranger et.al.|[2411.07700](http://arxiv.org/abs/2411.07700)|null|
+|**2024-11-12**|**Exploring Multi-Agent Reinforcement Learning for Unrelated Parallel Machine Scheduling**|Maria Zampella et.al.|[2411.07634](http://arxiv.org/abs/2411.07634)|null|
+|**2024-11-12**|**Direct Preference Optimization Using Sparse Feature-Level Constraints**|Qingyu Yin et.al.|[2411.07618](http://arxiv.org/abs/2411.07618)|null|
+|**2024-11-12**|**Entropy Controllable Direct Preference Optimization**|Motoki Omura et.al.|[2411.07595](http://arxiv.org/abs/2411.07595)|null|
+|**2024-11-12**|**Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization**|Chenbei Lu et.al.|[2411.07591](http://arxiv.org/abs/2411.07591)|null|
+|**2024-11-12**|**Reinforcement Learning Framework for Quantitative Trading**|Alhassan S. Yasin et.al.|[2411.07585](http://arxiv.org/abs/2411.07585)|null|
 
 ## Federated Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**On the Convergence of Continual Federated Learning Using Incrementally Aggregated Gradients**|Satish Kumar Keshri et.al.|[2411.07959](http://arxiv.org/abs/2411.07959)|null|
+|**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889](http://arxiv.org/abs/2411.07889)|**[link](https://github.com/justaguyalways/stochastic-federated-differentially-private-and-fair-learning)**|
+|**2024-11-12**|**Federated Learning for Discrete Optimal Transport with Large Population under Incomplete Information**|Navpreet Kaur et.al.|[2411.07841](http://arxiv.org/abs/2411.07841)|null|
+|**2024-11-12**|**Efficient Federated Finetuning of Tiny Transformers with Resource-Constrained Devices**|Kilian Pfeiffer et.al.|[2411.07826](http://arxiv.org/abs/2411.07826)|null|
+|**2024-11-12**|**Dual-Criterion Model Aggregation in Federated Learning: Balancing Data Quantity and Quality**|Haizhou Zhang et.al.|[2411.07816](http://arxiv.org/abs/2411.07816)|null|
+|**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
+|**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752](http://arxiv.org/abs/2411.07752)|null|
+|**2024-11-12**|**Collaborative and Federated Black-box Optimization: A Bayesian Optimization Perspective**|Raed Al Kontar et.al.|[2411.07523](http://arxiv.org/abs/2411.07523)|null|
+|**2024-11-11**|**Federated Learning Client Pruning for Noisy Labels**|Mahdi Morafah et.al.|[2411.07391](http://arxiv.org/abs/2411.07391)|**[link](https://github.com/mmorafah/clipfl)**|
 |**2024-11-11**|**TempCharBERT: Keystroke Dynamics for Continuous Access Control Based on Pre-trained Language Models**|Matheus Simão et.al.|[2411.07224](http://arxiv.org/abs/2411.07224)|null|
-|**2024-11-11**|**Revisiting Ensembling in One-Shot Federated Learning**|Youssef Allouah et.al.|[2411.07182](http://arxiv.org/abs/2411.07182)|**[link](https://github.com/sacs-epfl/fens)**|
-|**2024-11-11**|**WassFFed: Wasserstein Fair Federated Learning**|Zhongxuan Han et.al.|[2411.06881](http://arxiv.org/abs/2411.06881)|null|
-|**2024-11-11**|**Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**|Lu Yu et.al.|[2411.06773](http://arxiv.org/abs/2411.06773)|null|
-|**2024-11-12**|**Sketched Adaptive Federated Deep Learning: A Sharp Convergence Analysis**|Zhijie Chen et.al.|[2411.06770](http://arxiv.org/abs/2411.06770)|null|
-|**2024-11-11**|**Movable Antenna-Aided Federated Learning with Over-the-Air Aggregation: Joint Optimization of Positioning, Beamforming, and User Selection**|Yang Zhao et.al.|[2411.06721](http://arxiv.org/abs/2411.06721)|null|
-|**2024-11-10**|**Using Diffusion Models as Generative Replay in Continual Federated Learning -- What will Happen?**|Yongsheng Mei et.al.|[2411.06618](http://arxiv.org/abs/2411.06618)|null|
-|**2024-11-10**|**Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling**|Andreas Athanasiou et.al.|[2411.06458](http://arxiv.org/abs/2411.06458)|null|
-|**2024-11-10**|**Client Contribution Normalization for Enhanced Federated Learning**|Mayank Kumar Kundalwal et.al.|[2411.06352](http://arxiv.org/abs/2411.06352)|null|
-|**2024-11-09**|**TinyML NLP Approach for Semantic Wireless Sentiment Classification**|Ahmed Y. Radwan et.al.|[2411.06291](http://arxiv.org/abs/2411.06291)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
