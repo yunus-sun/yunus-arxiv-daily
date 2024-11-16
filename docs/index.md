@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -31,8 +31,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-13**|**Field-based Security Testing of SDN configuration Updates**|Jahanzaib Malik et.al.|[2411.09433](http://arxiv.org/abs/2411.09433)|null|
 |**2024-11-12**|**RPCAcc: A High-Performance and Reconfigurable PCIe-attached RPC Accelerator**|Jie Zhang et.al.|[2411.07632](http://arxiv.org/abs/2411.07632)|null|
-|**2024-11-12**|**A Framework for Carbon-aware Real-Time Workload Management in Clouds using Renewables-driven Cores**|Tharindu B. Hewage et.al.|[2411.07628](http://arxiv.org/abs/2411.07628)|null|
-|**2024-11-12**|**ElectricityEmissions.jl: A Framework for the Comparison of Carbon Intensity Signals**|Joe Gorka et.al.|[2411.06560](http://arxiv.org/abs/2411.06560)|null|
+|**2024-11-12**|**A Framework for Carbon-aware Real-Time Workload Management in Clouds using Renewables-driven Cores**|Tharindu B. Hewage et.al.|[2411.07628](http://arxiv.org/abs/2411.07628)|**[link](https://github.com/tharindu-b-hewage/openstack-gc)**|
+|**2024-11-12**|**ElectricityEmissions.jl: A Framework for the Comparison of Carbon Intensity Signals**|Joe Gorka et.al.|[2411.06560](http://arxiv.org/abs/2411.06560)|**[link](https://github.com/wispo-pop/electricityemissions.jl)**|
 |**2024-11-08**|**Do Data Center Network Metrics Predict Application-Facing Performance?**|Brian Chang et.al.|[2411.06004](http://arxiv.org/abs/2411.06004)|null|
 |**2024-11-08**|**SSSD: Simply-Scalable Speculative Decoding**|Michele Marzollo et.al.|[2411.05894](http://arxiv.org/abs/2411.05894)|null|
 |**2024-11-07**|**Interplay between Federated Learning and Explainable Artificial Intelligence: a Scoping Review**|Luis M. Lopez-Ramos et.al.|[2411.05874](http://arxiv.org/abs/2411.05874)|null|
@@ -50,8 +50,8 @@ layout: default
 |**2024-11-14**|**The rotation properties of $δ$ Sct and $γ$ Dor stars**|Jiyu Wang et.al.|[2411.09292](http://arxiv.org/abs/2411.09292)|null|
 |**2024-11-14**|**Probability of constructing prediction model for observable of a dynamical process via time series**|Xiao-Song Yang et.al.|[2411.09230](http://arxiv.org/abs/2411.09230)|null|
 |**2024-11-14**|**Interdependent scaling exponents in the human brain**|Daniel M. Castro et.al.|[2411.09098](http://arxiv.org/abs/2411.09098)|null|
-|**2024-11-13**|**Optimisation Strategies for Ensuring Fairness in Machine Learning: With and Without Demographics**|Quan Zhou et.al.|[2411.09056](http://arxiv.org/abs/2411.09056)|null|
-|**2024-11-13**|**Information Need in Metaverse Recordings - A Field Study**|Patrick Steinert et.al.|[2411.09053](http://arxiv.org/abs/2411.09053)|null|
+|**2024-11-13**|**Optimisation Strategies for Ensuring Fairness in Machine Learning: With and Without Demographics**|Quan Zhou et.al.|[2411.09056](http://arxiv.org/abs/2411.09056)|**[link](https://github.com/quan-zhou/proper-learning-of-lds)**|
+|**2024-11-13**|**Information Need in Metaverse Recordings -- A Field Study**|Patrick Steinert et.al.|[2411.09053](http://arxiv.org/abs/2411.09053)|null|
 |**2024-11-13**|**How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis**|Takeshi Miki et.al.|[2411.09030](http://arxiv.org/abs/2411.09030)|null|
 |**2024-11-13**|**Transformer-based Time-Series Biomarker Discovery for COPD Diagnosis**|Soham Gadgil et.al.|[2411.09027](http://arxiv.org/abs/2411.09027)|null|
 
