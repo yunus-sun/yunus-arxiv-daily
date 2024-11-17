@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.16
+## Updated on 2024.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
 |**2024-11-14**|**Modular Fault Diagnosis Framework for Complex Autonomous Driving Systems**|Stefan Orf et.al.|[2411.09643](http://arxiv.org/abs/2411.09643)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-11-05**|**Photon: Federated LLM Pre-Training**|Lorenzo Sani et.al.|[2411.02908](http://arxiv.org/abs/2411.02908)|null|
 |**2024-11-04**|**Euclid: High-precision imaging astrometry and photometry from Early Release Observations. I. Internal kinematics of NGC 6397 by combining Euclid and Gaia data**|M. Libralato et.al.|[2411.02487](http://arxiv.org/abs/2411.02487)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-11-13**|**How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis**|Takeshi Miki et.al.|[2411.09030](http://arxiv.org/abs/2411.09030)|null|
 |**2024-11-13**|**Transformer-based Time-Series Biomarker Discovery for COPD Diagnosis**|Soham Gadgil et.al.|[2411.09027](http://arxiv.org/abs/2411.09027)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-11-13**|**Refining Translations with LLMs: A Constraint-Aware Iterative Prompting Approach**|Shangfeng Chen et.al.|[2411.08348](http://arxiv.org/abs/2411.08348)|null|
 |**2024-11-13**|**Are LLMs Prescient? A Continuous Evaluation using Daily News as the Oracle**|Hui Dai et.al.|[2411.08324](http://arxiv.org/abs/2411.08324)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-11-14**|**Software Performance Engineering for Foundation Model-Powered Software (FMware)**|Haoxiang Zhang et.al.|[2411.09580](http://arxiv.org/abs/2411.09580)|null|
 |**2024-11-14**|**Spider: Any-to-Many Multimodal LLM**|Jinxiang Lai et.al.|[2411.09439](http://arxiv.org/abs/2411.09439)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-11-13**|**I Can Embrace and Avoid Vagueness Myself: Supporting the Design Process by Balancing Vagueness through Text-to-Image Generative AI**|Myungjin Kim et.al.|[2411.08588](http://arxiv.org/abs/2411.08588)|null|
 |**2024-11-13**|**HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere**|Hatef Otroshi Shahreza et.al.|[2411.08470](http://arxiv.org/abs/2411.08470)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-11-14**|**Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach**|Yangbo Guo et.al.|[2411.09146](http://arxiv.org/abs/2411.09146)|null|
 |**2024-11-13**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073](http://arxiv.org/abs/2411.09073)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-11-12**|**Dual-Criterion Model Aggregation in Federated Learning: Balancing Data Quantity and Quality**|Haizhou Zhang et.al.|[2411.07816](http://arxiv.org/abs/2411.07816)|null|
 |**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
 
-<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
