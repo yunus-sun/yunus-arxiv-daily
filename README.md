@@ -24,16 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732](http://arxiv.org/abs/2411.12732)|**[link](https://github.com/ETH-DISCO/Benchmarking-PEs)**|
-|**2024-11-19**|**Finite-size scaling on the torus with periodic projected entangled-pair states**|Gleb Fedorovich et.al.|[2411.12731](http://arxiv.org/abs/2411.12731)|null|
-|**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
-|**2024-11-19**|**Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities**|H. L. M. Osborne et.al.|[2411.12723](http://arxiv.org/abs/2411.12723)|null|
-|**2024-11-19**|**An AI-Enabled Side Channel Power Analysis Based Hardware Trojan Detection Method for Securing the Integrated Circuits in Cyber-Physical Systems**|Sefatun-Noor Puspa et.al.|[2411.12721](http://arxiv.org/abs/2411.12721)|null|
-|**2024-11-19**|**Travel Time Based Task Mapping for NoC-Based DNN Accelerator**|Yizhi Chen et.al.|[2411.12710](http://arxiv.org/abs/2411.12710)|null|
-|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
-|**2024-11-19**|**Distributed Coordination of Grid-Forming and Grid-Following Inverter-Based Resources for Optimal Frequency Control in Power Systems**|Xiaoyang Wang et.al.|[2411.12682](http://arxiv.org/abs/2411.12682)|null|
-|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
-|**2024-11-19**|**OrigamiPlot: An R Package and Shiny Web App Enhanced Visualizations for Multivariate Data**|Yiwen Lu et.al.|[2411.12674](http://arxiv.org/abs/2411.12674)|null|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
+|**2024-11-20**|**Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm**|Rushabh Solanki et.al.|[2411.13546](http://arxiv.org/abs/2411.13546)|null|
+|**2024-11-20**|**Pushing the Limits of Sparsity: A Bag of Tricks for Extreme Pruning**|Andy Li et.al.|[2411.13545](http://arxiv.org/abs/2411.13545)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Circular Economy Design through System Dynamics Modeling**|Federico Zocco et.al.|[2411.13540](http://arxiv.org/abs/2411.13540)|null|
+|**2024-11-20**|**When the Gromov-Hausdorff distance between finite-dimensional space and its subset is finite?**|I. N. Mikhailov et.al.|[2411.13539](http://arxiv.org/abs/2411.13539)|null|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
+|**2024-11-20**|**A Distributed-memory Tridiagonal Solver Based on a Specialised Data Structure Optimised for CPU and GPU Architectures**|Semih Akkurt et.al.|[2411.13532](http://arxiv.org/abs/2411.13532)|null|
+|**2024-11-20**|**Quantum Attention for Vision Transformers in High Energy Physics**|Alessandro Tesi et.al.|[2411.13520](http://arxiv.org/abs/2411.13520)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -58,16 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Conformal Prediction for Hierarchical Data**|Guillaume Principato et.al.|[2411.13479](http://arxiv.org/abs/2411.13479)|null|
+|**2024-11-20**|**SynEHRgy: Synthesizing Mixed-Type Structured Electronic Health Records using Decoder-Only Transformers**|Hojjat Karami et.al.|[2411.13428](http://arxiv.org/abs/2411.13428)|null|
+|**2024-11-20**|**Transformers with Sparse Attention for Granger Causality**|Riya Mahesh et.al.|[2411.13264](http://arxiv.org/abs/2411.13264)|null|
+|**2024-11-20**|**Separation of periodic orbits in the delay embedded space of chaotic attractors**|Prerna Patil et.al.|[2411.13103](http://arxiv.org/abs/2411.13103)|null|
+|**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|null|
 |**2024-11-19**|**Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis**|Kazi Hasibul Kabir et.al.|[2411.12667](http://arxiv.org/abs/2411.12667)|null|
 |**2024-11-19**|**Smart Predict-then-Optimize Method with Dependent Data: Risk Bounds and Calibration of Autoregression**|Jixian Liu et.al.|[2411.12653](http://arxiv.org/abs/2411.12653)|null|
 |**2024-11-19**|**A data driven approach to classify descriptors based on their efficiency in translating noisy trajectories into physically-relevant information**|Simone Martino et.al.|[2411.12570](http://arxiv.org/abs/2411.12570)|**[link](https://github.com/GMPavanLab/Descriptors)**|
 |**2024-11-19**|**Ichnos: A Carbon Footprint Estimator for Scientific Workflows**|Kathleen West et.al.|[2411.12456](http://arxiv.org/abs/2411.12456)|null|
 |**2024-11-19**|**Using time series to identify strongly-lensed gravitational waves with deep learning**|Arthur Offermans et.al.|[2411.12453](http://arxiv.org/abs/2411.12453)|null|
-|**2024-11-19**|**Nonstationary functional time series forecasting**|Han Lin Shang et.al.|[2411.12423](http://arxiv.org/abs/2411.12423)|null|
-|**2024-11-19**|**Different PCA approaches for vector functional time series with applications to resistive switching processes**|C. Acal et.al.|[2411.12366](http://arxiv.org/abs/2411.12366)|null|
-|**2024-11-19**|**O-MAGIC: Online Change-Point Detection for Dynamic Systems**|Yan Sun et.al.|[2411.12277](http://arxiv.org/abs/2411.12277)|null|
-|**2024-11-19**|**A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data**|Mohammad Loni et.al.|[2411.12274](http://arxiv.org/abs/2411.12274)|null|
-|**2024-11-19**|**Superposition of interacting stochastic processes with memory and its application to biological data**|Hidekazu Yoshioka et.al.|[2411.12272](http://arxiv.org/abs/2411.12272)|null|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -75,16 +75,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
+|**2024-11-20**|**AIDBench: A benchmark for evaluating the authorship identification capability of large language models**|Zichen Wen et.al.|[2411.13226](http://arxiv.org/abs/2411.13226)|null|
+|**2024-11-20**|**Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems**|Hongliu Cao et.al.|[2411.13173](http://arxiv.org/abs/2411.13173)|null|
+|**2024-11-20**|**Unlocking Historical Clinical Trial Data with ALIGN: A Compositional Large Language Model System for Medical Coding**|Nabeel Seedat et.al.|[2411.13163](http://arxiv.org/abs/2411.13163)|null|
+|**2024-11-20**|**DMQR-RAG: Diverse Multi-Query Rewriting for RAG**|Zhicong Li et.al.|[2411.13154](http://arxiv.org/abs/2411.13154)|null|
+|**2024-11-20**|**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**|Yongdong Luo et.al.|[2411.13093](http://arxiv.org/abs/2411.13093)|**[link](https://github.com/leon1207/video-rag-master)**|
 |**2024-11-19**|**CodeXEmbed: A Generalist Embedding Model Family for Multiligual and Multi-task Code Retrieval**|Ye Liu et.al.|[2411.12644](http://arxiv.org/abs/2411.12644)|null|
 |**2024-11-19**|**CUE-M: Contextual Understanding and Enhanced Search with Multimodal Large Language Model**|Dongyoung Go et.al.|[2411.12287](http://arxiv.org/abs/2411.12287)|null|
 |**2024-11-19**|**Large Language Models for Material Property Predictions: elastic constant tensor prediction and materials design**|Siyu Liu et.al.|[2411.12280](http://arxiv.org/abs/2411.12280)|null|
-|**2024-11-17**|**On-Board Vision-Language Models for Personalized Autonomous Vehicle Motion Control: System Design and Real-World Validation**|Can Cui et.al.|[2411.11913](http://arxiv.org/abs/2411.11913)|null|
 |**2024-11-18**|**SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models**|Muhammad Fadhil Ginting et.al.|[2411.11323](http://arxiv.org/abs/2411.11323)|null|
-|**2024-11-17**|**LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection**|Danial Abshari et.al.|[2411.10918](http://arxiv.org/abs/2411.10918)|null|
-|**2024-11-16**|**Empowering Meta-Analysis: Leveraging Large Language Models for Scientific Synthesis**|Jawad Ibn Ahad et.al.|[2411.10878](http://arxiv.org/abs/2411.10878)|**[link](https://github.com/EncryptedBinary/Meta_analysis)**|
-|**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607](http://arxiv.org/abs/2411.09607)|null|
-|**2024-11-14**|**Adopting RAG for LLM-Aided Future Vehicle Design**|Vahid Zolfaghari et.al.|[2411.09590](http://arxiv.org/abs/2411.09590)|null|
-|**2024-11-14**|**Harnessing multiple LLMs for Information Retrieval: A case study on Deep Learning methodologies in Biodiversity publications**|Vamsi Krishna Kommineni et.al.|[2411.09269](http://arxiv.org/abs/2411.09269)|**[link](https://github.com/fusion-jena/information-retrieval-using-multiple-llm-and-rag)**|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -92,16 +92,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
-|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
-|**2024-11-19**|**When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations**|Huaizhi Ge et.al.|[2411.12701](http://arxiv.org/abs/2411.12701)|null|
-|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
-|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
-|**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671](http://arxiv.org/abs/2411.12671)|null|
-|**2024-11-19**|**DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models**|Vinay Kumar Sankarapu et.al.|[2411.12643](http://arxiv.org/abs/2411.12643)|**[link](https://github.com/aryaxai/dlbacktrace)**|
-|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
-|**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
-|**2024-11-19**|**Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models**|Laura Ruis et.al.|[2411.12580](http://arxiv.org/abs/2411.12580)|**[link](https://github.com/pomonam/kronfluence)**|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
+|**2024-11-20**|**Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm**|Rushabh Solanki et.al.|[2411.13546](http://arxiv.org/abs/2411.13546)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459](http://arxiv.org/abs/2411.13459)|null|
+|**2024-11-20**|**WaterPark: A Robustness Assessment of Language Model Watermarking**|Jiacheng Liang et.al.|[2411.13425](http://arxiv.org/abs/2411.13425)|null|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -109,16 +109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
+|**2024-11-20**|**Using ChatGPT-4 for the Identification of Common UX Factors within a Pool of Measurement Items from Established UX Questionnaires**|Stefan Graser et.al.|[2411.13118](http://arxiv.org/abs/2411.13118)|null|
+|**2024-11-20**|**Breaking the Cycle of Recurring Failures: Applying Generative AI to Root Cause Analysis in Legacy Banking Systems**|Siyuan Jin et.al.|[2411.13017](http://arxiv.org/abs/2411.13017)|null|
+|**2024-11-19**|**Narrative Information Theory**|Lion Schulz et.al.|[2411.12907](http://arxiv.org/abs/2411.12907)|null|
 |**2024-11-19**|**Dimensions of Generative AI Evaluation Design**|P. Alex Dow et.al.|[2411.12709](http://arxiv.org/abs/2411.12709)|null|
 |**2024-11-19**|**Human-AI Co-Creativity: Exploring Synergies Across Levels of Creative Collaboration**|Jennifer Haase et.al.|[2411.12527](http://arxiv.org/abs/2411.12527)|null|
 |**2024-11-19**|**A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data**|Mohammad Loni et.al.|[2411.12274](http://arxiv.org/abs/2411.12274)|null|
 |**2024-11-19**|**A Computational Method for Measuring "Open Codes" in Qualitative Analysis**|John Chen et.al.|[2411.12142](http://arxiv.org/abs/2411.12142)|null|
 |**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
 |**2024-11-18**|**Chapter 7 Review of Data-Driven Generative AI Models for Knowledge Extraction from Scientific Literature in Healthcare**|Leon Kopitar et.al.|[2411.11635](http://arxiv.org/abs/2411.11635)|null|
-|**2024-11-18**|**Alien Recombination: Exploring Concept Blends Beyond Human Cognitive Availability in Visual Art**|Alejandro Hernandez et.al.|[2411.11494](http://arxiv.org/abs/2411.11494)|null|
-|**2024-11-19**|**SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI**|Kui Ren et.al.|[2411.11478](http://arxiv.org/abs/2411.11478)|null|
-|**2024-11-17**|**From 2D Document Interactions into Immersive Information Experience: An Example-Based Design by Augmenting Content, Spatializing Placement, Enriching Long-Term Interactions, and Simplifying Content Creations**|Chen Chen et.al.|[2411.11145](http://arxiv.org/abs/2411.11145)|null|
-|**2024-11-17**|**StableV2V: Stablizing Shape Consistency in Video-to-Video Editing**|Chang Liu et.al.|[2411.11045](http://arxiv.org/abs/2411.11045)|**[link](https://github.com/alonzoleeeooo/stablev2v)**|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -126,16 +126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
-|**2024-11-19**|**Reinforcement Learning, Collusion, and the Folk Theorem**|Galit Askenazi-Golan et.al.|[2411.12725](http://arxiv.org/abs/2411.12725)|null|
-|**2024-11-19**|**UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments**|Chunru Lin et.al.|[2411.12711](http://arxiv.org/abs/2411.12711)|null|
-|**2024-11-19**|**Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study**|Shuangyi Wang et.al.|[2411.12478](http://arxiv.org/abs/2411.12478)|null|
-|**2024-11-19**|**Emergence of Implicit World Models from Mortal Agents**|Kazuya Horibe et.al.|[2411.12304](http://arxiv.org/abs/2411.12304)|null|
-|**2024-11-19**|**DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing**|Sunday Amatare et.al.|[2411.12284](http://arxiv.org/abs/2411.12284)|null|
-|**2024-11-19**|**Efficient Training in Multi-Agent Reinforcement Learning: A Communication-Free Framework for the Box-Pushing Problem**|David Ge et.al.|[2411.12246](http://arxiv.org/abs/2411.12246)|null|
-|**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|**[link](https://github.com/sygogo/alignment_beamlines_rl)**|
-|**2024-11-19**|**SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks**|Yongyan Wen et.al.|[2411.12173](http://arxiv.org/abs/2411.12173)|null|
-|**2024-11-19**|**Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning**|Younggyo Seo et.al.|[2411.12155](http://arxiv.org/abs/2411.12155)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
+|**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
+|**2024-11-20**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-20**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
+|**2024-11-20**|**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**|Johannes Pitz et.al.|[2411.13148](http://arxiv.org/abs/2411.13148)|null|
+|**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
@@ -143,16 +143,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394](http://arxiv.org/abs/2411.13394)|null|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|null|
+|**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000](http://arxiv.org/abs/2411.13000)|null|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697](http://arxiv.org/abs/2411.12697)|null|
 |**2024-11-19**|**Non-IID data in Federated Learning: A Systematic Review with Taxonomy, Metrics, Methods, Frameworks and Future Directions**|Daniel M. Jimenez G. et.al.|[2411.12377](http://arxiv.org/abs/2411.12377)|null|
 |**2024-11-19**|**Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism**|Yasaman Saadati et.al.|[2411.12244](http://arxiv.org/abs/2411.12244)|null|
 |**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220](http://arxiv.org/abs/2411.12220)|null|
 |**2024-11-18**|**Federated Contrastive Learning of Graph-Level Representations**|Xiang Li et.al.|[2411.12098](http://arxiv.org/abs/2411.12098)|null|
-|**2024-11-17**|**F $^3$ OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**|Pramit Saha et.al.|[2411.11912](http://arxiv.org/abs/2411.11912)|null|
 |**2024-11-18**|**A Potential Game Perspective in Federated Learning**|Kang Liu et.al.|[2411.11793](http://arxiv.org/abs/2411.11793)|**[link](https://github.com/DCN-FAU-AvH/FL-Potential-Game)**|
 |**2024-11-19**|**Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors**|Shovito Barua Soumma et.al.|[2411.11764](http://arxiv.org/abs/2411.11764)|null|
-|**2024-11-18**|**FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning**|Zhenyu Wen et.al.|[2411.11713](http://arxiv.org/abs/2411.11713)|null|
-|**2024-11-18**|**Toward Personalized Federated Node Classification in One-shot Communication**|Guochen Yan et.al.|[2411.11304](http://arxiv.org/abs/2411.11304)|null|
 
 <p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
 
