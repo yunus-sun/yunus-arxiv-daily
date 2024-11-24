@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -23,7 +23,7 @@ layout: default
 |**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403](http://arxiv.org/abs/2411.14403)|null|
 |**2024-11-21**|**Discrete Schrodinger equation on graphs: An effective model for branched quantum lattice**|M. Akramov et.al.|[2411.14397](http://arxiv.org/abs/2411.14397)|null|
 |**2024-11-21**|**Securing Legacy Communication Networks via Authenticated Cyclic Redundancy Integrity Check**|Alessandro Lotto et.al.|[2411.14394](http://arxiv.org/abs/2411.14394)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 
 ## Data Center
 
@@ -53,7 +53,7 @@ layout: default
 |**2024-11-20**|**Conformal Prediction for Hierarchical Data**|Guillaume Principato et.al.|[2411.13479](http://arxiv.org/abs/2411.13479)|null|
 |**2024-11-20**|**SynEHRgy: Synthesizing Mixed-Type Structured Electronic Health Records using Decoder-Only Transformers**|Hojjat Karami et.al.|[2411.13428](http://arxiv.org/abs/2411.13428)|null|
 |**2024-11-20**|**Transformers with Sparse Attention for Granger Causality**|Riya Mahesh et.al.|[2411.13264](http://arxiv.org/abs/2411.13264)|null|
-|**2024-11-20**|**Separation of periodic orbits in the delay embedded space of chaotic attractors**|Prerna Patil et.al.|[2411.13103](http://arxiv.org/abs/2411.13103)|null|
+|**2024-11-20**|**Separation of periodic orbits in the delay embedded space of chaotic attractors**|Prerna Patil et.al.|[2411.13103](http://arxiv.org/abs/2411.13103)|**[link](https://github.com/prernampatil/unstableperiodicorbits)**|
 
 ## RAG
 
