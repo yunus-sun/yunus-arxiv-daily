@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-11-22**|**Somesite I Used To Crawl: Awareness, Agency and Efficacy in Protecting Content Creators From AI Crawlers**|Enze Liu et.al.|[2411.15091](http://arxiv.org/abs/2411.15091)|null|
 |**2024-11-22**|**Towards Speaker Identification with Minimal Dataset and Constrained Resources using 1D-Convolution Neural Network**|Irfan Nafiz Shahan et.al.|[2411.15082](http://arxiv.org/abs/2411.15082)|**[link](https://github.com/irfannafiz/recme)**|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-11-12**|**ElectricityEmissions.jl: A Framework for the Comparison of Carbon Intensity Signals**|Joe Gorka et.al.|[2411.06560](http://arxiv.org/abs/2411.06560)|**[link](https://github.com/wispo-pop/electricityemissions.jl)**|
 |**2024-11-08**|**Do Data Center Network Metrics Predict Application-Facing Performance?**|Brian Chang et.al.|[2411.06004](http://arxiv.org/abs/2411.06004)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-11-21**|**Robust Energy System Design via Semi-infinite Programming**|Moritz Wedemeyer et.al.|[2411.14320](http://arxiv.org/abs/2411.14320)|null|
 |**2024-11-21**|**A Bayesian mixture model for Poisson network autoregression**|Elly Hung et.al.|[2411.14265](http://arxiv.org/abs/2411.14265)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405](http://arxiv.org/abs/2411.13405)|null|
 |**2024-11-20**|**AIDBench: A benchmark for evaluating the authorship identification capability of large language models**|Zichen Wen et.al.|[2411.13226](http://arxiv.org/abs/2411.13226)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
 |**2024-11-22**|**Generative AI may backfire for counterspeech**|Dominik Bär et.al.|[2411.14986](http://arxiv.org/abs/2411.14986)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-11-21**|**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**|Jordan Vice et.al.|[2411.13982](http://arxiv.org/abs/2411.13982)|null|
 |**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
 |**2024-11-21**|**Learning Autonomous Surgical Irrigation and Suction with the da Vinci Research Kit Using Reinforcement Learning**|Yafei Ou et.al.|[2411.14622](http://arxiv.org/abs/2411.14622)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-11-21**|**Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel**|Jaeyoung Song et.al.|[2411.13861](http://arxiv.org/abs/2411.13861)|null|
 |**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394](http://arxiv.org/abs/2411.13394)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
