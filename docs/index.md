@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -19,7 +19,7 @@ layout: default
 |**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
-|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianle iHuang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
+|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
 |**2024-11-25**|**Emergence of the 3D diluted Ising model universality class in a mixture of two magnets**|J. J. Ruiz-Lorenzo et.al.|[2411.16659](http://arxiv.org/abs/2411.16659)|null|
 |**2024-11-25**|**Fast training of large kernel models with delayed projections**|Amirhesam Abedsoltan et.al.|[2411.16658](http://arxiv.org/abs/2411.16658)|null|
 |**2024-11-25**|**Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters**|Dietmar Jannach et.al.|[2411.16645](http://arxiv.org/abs/2411.16645)|null|
@@ -124,7 +124,7 @@ layout: default
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442](http://arxiv.org/abs/2411.16442)|**[link](https://github.com/ai-tech-research-lab/tifed)**|
 |**2024-11-25**|**Privacy-Preserving Federated Foundation Model for Generalist Ultrasound Artificial Intelligence**|Yuncheng Jiang et.al.|[2411.16380](http://arxiv.org/abs/2411.16380)|null|
 |**2024-11-25**|**Understanding Generalization of Federated Learning: the Trade-off between Model Stability and Optimization**|Dun Zeng et.al.|[2411.16303](http://arxiv.org/abs/2411.16303)|null|
-|**2024-11-25**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
+|**2024-11-26**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
 |**2024-11-25**|**An Empirical Study of Vulnerability Detection using Federated Learning**|Peiheng Zhou et.al.|[2411.16099](http://arxiv.org/abs/2411.16099)|null|
 |**2024-11-24**|**eFedLLM: Efficient LLM Inference Based on Federated Learning**|Shengwen Ding et.al.|[2411.16003](http://arxiv.org/abs/2411.16003)|null|
 |**2024-11-24**|**FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation**|Jiawen Weng et.al.|[2411.15847](http://arxiv.org/abs/2411.15847)|null|
