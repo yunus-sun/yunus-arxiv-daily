@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.29
+## Updated on 2024.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-11-27**|**Non-reciprocal BD-RIS in Full-duplex Communications: A Perspective on Sum-rate Maximization**|Ziang Liu et.al.|[2411.18523](http://arxiv.org/abs/2411.18523)|null|
 |**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520](http://arxiv.org/abs/2411.18520)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-11-21**|**DCSim: Computing and Networking Integration based Container Scheduling Simulator for Data Centers**|Jinlong Hu et.al.|[2411.13809](http://arxiv.org/abs/2411.13809)|null|
 |**2024-11-18**|**SpiderDAN: Matching Augmentation in Demand-Aware Networks**|Aleksander Figiel et.al.|[2411.11426](http://arxiv.org/abs/2411.11426)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-11-27**|**Causal and Local Correlations Based Network for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.18008](http://arxiv.org/abs/2411.18008)|null|
 |**2024-11-26**|**Enhancing Project Performance Forecasting using Machine Learning Techniques**|Soheila Sadeghi et.al.|[2411.17914](http://arxiv.org/abs/2411.17914)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-11-25**|**Context Awareness Gate For Retrieval Augmented Generation**|Mohammad Hassan Heydari et.al.|[2411.16133](http://arxiv.org/abs/2411.16133)|**[link](https://github.com/heydaari/CAG)**|
 |**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700](http://arxiv.org/abs/2411.15700)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-11-27**|**ChatGPT as speechwriter for the French presidents**|Dominique Labbé et.al.|[2411.18382](http://arxiv.org/abs/2411.18382)|null|
 |**2024-11-27**|**GPT as ghostwriter at the White House**|Jacques Savoy et.al.|[2411.18365](http://arxiv.org/abs/2411.18365)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-11-26**|**"Give me the code" -- Log Analysis of First-Year CS Students' Interactions With GPT**|Pedro Alves et.al.|[2411.17855](http://arxiv.org/abs/2411.17855)|null|
 |**2024-11-26**|**AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments**|Haitham S. Al-Sinani et.al.|[2411.17539](http://arxiv.org/abs/2411.17539)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/sias-uva/mo-transport-network-design)**|
 |**2024-11-27**|**ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System**|Rahul Pandey et.al.|[2411.18060](http://arxiv.org/abs/2411.18060)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442](http://arxiv.org/abs/2411.16442)|**[link](https://github.com/ai-tech-research-lab/tifed)**|
 |**2024-11-25**|**Privacy-Preserving Federated Foundation Model for Generalist Ultrasound Artificial Intelligence**|Yuncheng Jiang et.al.|[2411.16380](http://arxiv.org/abs/2411.16380)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
