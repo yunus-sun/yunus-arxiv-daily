@@ -20,7 +20,7 @@ layout: default
 |**2024-11-27**|**Pruning Deep Convolutional Neural Network Using Conditional Mutual Information**|Tien Vu-Van et.al.|[2411.18578](http://arxiv.org/abs/2411.18578)|null|
 |**2024-11-27**|**On Importance of Code-Mixed Embeddings for Hate Speech Identification**|Shruti Jagdale et.al.|[2411.18577](http://arxiv.org/abs/2411.18577)|null|
 |**2024-11-27**|**The joint distribution of first return times and of the number of distinct sites visited by a 1D random walk before returning to the origin**|Mordechai Gruda et.al.|[2411.18576](http://arxiv.org/abs/2411.18576)|null|
-|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|null|
+|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|**[link](https://github.com/amal-alphonse/nnvi)**|
 |**2024-11-27**|**Ground-State Preparation of the Fermi-Hubbard Model on a Quantum Computer with 2D Topology via Quantum Eigenvalue Transformation of Unitary Matrices**|Thilo R. Müller et.al.|[2411.18535](http://arxiv.org/abs/2411.18535)|null|
 |**2024-11-27**|**Non-reciprocal BD-RIS in Full-duplex Communications: A Perspective on Sum-rate Maximization**|Ziang Liu et.al.|[2411.18523](http://arxiv.org/abs/2411.18523)|null|
 |**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520](http://arxiv.org/abs/2411.18520)|null|
@@ -93,10 +93,10 @@ layout: default
 |**2024-11-27**|**SoK: Watermarking for AI-Generated Content**|Xuandong Zhao et.al.|[2411.18479](http://arxiv.org/abs/2411.18479)|null|
 |**2024-11-27**|**Personalized Generative AI in VR for Enhanced Engagement: Eye-Tracking Insights into Cultural Heritage Learning through Neapolitan Pizza Making**|Ka Hei Carrie Lau et.al.|[2411.18438](http://arxiv.org/abs/2411.18438)|null|
 |**2024-11-27**|**ChatGPT as speechwriter for the French presidents**|Dominique Labbé et.al.|[2411.18382](http://arxiv.org/abs/2411.18382)|null|
-|**2024-11-27**|**Feature-Factory: Automating Software Feature Integration Using Generative AI**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2411.18226](http://arxiv.org/abs/2411.18226)|null|
+|**2024-11-27**|**Feature-Factory: Automating Software Feature Integration Using Generative AI**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2411.18226](http://arxiv.org/abs/2411.18226)|**[link](https://github.com/ruslanmv/factory-feature)**|
 |**2024-11-27**|**Generative Semantic Communication for Joint Image Transmission and Segmentation**|Weiwen Yuan et.al.|[2411.18005](http://arxiv.org/abs/2411.18005)|null|
 |**2024-11-26**|**Evaluating Generative AI-Enhanced Content: A Conceptual Framework Using Qualitative, Quantitative, and Mixed-Methods Approaches**|Saman Sarraf et.al.|[2411.17943](http://arxiv.org/abs/2411.17943)|null|
-|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|null|
+|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|**[link](https://github.com/syyunn/finrl-dt)**|
 |**2024-11-26**|**"Give me the code" -- Log Analysis of First-Year CS Students' Interactions With GPT**|Pedro Alves et.al.|[2411.17855](http://arxiv.org/abs/2411.17855)|null|
 |**2024-11-26**|**AI-Augmented Ethical Hacking: A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments**|Haitham S. Al-Sinani et.al.|[2411.17539](http://arxiv.org/abs/2411.17539)|null|
 
@@ -112,7 +112,7 @@ layout: default
 |**2024-11-27**|**Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management**|Mohit Apte et.al.|[2411.18261](http://arxiv.org/abs/2411.18261)|null|
 |**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
-|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/sias-uva/mo-transport-network-design)**|
+|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/dimichai/mo-tndp)**|
 |**2024-11-27**|**ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System**|Rahul Pandey et.al.|[2411.18060](http://arxiv.org/abs/2411.18060)|null|
 
 ## Federated Learning
