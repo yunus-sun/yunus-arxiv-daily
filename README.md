@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-12-12**|**Omnidirectional shuttling to avoid valley excitations in Si/SiGe quantum wells**|Róbert Németh et.al.|[2412.09574](http://arxiv.org/abs/2412.09574)|null|
 |**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567](http://arxiv.org/abs/2412.09567)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-12-06**|**Optimizing Quantum Communication for Quantum Data Centers with Reconfigurable Networks**|Hezi Zhang et.al.|[2412.04837](http://arxiv.org/abs/2412.04837)|null|
 |**2024-12-06**|**A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges**|Aditi Singh et.al.|[2412.04782](http://arxiv.org/abs/2412.04782)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-12-12**|**Federated Foundation Models on Heterogeneous Time Series**|Shengchao Chen et.al.|[2412.08906](http://arxiv.org/abs/2412.08906)|**[link](https://github.com/shengchaochen82/FFTS)**|
 |**2024-12-12**|**Quantum Kernel-Based Long Short-term Memory for Climate Time-Series Forecasting**|Yu-Chao Hsu et.al.|[2412.08851](http://arxiv.org/abs/2412.08851)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
 |**2024-12-10**|**Automatic Database Configuration Debugging using Retrieval-Augmented Language Models**|Sibei Chen et.al.|[2412.07548](http://arxiv.org/abs/2412.07548)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-12-12**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565](http://arxiv.org/abs/2412.09565)|null|
 |**2024-12-12**|**Does Representation Matter? Exploring Intermediate Layers in Large Language Models**|Oscar Skean et.al.|[2412.09563](http://arxiv.org/abs/2412.09563)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-12-11**|**LatentSpeech: Latent Diffusion for Text-To-Speech Generation**|Haowei Lou et.al.|[2412.08117](http://arxiv.org/abs/2412.08117)|null|
 |**2024-12-10**|**Automating Business Intelligence Requirements with Generative AI and Semantic Search**|Nimrod Busany et.al.|[2412.07668](http://arxiv.org/abs/2412.07668)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-12-12**|**Reasoning-Aware Query-Focused Summarization over Multi-Table Data**|Xiaochuan Lin et.al.|[2412.08970](http://arxiv.org/abs/2412.08970)|null|
 |**2024-12-12**|**From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning**|Pusen Dong et.al.|[2412.08920](http://arxiv.org/abs/2412.08920)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054](http://arxiv.org/abs/2412.08054)|null|
 |**2024-12-11**|**dsLassoCov: a federated machine learning approach incorporating covariate control**|Han Cao et.al.|[2412.07991](http://arxiv.org/abs/2412.07991)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
