@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-12-13**|**Analysis and suppression of errors in quantum random access memory errors under extended noise models**|Rohan Mehta et.al.|[2412.10318](http://arxiv.org/abs/2412.10318)|null|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308](http://arxiv.org/abs/2412.10308)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-12-06**|**NebulaFL: Effective Asynchronous Federated Learning for JointCloud Computing**|Fei Gao et.al.|[2412.04868](http://arxiv.org/abs/2412.04868)|null|
 |**2024-12-06**|**Optimizing Quantum Communication for Quantum Data Centers with Reconfigurable Networks**|Hezi Zhang et.al.|[2412.04837](http://arxiv.org/abs/2412.04837)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Time Series
 
@@ -64,12 +64,12 @@
 |**2024-12-13**|**PAStar: a model for stellar surface from the Sun to active stars**|Antonino Petralia et.al.|[2412.10035](http://arxiv.org/abs/2412.10035)|null|
 |**2024-12-13**|**Dissipation-induced Quantum Homogenization for Temporal Information Processing**|Alexander Yosifov et.al.|[2412.09979](http://arxiv.org/abs/2412.09979)|null|
 |**2024-12-13**|**Semi-Periodic Activation for Time Series Classification**|José Gilberto Barbosa de Medeiros Júnior et.al.|[2412.09889](http://arxiv.org/abs/2412.09889)|**[link](https://github.com/jose-gilberto/leakysinelu)**|
-|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880](http://arxiv.org/abs/2412.09880)|null|
+|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880](http://arxiv.org/abs/2412.09880)|**[link](https://github.com/pfnet-research/timesfm_fin)**|
 |**2024-12-13**|**Multivariate Time Series Clustering for Environmental State Characterization of Ground-Based Gravitational-Wave Detectors**|Rutuja Gurav et.al.|[2412.09832](http://arxiv.org/abs/2412.09832)|null|
 |**2024-12-13**|**Sequential Change Point Detection in High-dimensional Vector Auto-regressive Models**|Yuhan Tian et.al.|[2412.09794](http://arxiv.org/abs/2412.09794)|null|
 |**2024-12-13**|**Flexible Bayesian Nonparametric Product Mixtures for Multi-scale Functional Clustering**|Tsung-Hung Yao et.al.|[2412.09792](http://arxiv.org/abs/2412.09792)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687](http://arxiv.org/abs/2412.07687)|null|
 |**2024-12-10**|**OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations**|Linke Ouyang et.al.|[2412.07626](http://arxiv.org/abs/2412.07626)|**[link](https://github.com/opendatalab/OmniDocBench)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-12-13**|**Does Multiple Choice Have a Future in the Age of Generative AI? A Posttest-only RCT**|Danielle R. Thomas et.al.|[2412.10267](http://arxiv.org/abs/2412.10267)|**[link](https://github.com/cmu-plus/lak2025-advocacy)**|
 |**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266](http://arxiv.org/abs/2412.10266)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-12-12**|**MindScratch: A Visual Programming Support Tool for Classroom Learning Based on Multimodal Generative AI**|Yunnong Chen et.al.|[2412.09001](http://arxiv.org/abs/2412.09001)|null|
 |**2024-12-11**|**In-Context Learning with Topological Information for Knowledge Graph Completion**|Udari Madhushani Sehwag et.al.|[2412.08742](http://arxiv.org/abs/2412.08742)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -135,15 +135,15 @@
 |**2024-12-13**|**RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning**|Charles Xu et.al.|[2412.09858](http://arxiv.org/abs/2412.09858)|null|
 |**2024-12-13**|**ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression**|Kai Yao et.al.|[2412.09812](http://arxiv.org/abs/2412.09812)|null|
 |**2024-12-12**|**GainAdaptor: Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains**|Mincheol Kim et.al.|[2412.09520](http://arxiv.org/abs/2412.09520)|null|
-|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466](http://arxiv.org/abs/2412.09466)|null|
+|**2024-12-12**|**Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles**|Xi Lin et.al.|[2412.09466](http://arxiv.org/abs/2412.09466)|**[link](https://github.com/RobustFieldAutonomyLab/Distributional_RL_Decision_and_Control)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Federated Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|null|
+|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|**[link](https://github.com/pechen123/2dbn_learning)**|
 |**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259](http://arxiv.org/abs/2412.09259)|null|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
 |**2024-12-12**|**Predicting Quality of Video Gaming Experience Using Global-Scale Telemetry Data and Federated Learning**|Zhongyang Zhang et.al.|[2412.08950](http://arxiv.org/abs/2412.08950)|null|
@@ -154,7 +154,7 @@
 |**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071](http://arxiv.org/abs/2412.08071)|null|
 |**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054](http://arxiv.org/abs/2412.08054)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
