@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-12-18**|**On the Use of Abundant Road Speed Data for Travel Demand Calibration of Urban Traffic Simulators**|Suyash Vishnoi et.al.|[2412.14089](http://arxiv.org/abs/2412.14089)|null|
 |**2024-12-18**|**SEKE: Specialised Experts for Keyword Extraction**|Matej Martinc et.al.|[2412.14087](http://arxiv.org/abs/2412.14087)|**[link](https://github.com/matejmartinc/seke_keyword_extraction)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,13 +52,13 @@
 |**2024-12-13**|**LAVA: Lifetime-Aware VM Allocation with Learned Distributions and Adaptation to Mispredictions**|Jianheng Ling et.al.|[2412.09840](http://arxiv.org/abs/2412.09840)|null|
 |**2024-12-11**|**Empirical Measurements of AI Training Power Demand on a GPU-Accelerated Node**|Imran Latif et.al.|[2412.08602](http://arxiv.org/abs/2412.08602)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|**[link](https://github.com/malayp717/pm2.5)**|
 |**2024-12-18**|**Benchmarking Quantum Models for Time-series Forecasting**|Caitlin Jones et.al.|[2412.13878](http://arxiv.org/abs/2412.13878)|null|
 |**2024-12-18**|**QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning**|Hari Hara Suthan Chittoor et.al.|[2412.13769](http://arxiv.org/abs/2412.13769)|**[link](https://github.com/chariharasuthan/qultsf)**|
 |**2024-12-18**|**Optimal Spatiotemporal Resolutions**|Domiziano Doria et.al.|[2412.13741](http://arxiv.org/abs/2412.13741)|null|
@@ -69,7 +69,7 @@
 |**2024-12-17**|**Dual Interpretation of Machine Learning Forecasts**|Philippe Goulet Coulombe et.al.|[2412.13076](http://arxiv.org/abs/2412.13076)|null|
 |**2024-12-17**|**The Temporal Vadalog System: Temporal Datalog-based Reasoning**|Luigi Bellomarini et.al.|[2412.13019](http://arxiv.org/abs/2412.13019)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## RAG
 
@@ -81,12 +81,12 @@
 |**2024-12-18**|**Designing an LLM-Based Copilot for Manufacturing Equipment Selection**|Jonas Werheid et.al.|[2412.13774](http://arxiv.org/abs/2412.13774)|null|
 |**2024-12-18**|**RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment**|Zhuoran Jin et.al.|[2412.13746](http://arxiv.org/abs/2412.13746)|**[link](https://github.com/jinzhuoran/rag-rewardbench)**|
 |**2024-12-18**|**Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models**|Jincheol Jung et.al.|[2412.13720](http://arxiv.org/abs/2412.13720)|null|
-|**2024-12-18**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
+|**2024-12-19**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
 |**2024-12-18**|**EvoWiki: Evaluating LLMs on Evolving Knowledge**|Wei Tang et.al.|[2412.13582](http://arxiv.org/abs/2412.13582)|null|
-|**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
+|**2024-12-18**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
 |**2024-12-17**|**OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain**|Shuting Wang et.al.|[2412.13018](http://arxiv.org/abs/2412.13018)|**[link](https://github.com/ruc-nlpir/omnieval)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
 |**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056](http://arxiv.org/abs/2412.14056)|**[link](https://github.com/shilinsun/mxai_review)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-12-17**|**Optimized two-stage AI-based Neural Decoding for Enhanced Visual Stimulus Reconstruction from fMRI Data**|Lorenzo Veronese et.al.|[2412.13237](http://arxiv.org/abs/2412.13237)|null|
 |**2024-12-17**|**Equity in the Use of ChatGPT for the Classroom: A Comparison of the Accuracy and Precision of ChatGPT 3.5 vs. ChatGPT4 with Respect to Statistics and Data Science Exams**|Monnie McGee et.al.|[2412.13116](http://arxiv.org/abs/2412.13116)|**[link](https://github.com/BivinSadler/generativeAIEquityStudy)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-12-18**|**A hybrid learning agent for episodic learning tasks with unknown target distance**|Oliver Sefrin et.al.|[2412.13686](http://arxiv.org/abs/2412.13686)|null|
 |**2024-12-18**|**When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?**|Tongzhou Mu et.al.|[2412.13662](http://arxiv.org/abs/2412.13662)|**[link](https://github.com/tongzhoumu/s2v-dagger)**|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-12-18**|**Federated Unlearning Model Recovery in Data with Skewed Label Distributions**|Xinrui Yu et.al.|[2412.13466](http://arxiv.org/abs/2412.13466)|null|
 |**2024-12-17**|**Concurrent vertical and horizontal federated learning with fuzzy cognitive maps**|Jose L Salmeron et.al.|[2412.12844](http://arxiv.org/abs/2412.12844)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

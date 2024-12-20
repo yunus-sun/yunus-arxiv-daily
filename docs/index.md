@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -44,7 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|**[link](https://github.com/malayp717/pm2.5)**|
 |**2024-12-18**|**Benchmarking Quantum Models for Time-series Forecasting**|Caitlin Jones et.al.|[2412.13878](http://arxiv.org/abs/2412.13878)|null|
 |**2024-12-18**|**QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning**|Hari Hara Suthan Chittoor et.al.|[2412.13769](http://arxiv.org/abs/2412.13769)|**[link](https://github.com/chariharasuthan/qultsf)**|
 |**2024-12-18**|**Optimal Spatiotemporal Resolutions**|Domiziano Doria et.al.|[2412.13741](http://arxiv.org/abs/2412.13741)|null|
@@ -65,9 +65,9 @@ layout: default
 |**2024-12-18**|**Designing an LLM-Based Copilot for Manufacturing Equipment Selection**|Jonas Werheid et.al.|[2412.13774](http://arxiv.org/abs/2412.13774)|null|
 |**2024-12-18**|**RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment**|Zhuoran Jin et.al.|[2412.13746](http://arxiv.org/abs/2412.13746)|**[link](https://github.com/jinzhuoran/rag-rewardbench)**|
 |**2024-12-18**|**Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models**|Jincheol Jung et.al.|[2412.13720](http://arxiv.org/abs/2412.13720)|null|
-|**2024-12-18**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
+|**2024-12-19**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
 |**2024-12-18**|**EvoWiki: Evaluating LLMs on Evolving Knowledge**|Wei Tang et.al.|[2412.13582](http://arxiv.org/abs/2412.13582)|null|
-|**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
+|**2024-12-18**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
 |**2024-12-17**|**OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain**|Shuting Wang et.al.|[2412.13018](http://arxiv.org/abs/2412.13018)|**[link](https://github.com/ruc-nlpir/omnieval)**|
 
 ## Large Model
