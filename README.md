@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111](http://arxiv.org/abs/2412.16111)|null|
 |**2024-12-20**|**Performance limits of spectro-temporal unitary transformations for coherent modulation**|Callum Deakin et.al.|[2412.16110](http://arxiv.org/abs/2412.16110)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-12-13**|**LAVA: Lifetime-Aware VM Allocation with Learned Distributions and Adaptation to Mispredictions**|Jianheng Ling et.al.|[2412.09840](http://arxiv.org/abs/2412.09840)|null|
 |**2024-12-20**|**Empirical Measurements of AI Training Power Demand on a GPU-Accelerated Node**|Imran Latif et.al.|[2412.08602](http://arxiv.org/abs/2412.08602)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-12-19**|**Enhancing Masked Time-Series Modeling via Dropping Patches**|Tianyu Qiu et.al.|[2412.15315](http://arxiv.org/abs/2412.15315)|**[link](https://github.com/qityy/droppatch)**|
 |**2024-12-19**|**DroughtSet: Understanding Drought Through Spatial-Temporal Learning**|Xuwei Tan et.al.|[2412.15075](http://arxiv.org/abs/2412.15075)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-12-19**|**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation**|Zexiong Ma et.al.|[2412.14905](http://arxiv.org/abs/2412.14905)|null|
 |**2024-12-19**|**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs**|Xiabin Zhou et.al.|[2412.14838](http://arxiv.org/abs/2412.14838)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-12-20**|**The Evolution of LLM Adoption in Industry Data Curation Practices**|Crystal Qian et.al.|[2412.16089](http://arxiv.org/abs/2412.16089)|null|
 |**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-12-19**|**Beyond the Hype: A Comprehensive Review of Current Trends in Generative AI Research, Teaching Practices, and Tools**|James Prather et.al.|[2412.14732](http://arxiv.org/abs/2412.14732)|null|
 |**2024-12-19**|**Generative AI for Banks: Benchmarks and Algorithms for Synthetic Financial Transaction Data**|Fabian Sven Karst et.al.|[2412.14730](http://arxiv.org/abs/2412.14730)|**[link](https://github.com/faruman/comparison_financialdatageneration)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-12-20**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
 |**2024-12-20**|**Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge**|Hengxu Yan et.al.|[2412.15587](http://arxiv.org/abs/2412.15587)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832](http://arxiv.org/abs/2412.14832)|null|
 |**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768](http://arxiv.org/abs/2412.14768)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
