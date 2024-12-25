@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
 |**2024-12-23**|**An Investigation on the Potential of KAN in Speech Enhancement**|Haoyang Li et.al.|[2412.17778](http://arxiv.org/abs/2412.17778)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945](http://arxiv.org/abs/2412.11945)|null|
 |**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463](http://arxiv.org/abs/2412.11463)|**[link](https://github.com/danny0628/fedcar)**|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2024-12-23**|**xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition**|Artyom Stitsyuk et.al.|[2412.17323](http://arxiv.org/abs/2412.17323)|**[link](https://github.com/stitsyuk/xpatch)**|
 |**2024-12-23**|**Collaborative Optimization in Financial Data Mining Through Deep Learning and ResNeXt**|Pengbin Feng et.al.|[2412.17314](http://arxiv.org/abs/2412.17314)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2024-12-21**|**Formal Language Knowledge Corpus for Retrieval Augmented Generation**|Majd Zayyad et.al.|[2412.16689](http://arxiv.org/abs/2412.16689)|null|
 |**2024-12-21**|**TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation**|Silin Yang et.al.|[2412.16643](http://arxiv.org/abs/2412.16643)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
 |**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2024-12-21**|**From Creation to Curriculum: Examining the role of generative AI in Arts Universities**|Atticus Sims et.al.|[2412.16531](http://arxiv.org/abs/2412.16531)|null|
 |**2024-12-21**|**The Evolving Usage of GenAI by Computing Students**|Irene Hou et.al.|[2412.16453](http://arxiv.org/abs/2412.16453)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2024-12-23**|**Model-free stochastic linear quadratic design by semidefinite programming**|Jing Guo et.al.|[2412.17230](http://arxiv.org/abs/2412.17230)|null|
 |**2024-12-22**|**Fairness in Reinforcement Learning with Bisimulation Metrics**|Sahand Rezaei-Shoshtari et.al.|[2412.17123](http://arxiv.org/abs/2412.17123)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-12-21**|**Label Privacy in Split Learning for Large Models with Parameter-Efficient Training**|Philip Zmushko et.al.|[2412.16669](http://arxiv.org/abs/2412.16669)|**[link](https://github.com/p3eft-iclr-2025/p3eft-iclr-2025)**|
 |**2024-12-21**|**FedGA: Federated Learning with Gradient Alignment for Error Asymmetry Mitigation**|Chenguang Xiao et.al.|[2412.16582](http://arxiv.org/abs/2412.16582)|null|
 
-<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
