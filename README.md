@@ -24,16 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|null|
-|**2024-12-23**|**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**|Yidi Shao et.al.|[2412.17804](http://arxiv.org/abs/2412.17804)|null|
-|**2024-12-23**|**Feebly-Interacting Peccei-Quinn Model**|Wen Yin et.al.|[2412.17802](http://arxiv.org/abs/2412.17802)|null|
-|**2024-12-23**|**The generic geometry of steady state varieties**|Elisenda Feliu et.al.|[2412.17798](http://arxiv.org/abs/2412.17798)|null|
-|**2024-12-23**|**Observation Interference in Partially Observable Assistance Games**|Scott Emmons et.al.|[2412.17797](http://arxiv.org/abs/2412.17797)|null|
-|**2024-12-23**|**Memory makes computation universal, remember?**|Erik Garrison et.al.|[2412.17794](http://arxiv.org/abs/2412.17794)|null|
-|**2024-12-23**|**Distributed Estimation and Gap-Free Analysis of Canonical Correlations**|Canyi Chen et.al.|[2412.17792](http://arxiv.org/abs/2412.17792)|null|
-|**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783](http://arxiv.org/abs/2412.17783)|null|
-|**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
-|**2024-12-23**|**An Investigation on the Potential of KAN in Speech Enhancement**|Haoyang Li et.al.|[2412.17778](http://arxiv.org/abs/2412.17778)|null|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining Rates with Ruin Theory**|Mustafa Doger et.al.|[2412.18599](http://arxiv.org/abs/2412.18599)|null|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594](http://arxiv.org/abs/2412.18594)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**Uniform Additivity of Tripartite Optimized Correlation Measures**|Joshua Levin et.al.|[2412.18586](http://arxiv.org/abs/2412.18586)|null|
+|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|null|
+|**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576](http://arxiv.org/abs/2412.18576)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -58,16 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Multi-range fractional model for convective atmospheric surface-layer turbulence**|Fei-Chi Zhang et.al.|[2412.18526](http://arxiv.org/abs/2412.18526)|null|
+|**2024-12-24**|**Subsampling, aligning, and averaging to find circular coordinates in recurrent time series**|Andrew J. Blumberg et.al.|[2412.18515](http://arxiv.org/abs/2412.18515)|null|
+|**2024-12-24**|**SCKF-LSTM Based Trajectory Tracking for Electricity-Gas Integrated Energy System**|Liang Chen et.al.|[2412.18357](http://arxiv.org/abs/2412.18357)|null|
+|**2024-12-24**|**Compact Binary Coalescence Gravitational Wave Signals Counting and Separation Using UnMixFormer**|Tianyu Zhao et.al.|[2412.18259](http://arxiv.org/abs/2412.18259)|null|
+|**2024-12-24**|**Developing Cryptocurrency Trading Strategy Based on Autoencoder-CNN-GANs Algorithms**|Zhuohuan Hu et.al.|[2412.18202](http://arxiv.org/abs/2412.18202)|null|
+|**2024-12-24**|**Neural Conformal Control for Time Series Forecasting**|Ruipu Li et.al.|[2412.18144](http://arxiv.org/abs/2412.18144)|null|
+|**2024-12-23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|Prabhu Vellaisamy et.al.|[2412.17977](http://arxiv.org/abs/2412.17977)|null|
+|**2024-12-23**|**VITRO: Vocabulary Inversion for Time-series Representation Optimization**|Filippos Bellos et.al.|[2412.17921](http://arxiv.org/abs/2412.17921)|null|
 |**2024-12-23**|**On the Optimization of Singular Spectrum Analyses: A Pragmatic Approach**|Fernando Lopes et.al.|[2412.17793](http://arxiv.org/abs/2412.17793)|null|
 |**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
-|**2024-12-23**|**EasyTime: Time Series Forecasting Made Easy**|Xiangfei Qiu et.al.|[2412.17603](http://arxiv.org/abs/2412.17603)|null|
-|**2024-12-23**|**Quantum Time-Series Learning with Evolutionary Algorithms**|Vignesh Anantharamakrishnan et.al.|[2412.17580](http://arxiv.org/abs/2412.17580)|null|
-|**2024-12-23**|**Adaptive control in dynamical systems using reservoir computing**|Swarnendu Mandal et.al.|[2412.17501](http://arxiv.org/abs/2412.17501)|null|
-|**2024-12-23**|**Improving the Noise Estimation of Latent Neural Stochastic Differential Equations**|Linus Heck et.al.|[2412.17499](http://arxiv.org/abs/2412.17499)|null|
-|**2024-12-23**|**Advanced Models for Hourly Marginal CO2 Emission Factor Estimation: A Synergy between Fundamental and Statistical Approaches**|Souhir Ben Amor et.al.|[2412.17379](http://arxiv.org/abs/2412.17379)|null|
-|**2024-12-23**|**HDTSA: An R package for high-dimensional time series analysis**|Jinyuan Chang et.al.|[2412.17341](http://arxiv.org/abs/2412.17341)|null|
-|**2024-12-23**|**xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition**|Artyom Stitsyuk et.al.|[2412.17323](http://arxiv.org/abs/2412.17323)|**[link](https://github.com/stitsyuk/xpatch)**|
-|**2024-12-23**|**Collaborative Optimization in Financial Data Mining Through Deep Learning and ResNeXt**|Pengbin Feng et.al.|[2412.17314](http://arxiv.org/abs/2412.17314)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -75,16 +75,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
+|**2024-12-24**|**GeAR: Graph-enhanced Agent for Retrieval-augmented Generation**|Zhili Shen et.al.|[2412.18431](http://arxiv.org/abs/2412.18431)|null|
+|**2024-12-24**|**Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases**|Christian Di Maio et.al.|[2412.18295](http://arxiv.org/abs/2412.18295)|null|
+|**2024-12-24**|**EvoPat: A Multi-LLM-based Patents Summarization and Analysis Agent**|Suyuan Wang et.al.|[2412.18100](http://arxiv.org/abs/2412.18100)|null|
+|**2024-12-24**|**Molly: Making Large Language Model Agents Solve Python Problem More Logically**|Rui Xiao et.al.|[2412.18093](http://arxiv.org/abs/2412.18093)|null|
+|**2024-12-24**|**Improving Factuality with Explicit Working Memory**|Mingda Chen et.al.|[2412.18069](http://arxiv.org/abs/2412.18069)|null|
+|**2024-12-23**|**Correctness is not Faithfulness in RAG Attributions**|Jonas Wallat et.al.|[2412.18004](http://arxiv.org/abs/2412.18004)|null|
+|**2024-12-23**|**Dynamic Multi-Agent Orchestration and Retrieval for Multi-Source Question-Answer Systems using Large Language Models**|Antony Seabra et.al.|[2412.17964](http://arxiv.org/abs/2412.17964)|null|
+|**2024-12-23**|**Contrato360 2.0: A Document and Database-Driven Question-Answer System using Large Language Models and Agents**|Antony Seabra et.al.|[2412.17942](http://arxiv.org/abs/2412.17942)|null|
+|**2024-12-24**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|null|
 |**2024-12-23**|**A Survey of Query Optimization in Large Language Models**|Mingyang Song et.al.|[2412.17558](http://arxiv.org/abs/2412.17558)|null|
-|**2024-12-23**|**Efficient fine-tuning methodology of text embedding models for information retrieval: contrastive learning penalty (clp)**|Jeongsu Yu et.al.|[2412.17364](http://arxiv.org/abs/2412.17364)|**[link](https://github.com/crealabs/enhanced-bge-m3-with-clp-and-moe)**|
-|**2024-12-22**|**LLM Agent for Fire Dynamics Simulations**|Leidong Xu et.al.|[2412.17146](http://arxiv.org/abs/2412.17146)|null|
-|**2024-12-22**|**The HalluRAG Dataset: Detecting Closed-Domain Hallucinations in RAG Applications Using an LLM's Internal States**|Fabian Ridder et.al.|[2412.17056](http://arxiv.org/abs/2412.17056)|null|
-|**2024-12-22**|**A Reality Check on Context Utilisation for Retrieval-Augmented Generation**|Lovisa Hagström et.al.|[2412.17031](http://arxiv.org/abs/2412.17031)|**[link](https://github.com/copenlu/context-utilisation-for-rag)**|
-|**2024-12-21**|**Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks**|Jinyan Su et.al.|[2412.16708](http://arxiv.org/abs/2412.16708)|**[link](https://github.com/jinyansu1/eval_poisonrag)**|
-|**2024-12-21**|**AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles**|Aritra Kumar Lahiri et.al.|[2412.16701](http://arxiv.org/abs/2412.16701)|null|
-|**2024-12-21**|**Formal Language Knowledge Corpus for Retrieval Augmented Generation**|Majd Zayyad et.al.|[2412.16689](http://arxiv.org/abs/2412.16689)|null|
-|**2024-12-21**|**TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented Generation**|Silin Yang et.al.|[2412.16643](http://arxiv.org/abs/2412.16643)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -92,16 +92,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
-|**2024-12-23**|**In Case You Missed It: ARC 'Challenge' Is Not That Challenging**|Łukasz Borchmann et.al.|[2412.17758](http://arxiv.org/abs/2412.17758)|null|
-|**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
-|**2024-12-23**|**Deliberation in Latent Space via Differentiable Cache Augmentation**|Luyang Liu et.al.|[2412.17747](http://arxiv.org/abs/2412.17747)|null|
-|**2024-12-23**|**RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation**|Yanli Wang et.al.|[2412.17744](http://arxiv.org/abs/2412.17744)|null|
-|**2024-12-23**|**YuLan-Mini: An Open Data-efficient Language Model**|Yiwen Hu et.al.|[2412.17743](http://arxiv.org/abs/2412.17743)|**[link](https://github.com/ruc-gsai/yulan-mini)**|
-|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
-|**2024-12-23**|**Chumor 2.0: Towards Benchmarking Chinese Humor Understanding**|Ruiqi He et.al.|[2412.17729](http://arxiv.org/abs/2412.17729)|**[link](https://github.com/dnaihao/chumor-dataset)**|
-|**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
-|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation**|Dewu Zheng et.al.|[2412.18573](http://arxiv.org/abs/2412.18573)|**[link](https://github.com/deepsoftwareanalytics/multicodebench)**|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552](http://arxiv.org/abs/2412.18552)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**Libra-Leaderboard: Towards Responsible AI through a Balanced Leaderboard of Safety and Capability**|Haonan Li et.al.|[2412.18551](http://arxiv.org/abs/2412.18551)|null|
+|**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
+|**2024-12-24**|**Consistency Checks for Language Model Forecasters**|Daniel Paleka et.al.|[2412.18544](http://arxiv.org/abs/2412.18544)|null|
+|**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -109,16 +109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**The Value of AI-Generated Metadata for UGC Platforms: Evidence from a Large-scale Field Experiment**|Xinyi Zhang et.al.|[2412.18337](http://arxiv.org/abs/2412.18337)|null|
+|**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
+|**2024-12-24**|**GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**|Zhenzhou Jin et.al.|[2412.18281](http://arxiv.org/abs/2412.18281)|null|
+|**2024-12-24**|**VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities**|Shray Mathur et.al.|[2412.18161](http://arxiv.org/abs/2412.18161)|null|
 |**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
 |**2024-12-23**|**Benchmarking Generative AI Models for Deep Learning Test Input Generation**|Maryam et.al.|[2412.17652](http://arxiv.org/abs/2412.17652)|**[link](https://github.com/maryammaryam877/genai_tigs)**|
 |**2024-12-23**|**Is ChatGPT Massively Used by Students Nowadays? A Survey on the Use of Large Language Models such as ChatGPT in Educational Settings**|Jérémie Sublime et.al.|[2412.17486](http://arxiv.org/abs/2412.17486)|null|
 |**2024-12-23**|**Unlocking Cross-Lingual Sentiment Analysis through Emoji Interpretation: A Multimodal Generative AI Approach**|Rafid Ishrak Jahan et.al.|[2412.17255](http://arxiv.org/abs/2412.17255)|**[link](https://github.com/responsibleailab/emoji-universal-sentiment)**|
-|**2024-12-23**|**Assessing UML Models by ChatGPT: Implications for Education**|Chong Wang et.al.|[2412.17200](http://arxiv.org/abs/2412.17200)|null|
+|**2024-12-23**|**Assessing UML Models by ChatGPT: Implications for Education**|Chong Wang et.al.|[2412.17200](http://arxiv.org/abs/2412.17200)|**[link](https://github.com/rorschachxr/gpt4umleval)**|
 |**2024-12-21**|**AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles**|Aritra Kumar Lahiri et.al.|[2412.16701](http://arxiv.org/abs/2412.16701)|null|
-|**2024-12-21**|**The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code**|Nicolás E. Díaz Ferreyra et.al.|[2412.16667](http://arxiv.org/abs/2412.16667)|null|
-|**2024-12-21**|**AIGCodeSet: A New Annotated Dataset for AI Generated Code Detection**|Basak Demirok et.al.|[2412.16594](http://arxiv.org/abs/2412.16594)|null|
-|**2024-12-21**|**From Creation to Curriculum: Examining the role of generative AI in Arts Universities**|Atticus Sims et.al.|[2412.16531](http://arxiv.org/abs/2412.16531)|null|
-|**2024-12-21**|**The Evolving Usage of GenAI by Computing Students**|Irene Hou et.al.|[2412.16453](http://arxiv.org/abs/2412.16453)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -126,16 +126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**HyperQ-Opt: Q-learning for Hyperparameter Optimization**|Md. Tarek Hasan et.al.|[2412.17765](http://arxiv.org/abs/2412.17765)|null|
-|**2024-12-23**|**SMAC-Hard: Enabling Mixed Opponent Strategy Script and Self-play on SMAC**|Yue Deng et.al.|[2412.17707](http://arxiv.org/abs/2412.17707)|**[link](https://github.com/devindeng94/smac-hard)**|
-|**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
-|**2024-12-23**|**Reinforcement Learning with a Focus on Adjusting Policies to Reach Targets**|Akane Tsuboya et.al.|[2412.17344](http://arxiv.org/abs/2412.17344)|null|
-|**2024-12-23**|**Multimodal Deep Reinforcement Learning for Portfolio Optimization**|Sumit Nawathe et.al.|[2412.17293](http://arxiv.org/abs/2412.17293)|null|
-|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
-|**2024-12-23**|**ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models**|Chengran Yang et.al.|[2412.17264](http://arxiv.org/abs/2412.17264)|null|
-|**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
-|**2024-12-23**|**Model-free stochastic linear quadratic design by semidefinite programming**|Jing Guo et.al.|[2412.17230](http://arxiv.org/abs/2412.17230)|null|
-|**2024-12-22**|**Fairness in Reinforcement Learning with Bisimulation Metrics**|Sahand Rezaei-Shoshtari et.al.|[2412.17123](http://arxiv.org/abs/2412.17123)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
+|**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563](http://arxiv.org/abs/2412.18563)|null|
+|**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
+|**2024-12-24**|**Joint Adaptive OFDM and Reinforcement Learning Design for Autonomous Vehicles: Leveraging Age of Updates**|Mamady Delamou et.al.|[2412.18500](http://arxiv.org/abs/2412.18500)|null|
+|**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|null|
+|**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296](http://arxiv.org/abs/2412.18296)|null|
+|**2024-12-24**|**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279](http://arxiv.org/abs/2412.18279)|null|
+|**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212](http://arxiv.org/abs/2412.18212)|**[link](https://github.com/changfuxu/dedgeai)**|
+|**2024-12-24**|**Quantum framework for Reinforcement Learning: integrating Markov Decision Process, quantum arithmetic, and trajectory search**|Thet Htar Su et.al.|[2412.18208](http://arxiv.org/abs/2412.18208)|null|
+|**2024-12-24**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
@@ -143,16 +143,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis**|Guochen Yan et.al.|[2412.18557](http://arxiv.org/abs/2412.18557)|null|
+|**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513](http://arxiv.org/abs/2412.18513)|null|
+|**2024-12-24**|**An Empirical Analysis of Federated Learning Models Subject to Label-Flipping Adversarial Attack**|Kunal Bhatnagar et.al.|[2412.18507](http://arxiv.org/abs/2412.18507)|null|
+|**2024-12-24**|**GeFL: Model-Agnostic Federated Learning with Generative Models**|Honggu Kang et.al.|[2412.18460](http://arxiv.org/abs/2412.18460)|null|
+|**2024-12-24**|**Addressing Spatial-Temporal Data Heterogeneity in Federated Continual Learning via Tail Anchor**|Hao Yu et.al.|[2412.18355](http://arxiv.org/abs/2412.18355)|null|
 |**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
 |**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
 |**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
 |**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305](http://arxiv.org/abs/2412.17305)|null|
 |**2024-12-23**|**FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**|Qian Chen et.al.|[2412.17231](http://arxiv.org/abs/2412.17231)|null|
-|**2024-12-22**|**Data value estimation on private gradients**|Zijian Zhou et.al.|[2412.17008](http://arxiv.org/abs/2412.17008)|null|
-|**2024-12-22**|**FedCross: Intertemporal Federated Learning Under Evolutionary Games**|Jianfeng Lu et.al.|[2412.16968](http://arxiv.org/abs/2412.16968)|null|
-|**2024-12-21**|**Fed-ZOE: Communication-Efficient Over-the-Air Federated Learning via Zeroth-Order Estimation**|Jonggyu Jang et.al.|[2412.16779](http://arxiv.org/abs/2412.16779)|null|
-|**2024-12-21**|**Label Privacy in Split Learning for Large Models with Parameter-Efficient Training**|Philip Zmushko et.al.|[2412.16669](http://arxiv.org/abs/2412.16669)|**[link](https://github.com/p3eft-iclr-2025/p3eft-iclr-2025)**|
-|**2024-12-21**|**FedGA: Federated Learning with Gradient Alignment for Error Asymmetry Mitigation**|Chenguang Xiao et.al.|[2412.16582](http://arxiv.org/abs/2412.16582)|null|
 
 <p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
 
