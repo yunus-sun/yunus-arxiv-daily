@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -75,7 +75,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199](http://arxiv.org/abs/2412.21199)|**[link](https://github.com/CodeEval-Pro/CodeEval-Pro)**|
+|**2024-12-31**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199](http://arxiv.org/abs/2412.21199)|**[link](https://github.com/CodeEval-Pro/CodeEval-Pro)**|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
 |**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
 |**2024-12-30**|**Facilitating large language model Russian adaptation with Learned Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140](http://arxiv.org/abs/2412.21140)|**[link](https://github.com/RefalMachine/llmtf_open)**|
@@ -107,7 +107,7 @@ layout: default
 |**2024-12-30**|**Advances in Multi-agent Reinforcement Learning: Persistent Autonomy and Robot Learning Lab Report 2024**|Reza Azadeh et.al.|[2412.21088](http://arxiv.org/abs/2412.21088)|null|
 |**2024-12-30**|**Learning Epidemiological Dynamics via the Finite Expression Method**|Jianda Du et.al.|[2412.21049](http://arxiv.org/abs/2412.21049)|null|
 |**2024-12-30**|**Weber-Fechner Law in Temporal Difference learning derived from Control as Inference**|Keiichiro Takahashi et.al.|[2412.21004](http://arxiv.org/abs/2412.21004)|null|
-|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|null|
+|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|**[link](https://github.com/xiaoyinliu0714/LEASE)**|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
 |**2024-12-30**|**Data-Based Efficient Off-Policy Stabilizing Optimal Control Algorithms for Discrete-Time Linear Systems via Damping Coefficients**|Dongdong Li et.al.|[2412.20845](http://arxiv.org/abs/2412.20845)|null|
 |**2024-12-30**|**Isoperimetry is All We Need: Langevin Posterior Sampling for RL with Sublinear Regret**|Emilio Jorge et.al.|[2412.20824](http://arxiv.org/abs/2412.20824)|null|
