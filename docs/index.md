@@ -46,7 +46,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|null|
 |**2025-01-02**|**Enhanced Differential Testing in Emerging Database Systems**|Yuancheng Jiang et.al.|[2501.01236](http://arxiv.org/abs/2501.01236)|null|
-|**2025-01-03**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|null|
+|**2025-01-03**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|**[link](https://github.com/t-rizvi/GLinear)**|
 |**2025-01-02**|**CryptoMamba: Leveraging State Space Models for Accurate Bitcoin Price Prediction**|Mohammad Shahab Sepehri et.al.|[2501.01010](http://arxiv.org/abs/2501.01010)|null|
 |**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
 |**2025-01-01**|**Evaluating Time Series Foundation Models on Noisy Periodic Time Series**|Syamantak Datta Gupta et.al.|[2501.00889](http://arxiv.org/abs/2501.00889)|null|
