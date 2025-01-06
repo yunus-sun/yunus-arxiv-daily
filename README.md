@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-02**|**Learning 3D Garment Animation from Trajectories of A Piece of Cloth**|Yidi Shao et.al.|[2501.01393](http://arxiv.org/abs/2501.01393)|null|
 |**2025-01-02**|**ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**|Xuyin Qi et.al.|[2501.01392](http://arxiv.org/abs/2501.01392)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-02**|**Achieving Dispatchability in Data Centers: Carbon and Cost-Aware Sizing of Energy Storage and Local Photovoltaic Generation**|Enea Figini et.al.|[2412.13853](http://arxiv.org/abs/2412.13853)|null|
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Time Series
 
@@ -60,7 +60,7 @@
 |---|---|---|---|---|
 |**2025-01-02**|**A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models**|Jingjing Xu et.al.|[2501.01394](http://arxiv.org/abs/2501.01394)|null|
 |**2025-01-02**|**Enhanced Differential Testing in Emerging Database Systems**|Yuancheng Jiang et.al.|[2501.01236](http://arxiv.org/abs/2501.01236)|null|
-|**2025-01-02**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|null|
+|**2025-01-03**|**Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction**|Syed Tahir Hussain Rizvi et.al.|[2501.01087](http://arxiv.org/abs/2501.01087)|null|
 |**2025-01-02**|**CryptoMamba: Leveraging State Space Models for Accurate Bitcoin Price Prediction**|Mohammad Shahab Sepehri et.al.|[2501.01010](http://arxiv.org/abs/2501.01010)|null|
 |**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
 |**2025-01-01**|**Evaluating Time Series Foundation Models on Noisy Periodic Time Series**|Syamantak Datta Gupta et.al.|[2501.00889](http://arxiv.org/abs/2501.00889)|null|
@@ -69,7 +69,7 @@
 |**2024-12-31**|**Copula Central Asymmetry of Equity Portfolios**|Lorenzo Frattarolo et.al.|[2501.00634](http://arxiv.org/abs/2501.00634)|null|
 |**2024-12-31**|**Per Subject Complexity in Eye Movement Prediction**|Kateryna Melnyk et.al.|[2501.00597](http://arxiv.org/abs/2501.00597)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## RAG
 
@@ -77,7 +77,7 @@
 |---|---|---|---|---|
 |**2025-01-02**|**ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning**|Wonduk Seo et.al.|[2501.01031](http://arxiv.org/abs/2501.01031)|null|
 |**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982](http://arxiv.org/abs/2501.00982)|null|
-|**2025-01-01**|**TrustRAG: Enhancing Robustness and Trustworthiness in RAG**|Huichi Zhou et.al.|[2501.00879](http://arxiv.org/abs/2501.00879)|null|
+|**2025-01-01**|**TrustRAG: Enhancing Robustness and Trustworthiness in RAG**|Huichi Zhou et.al.|[2501.00879](http://arxiv.org/abs/2501.00879)|**[link](https://github.com/huichizhou/trustrag)**|
 |**2025-01-01**|**Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations**|Yuxuan Zhang et.al.|[2501.00778](http://arxiv.org/abs/2501.00778)|null|
 |**2025-01-01**|**Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility**|Yulong Li et.al.|[2501.00765](http://arxiv.org/abs/2501.00765)|null|
 |**2025-01-01**|**Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform**|Cheonsu Jeong et.al.|[2501.00750](http://arxiv.org/abs/2501.00750)|null|
@@ -86,7 +86,7 @@
 |**2024-12-31**|**Retrieval-Augmented Generation with Graphs (GraphRAG)**|Haoyu Han et.al.|[2501.00309](http://arxiv.org/abs/2501.00309)|null|
 |**2024-12-31**|**A review of faithfulness metrics for hallucination assessment in Large Language Models**|Ben Malin et.al.|[2501.00269](http://arxiv.org/abs/2501.00269)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Large Model
 
@@ -99,18 +99,18 @@
 |**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332](http://arxiv.org/abs/2501.01332)|null|
 |**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329](http://arxiv.org/abs/2501.01329)|null|
 |**2025-01-02**|**Learning Spectral Methods by Transformers**|Yihan He et.al.|[2501.01312](http://arxiv.org/abs/2501.01312)|null|
-|**2025-01-02**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306](http://arxiv.org/abs/2501.01306)|null|
+|**2025-01-03**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306](http://arxiv.org/abs/2501.01306)|null|
 |**2025-01-02**|**Large Language Models for Mental Health Diagnostic Assessments: Exploring The Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments -- The Depression and Anxiety Case**|Kaushik Roy et.al.|[2501.01305](http://arxiv.org/abs/2501.01305)|null|
 |**2025-01-02**|**Citations and Trust in LLM Generated Responses**|Yifan Ding et.al.|[2501.01303](http://arxiv.org/abs/2501.01303)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
-|**2025-01-02**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
+|**2025-01-03**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
 |**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|null|
 |**2025-01-01**|**From Assessment to Practice: Implementing the AIAS Framework in EFL Teaching and Learning**|Jasper Roe et.al.|[2501.00964](http://arxiv.org/abs/2501.00964)|null|
 |**2025-01-01**|**IGGA: A Dataset of Industrial Guidelines and Policy Statements for Generative AIs**|Junfeng Jiao et.al.|[2501.00959](http://arxiv.org/abs/2501.00959)|null|
@@ -120,7 +120,7 @@
 |**2025-01-01**|**SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering**|Shihab Ahmed et.al.|[2501.00940](http://arxiv.org/abs/2501.00940)|null|
 |**2025-01-01**|**Interactionalism: Re-Designing Higher Learning for the Large Language Agent Era**|Mihnea C. Moldoveanu et.al.|[2501.00867](http://arxiv.org/abs/2501.00867)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
 |**2025-01-02**|**Deep Reinforcement Learning for Job Scheduling and Resource Management in Cloud Computing: An Algorithm-Level Review**|Yan Gu et.al.|[2501.01007](http://arxiv.org/abs/2501.01007)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2024-12-30**|**Generalizing in Net-Zero Microgrids: A Study with Federated PPO and TRPO**|Nicolas M Cuadrado Avila et.al.|[2412.20946](http://arxiv.org/abs/2412.20946)|**[link](https://github.com/Optimization-and-Machine-Learning-Lab/energy_fed_trpo)**|
 |**2024-12-30**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785](http://arxiv.org/abs/2412.20785)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
