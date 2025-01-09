@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-07**|**Channel Coding based on Skew Polynomials and Multivariate Polynomials**|Hedongliang Liu et.al.|[2501.03961](http://arxiv.org/abs/2501.03961)|null|
 |**2025-01-07**|**A GPU Implementation of Multi-Guiding Spark Fireworks Algorithm for Efficient Black-Box Neural Network Optimization**|Xiangrui Meng et.al.|[2501.03944](http://arxiv.org/abs/2501.03944)|**[link](https://github.com/mxxxr/mgfwa)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-02**|**Achieving Dispatchability in Data Centers: Carbon and Cost-Aware Sizing of Energy Storage and Local Photovoltaic Generation**|Enea Figini et.al.|[2412.13853](http://arxiv.org/abs/2412.13853)|null|
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-06**|**Gaussian process regression of temperature-dependent radial velocities**|Federica Rescigno et.al.|[2501.02959](http://arxiv.org/abs/2501.02959)|null|
 |**2025-01-06**|**The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features**|Shi Bin Hoo et.al.|[2501.02945](http://arxiv.org/abs/2501.02945)|**[link](https://github.com/liam-sbhoo/tabpfn-time-series)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-04**|**The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit**|Huixue Zhou et.al.|[2501.02173](http://arxiv.org/abs/2501.02173)|null|
 |**2025-01-02**|**ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning**|Wonduk Seo et.al.|[2501.01031](http://arxiv.org/abs/2501.01031)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904](http://arxiv.org/abs/2501.03904)|null|
 |**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Generative AI
 
@@ -116,11 +116,11 @@
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 |**2025-01-04**|**Validity Arguments For Constructed Response Scoring Using Generative Artificial Intelligence Applications**|Jodi M. Casabianca et.al.|[2501.02334](http://arxiv.org/abs/2501.02334)|null|
 |**2025-01-03**|**A Comprehensive Framework to Operationalize Social Stereotypes for Responsible AI Evaluations**|Aida Davani et.al.|[2501.02074](http://arxiv.org/abs/2501.02074)|null|
-|**2025-01-03**|**AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**|Junfeng Jiao et.al.|[2501.02063](http://arxiv.org/abs/2501.02063)|**[link](https://github.com/salehafroogh/agga_notebook)**|
+|**2025-01-07**|**AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**|Junfeng Jiao et.al.|[2501.02063](http://arxiv.org/abs/2501.02063)|**[link](https://github.com/salehafroogh/agga_notebook)**|
 |**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
 |**2025-01-03**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-07**|**Align-Pro: A Principled Approach to Prompt Optimization for LLM Alignment**|Prashant Trivedi et.al.|[2501.03486](http://arxiv.org/abs/2501.03486)|null|
 |**2025-01-06**|**A Study of the Efficacy of Generative Flow Networks for Robotics and Machine Fault-Adaptation**|Zahin Sufiyan et.al.|[2501.03405](http://arxiv.org/abs/2501.03405)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
 |**2025-01-06**|**From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning**|Chao Feng et.al.|[2501.03119](http://arxiv.org/abs/2501.03119)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

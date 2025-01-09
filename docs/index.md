@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -96,7 +96,7 @@ layout: default
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 |**2025-01-04**|**Validity Arguments For Constructed Response Scoring Using Generative Artificial Intelligence Applications**|Jodi M. Casabianca et.al.|[2501.02334](http://arxiv.org/abs/2501.02334)|null|
 |**2025-01-03**|**A Comprehensive Framework to Operationalize Social Stereotypes for Responsible AI Evaluations**|Aida Davani et.al.|[2501.02074](http://arxiv.org/abs/2501.02074)|null|
-|**2025-01-03**|**AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**|Junfeng Jiao et.al.|[2501.02063](http://arxiv.org/abs/2501.02063)|**[link](https://github.com/salehafroogh/agga_notebook)**|
+|**2025-01-07**|**AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**|Junfeng Jiao et.al.|[2501.02063](http://arxiv.org/abs/2501.02063)|**[link](https://github.com/salehafroogh/agga_notebook)**|
 |**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
 |**2025-01-03**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
 
