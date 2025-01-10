@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-08**|**Optimal Trading of a Charging-Station Company in Auction Markets for Electricity**|Farnaz Sohrabi et.al.|[2501.04647](http://arxiv.org/abs/2501.04647)|null|
 |**2025-01-08**|**A mixture transition distribution approach to portfolio optimization**|Riccardo De Blasis et.al.|[2501.04646](http://arxiv.org/abs/2501.04646)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-02**|**Achieving Dispatchability in Data Centers: Carbon and Cost-Aware Sizing of Energy Storage and Local Photovoltaic Generation**|Enea Figini et.al.|[2412.13853](http://arxiv.org/abs/2412.13853)|null|
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-07**|**High-cadence stellar variability studies of RR Lyrae stars with DECam: New multi-band templates**|K. Baeza-Villagra et.al.|[2501.03813](http://arxiv.org/abs/2501.03813)|null|
 |**2025-01-07**|**High-frequency coronal Alfvénic waves observed with DKIST/Cryo-NIRSP**|Richard J. Morton et.al.|[2501.03758](http://arxiv.org/abs/2501.03758)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-07**|**MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems**|Yannis Katsis et.al.|[2501.03468](http://arxiv.org/abs/2501.03468)|**[link](https://github.com/ibm/mt-rag-benchmark)**|
 |**2025-01-06**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968](http://arxiv.org/abs/2501.02968)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Large Model
 
@@ -95,7 +95,7 @@
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694](http://arxiv.org/abs/2501.04694)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
@@ -103,7 +103,7 @@
 |**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
 |**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,24 +120,24 @@
 |**2025-01-06**|**Improving GenIR Systems Based on User Feedback**|Qingyao Ai et.al.|[2501.02838](http://arxiv.org/abs/2501.02838)|null|
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624](http://arxiv.org/abs/2501.04624)|null|
 |**2025-01-08**|**HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs**|Nicolò Botteghi et.al.|[2501.04538](http://arxiv.org/abs/2501.04538)|null|
 |**2025-01-08**|**Safe Reinforcement Learning with Minimal Supervision**|Alexander Quessy et.al.|[2501.04481](http://arxiv.org/abs/2501.04481)|null|
 |**2025-01-08**|**Research on environment perception and behavior prediction of intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480](http://arxiv.org/abs/2501.04480)|null|
 |**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472](http://arxiv.org/abs/2501.04472)|null|
 |**2025-01-08**|**Risk-averse policies for natural gas futures trading using distributional reinforcement learning**|Félicien Hêche et.al.|[2501.04421](http://arxiv.org/abs/2501.04421)|null|
-|**2025-01-08**|**Constraints as Rewards: Reinforcement Learning for Robots without Reward Functions**|Yu Ishihara et.al.|[2501.04228](http://arxiv.org/abs/2501.04228)|null|
+|**2025-01-09**|**Constraints as Rewards: Reinforcement Learning for Robots without Reward Functions**|Yu Ishihara et.al.|[2501.04228](http://arxiv.org/abs/2501.04228)|null|
 |**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902](http://arxiv.org/abs/2501.03902)|null|
 |**2025-01-07**|**Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies**|Kexin Gu Baugh et.al.|[2501.03888](http://arxiv.org/abs/2501.03888)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-07**|**Dynamic Authentication and Granularized Authorization with a Cross-Domain Zero Trust Architecture for Federated Learning in Large-Scale IoT Networks**|Xiaoyu Ma et.al.|[2501.03601](http://arxiv.org/abs/2501.03601)|null|
 |**2025-01-07**|**A study on performance limitations in Federated Learning**|Karthik Mohan et.al.|[2501.03477](http://arxiv.org/abs/2501.03477)|null|
 
-<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

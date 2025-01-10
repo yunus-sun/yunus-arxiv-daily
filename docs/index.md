@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -77,7 +77,7 @@ layout: default
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**EpiCoder: Encompassing Diversity and Complexity in Code Generation**|Yaoxiang Wang et.al.|[2501.04694](http://arxiv.org/abs/2501.04694)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
@@ -104,14 +104,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624](http://arxiv.org/abs/2501.04624)|null|
 |**2025-01-08**|**HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs**|Nicolò Botteghi et.al.|[2501.04538](http://arxiv.org/abs/2501.04538)|null|
 |**2025-01-08**|**Safe Reinforcement Learning with Minimal Supervision**|Alexander Quessy et.al.|[2501.04481](http://arxiv.org/abs/2501.04481)|null|
 |**2025-01-08**|**Research on environment perception and behavior prediction of intelligent UAV based on semantic communication**|Kechong Ren et.al.|[2501.04480](http://arxiv.org/abs/2501.04480)|null|
 |**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472](http://arxiv.org/abs/2501.04472)|null|
 |**2025-01-08**|**Risk-averse policies for natural gas futures trading using distributional reinforcement learning**|Félicien Hêche et.al.|[2501.04421](http://arxiv.org/abs/2501.04421)|null|
-|**2025-01-08**|**Constraints as Rewards: Reinforcement Learning for Robots without Reward Functions**|Yu Ishihara et.al.|[2501.04228](http://arxiv.org/abs/2501.04228)|null|
+|**2025-01-09**|**Constraints as Rewards: Reinforcement Learning for Robots without Reward Functions**|Yu Ishihara et.al.|[2501.04228](http://arxiv.org/abs/2501.04228)|null|
 |**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902](http://arxiv.org/abs/2501.03902)|null|
 |**2025-01-07**|**Neural DNF-MT: A Neuro-symbolic Approach for Learning Interpretable and Editable Policies**|Kexin Gu Baugh et.al.|[2501.03888](http://arxiv.org/abs/2501.03888)|null|
 
