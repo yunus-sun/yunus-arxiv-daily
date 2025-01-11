@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.10
+## Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-09**|**The Ising model: Highlights and perspectives**|Christof Kuelske et.al.|[2501.05394](http://arxiv.org/abs/2501.05394)|null|
 |**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387](http://arxiv.org/abs/2501.05387)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-02**|**Achieving Dispatchability in Data Centers: Carbon and Cost-Aware Sizing of Energy Storage and Local Photovoltaic Generation**|Enea Figini et.al.|[2412.13853](http://arxiv.org/abs/2412.13853)|null|
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-08**|**Inferring resource competition in microbial communities from time series**|Xiaowen Chen et.al.|[2501.04520](http://arxiv.org/abs/2501.04520)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
 |**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425](http://arxiv.org/abs/2501.04425)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-06**|**Foundations of GenIR**|Qingyao Ai et.al.|[2501.02842](http://arxiv.org/abs/2501.02842)|null|
 |**2025-01-06**|**Improving GenIR Systems Based on User Feedback**|Qingyao Ai et.al.|[2501.02838](http://arxiv.org/abs/2501.02838)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-09**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
 |**2025-01-08**|**Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning**|Sergio Rozada et.al.|[2501.04879](http://arxiv.org/abs/2501.04879)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-08**|**VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**|Ahmed Ayoub Bellachia et.al.|[2501.04319](http://arxiv.org/abs/2501.04319)|null|
 |**2025-01-07**|**A Survey on Federated Learning in Human Sensing**|Mohan Li et.al.|[2501.04000](http://arxiv.org/abs/2501.04000)|null|
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
