@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |---|---|---|---|---|
 |**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
-|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|null|
+|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**|Christophe Morisset et.al.|[2501.05424](http://arxiv.org/abs/2501.05424)|null|
 |**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
 |**2025-01-09**|**On-line Policy Improvement using Monte-Carlo Search**|Gerald Tesauro et.al.|[2501.05407](http://arxiv.org/abs/2501.05407)|null|
@@ -35,7 +35,7 @@
 |**2025-01-09**|**The Ising model: Highlights and perspectives**|Christof Kuelske et.al.|[2501.05394](http://arxiv.org/abs/2501.05394)|null|
 |**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387](http://arxiv.org/abs/2501.05387)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-02**|**Achieving Dispatchability in Data Centers: Carbon and Cost-Aware Sizing of Energy Storage and Local Photovoltaic Generation**|Enea Figini et.al.|[2412.13853](http://arxiv.org/abs/2412.13853)|null|
 |**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Time Series
 
@@ -63,13 +63,13 @@
 |**2025-01-09**|**Local predictors of explosive synchronization with ordinal methods**|I. Leyva et.al.|[2501.05202](http://arxiv.org/abs/2501.05202)|null|
 |**2025-01-09**|**On the conditioning of the solar corona due to large flaring**|Julia K. Thalmann et.al.|[2501.05116](http://arxiv.org/abs/2501.05116)|null|
 |**2025-01-09**|**40 Years of Interdisciplinary Research: Phases, Origins, and Key Turning Points (1981-2020)**|Guoyang Rong et.al.|[2501.05001](http://arxiv.org/abs/2501.05001)|null|
-|**2025-01-09**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974](http://arxiv.org/abs/2501.04974)|null|
-|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970](http://arxiv.org/abs/2501.04970)|null|
-|**2025-01-09**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
+|**2025-01-10**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974](http://arxiv.org/abs/2501.04974)|**[link](https://github.com/benjamin-reichman/sensorqa)**|
+|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970](http://arxiv.org/abs/2501.04970)|**[link](https://github.com/kimanki/tafas)**|
+|**2025-01-10**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
 |**2025-01-08**|**Inferring resource competition in microbial communities from time series**|Xiaowen Chen et.al.|[2501.04520](http://arxiv.org/abs/2501.04520)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
 |**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425](http://arxiv.org/abs/2501.04425)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Large Model
 
@@ -95,15 +95,15 @@
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
 |**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
 |**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
-|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|**[link](https://github.com/yongkdu/faircode)**|
 |**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
-|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|**[link](https://github.com/htlou/stream-aligner)**|
 |**2025-01-09**|**Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning**|Dmytro Kuzmenko et.al.|[2501.05329](http://arxiv.org/abs/2501.05329)|null|
 |**2025-01-09**|**Distributed Learning and Inference Systems: A Networking Perspective**|Hesham G. Moussa et.al.|[2501.05323](http://arxiv.org/abs/2501.05323)|null|
 |**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-06**|**Foundations of GenIR**|Qingyao Ai et.al.|[2501.02842](http://arxiv.org/abs/2501.02842)|null|
 |**2025-01-06**|**Improving GenIR Systems Based on User Feedback**|Qingyao Ai et.al.|[2501.02838](http://arxiv.org/abs/2501.02838)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,14 +137,14 @@
 |**2025-01-09**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
 |**2025-01-08**|**Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning**|Sergio Rozada et.al.|[2501.04879](http://arxiv.org/abs/2501.04879)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## Federated Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053](http://arxiv.org/abs/2501.05053)|null|
-|**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940](http://arxiv.org/abs/2501.04940)|null|
+|**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940](http://arxiv.org/abs/2501.04940)|**[link](https://github.com/aignlai/grbfl)**|
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning**|Bin Li et.al.|[2501.04453](http://arxiv.org/abs/2501.04453)|null|
 |**2025-01-08**|**Revisiting LocalSGD and SCAFFOLD: Improved Rates and Missing Analysis**|Ruichen Luo et.al.|[2501.04443](http://arxiv.org/abs/2501.04443)|null|
@@ -154,7 +154,7 @@
 |**2025-01-08**|**VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**|Ahmed Ayoub Bellachia et.al.|[2501.04319](http://arxiv.org/abs/2501.04319)|null|
 |**2025-01-07**|**A Survey on Federated Learning in Human Sensing**|Mohan Li et.al.|[2501.04000](http://arxiv.org/abs/2501.04000)|null|
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

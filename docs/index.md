@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
-|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|null|
+|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**|Christophe Morisset et.al.|[2501.05424](http://arxiv.org/abs/2501.05424)|null|
 |**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
 |**2025-01-09**|**On-line Policy Improvement using Monte-Carlo Search**|Gerald Tesauro et.al.|[2501.05407](http://arxiv.org/abs/2501.05407)|null|
@@ -49,9 +49,9 @@ layout: default
 |**2025-01-09**|**Local predictors of explosive synchronization with ordinal methods**|I. Leyva et.al.|[2501.05202](http://arxiv.org/abs/2501.05202)|null|
 |**2025-01-09**|**On the conditioning of the solar corona due to large flaring**|Julia K. Thalmann et.al.|[2501.05116](http://arxiv.org/abs/2501.05116)|null|
 |**2025-01-09**|**40 Years of Interdisciplinary Research: Phases, Origins, and Key Turning Points (1981-2020)**|Guoyang Rong et.al.|[2501.05001](http://arxiv.org/abs/2501.05001)|null|
-|**2025-01-09**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974](http://arxiv.org/abs/2501.04974)|null|
-|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970](http://arxiv.org/abs/2501.04970)|null|
-|**2025-01-09**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
+|**2025-01-10**|**SensorQA: A Question Answering Benchmark for Daily-Life Monitoring**|Benjamin Reichman et.al.|[2501.04974](http://arxiv.org/abs/2501.04974)|**[link](https://github.com/benjamin-reichman/sensorqa)**|
+|**2025-01-09**|**Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation**|HyunGi Kim et.al.|[2501.04970](http://arxiv.org/abs/2501.04970)|**[link](https://github.com/kimanki/tafas)**|
+|**2025-01-10**|**Targeted Adversarial Denoising Autoencoders (TADA) for Neural Time Series Filtration**|Benjamin J. Choi et.al.|[2501.04967](http://arxiv.org/abs/2501.04967)|null|
 |**2025-01-08**|**Inferring resource competition in microbial communities from time series**|Xiaowen Chen et.al.|[2501.04520](http://arxiv.org/abs/2501.04520)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
 
@@ -77,9 +77,9 @@ layout: default
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
 |**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
 |**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
-|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|**[link](https://github.com/yongkdu/faircode)**|
 |**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
-|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|**[link](https://github.com/htlou/stream-aligner)**|
 |**2025-01-09**|**Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning**|Dmytro Kuzmenko et.al.|[2501.05329](http://arxiv.org/abs/2501.05329)|null|
 |**2025-01-09**|**Distributed Learning and Inference Systems: A Networking Perspective**|Hesham G. Moussa et.al.|[2501.05323](http://arxiv.org/abs/2501.05323)|null|
 |**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
@@ -120,7 +120,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053](http://arxiv.org/abs/2501.05053)|null|
-|**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940](http://arxiv.org/abs/2501.04940)|null|
+|**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940](http://arxiv.org/abs/2501.04940)|**[link](https://github.com/aignlai/grbfl)**|
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning**|Bin Li et.al.|[2501.04453](http://arxiv.org/abs/2501.04453)|null|
 |**2025-01-08**|**Revisiting LocalSGD and SCAFFOLD: Improved Rates and Missing Analysis**|Ruichen Luo et.al.|[2501.04443](http://arxiv.org/abs/2501.04443)|null|
