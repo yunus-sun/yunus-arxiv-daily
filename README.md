@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-15**|**3GPP Network Architecture Enhancement for Ambient IoT Service**|Dongjoo Kim et.al.|[2501.08990](http://arxiv.org/abs/2501.08990)|null|
 |**2025-01-15**|**Degradedness Under Cooperation**|Yossef Steinberg et.al.|[2501.08987](http://arxiv.org/abs/2501.08987)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-09**|**Quantum Data Center Infrastructures: A Scalable Architectural Design Perspective**|Hassan Shapourian et.al.|[2501.05598](http://arxiv.org/abs/2501.05598)|null|
 |**2025-01-01**|**Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with Self-Rectified Knowledge Agglomeration**|Zhiyuan Wu et.al.|[2501.00693](http://arxiv.org/abs/2501.00693)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-15**|**A Novel Multiple Interval Prediction Method for Electricity Prices based on Scenarios Generation: Definition and Method**|Lu Xin et.al.|[2501.08531](http://arxiv.org/abs/2501.08531)|null|
 |**2025-01-15**|**Physically Interpretable Emulation of a Moist Convecting Atmosphere with a Recurrent Neural Network**|Qiyu Song et.al.|[2501.08513](http://arxiv.org/abs/2501.08513)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-14**|**Talk to Right Specialists: Routing and Planning in Multi-agent System for Question Answering**|Feijie Wu et.al.|[2501.07813](http://arxiv.org/abs/2501.07813)|null|
 |**2025-01-13**|**Enhancing Talent Employment Insights Through Feature Extraction with LLM Finetuning**|Karishma Thakrar et.al.|[2501.07663](http://arxiv.org/abs/2501.07663)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
 |**2025-01-15**|**ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind**|Kazutoshi Shinoda et.al.|[2501.08838](http://arxiv.org/abs/2501.08838)|**[link](https://github.com/nttmdlab-nlp/ToMATO)**|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-13**|**Large Language Models for Interpretable Mental Health Diagnosis**|Brian Hyeongseok Kim et.al.|[2501.07653](http://arxiv.org/abs/2501.07653)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
 |**2025-01-15**|**RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation**|Kaiqu Liang et.al.|[2501.08617](http://arxiv.org/abs/2501.08617)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-11**|**Reliable Imputed-Sample Assisted Vertical Federated Learning**|Yaopei Zeng et.al.|[2501.06429](http://arxiv.org/abs/2501.06429)|null|
 |**2025-01-10**|**Aggregating Low Rank Adapters in Federated Fine-tuning**|Evelyn Trautmann et.al.|[2501.06332](http://arxiv.org/abs/2501.06332)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
