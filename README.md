@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-17**|**Finite-size security of continuous-variable quantum key distribution with imperfect heterodyne measurement**|Adnan A. E. Hajomer et.al.|[2501.10278](http://arxiv.org/abs/2501.10278)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-10**|**Prompt engineering and its implications on the energy consumption of Large Language Models**|Riccardo Rubei et.al.|[2501.05899](http://arxiv.org/abs/2501.05899)|null|
 |**2025-01-10**|**A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers**|Chenxi Yang et.al.|[2501.05651](http://arxiv.org/abs/2501.05651)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Time Series
 
@@ -67,9 +67,9 @@
 |**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700](http://arxiv.org/abs/2501.09700)|**[link](https://github.com/alidr79/cueless_eeg_subject_identification)**|
 |**2025-01-16**|**ChartInsighter: An Approach for Mitigating Hallucination in Time-series Chart Summary Generation with A Benchmark Dataset**|Fen Wang et.al.|[2501.09349](http://arxiv.org/abs/2501.09349)|**[link](https://github.com/wangfen01/chartinsighter)**|
 |**2025-01-16**|**Definition and data-driven reconstruction of asymptotic phase and amplitudes of stochastic oscillators via Koopman operator theory**|Shohei Takata et.al.|[2501.09340](http://arxiv.org/abs/2501.09340)|null|
-|**2025-01-16**|**Free-Knots Kolmogorov-Arnold Network: On the Analysis of Spline Knots and Advancing Stability**|Liangwewi Nathan Zheng et.al.|[2501.09283](http://arxiv.org/abs/2501.09283)|null|
+|**2025-01-16**|**Free-Knots Kolmogorov-Arnold Network: On the Analysis of Spline Knots and Advancing Stability**|Liangwewi Nathan Zheng et.al.|[2501.09283](http://arxiv.org/abs/2501.09283)|**[link](https://github.com/icuraslw/fr-kan)**|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## RAG
 
@@ -79,14 +79,14 @@
 |**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
 |**2025-01-17**|**Passage Segmentation of Documents for Extractive Question Answering**|Zuhong Liu et.al.|[2501.09940](http://arxiv.org/abs/2501.09940)|null|
 |**2025-01-16**|**Conversational Text Extraction with Large Language Models Using Retrieval-Augmented Systems**|Soham Roy et.al.|[2501.09801](http://arxiv.org/abs/2501.09801)|null|
-|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|null|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709](http://arxiv.org/abs/2501.09709)|**[link](https://github.com/tisage/cybermentor)**|
 |**2025-01-16**|**Adaptive Contextual Caching for Mobile Edge Large Language Model Service**|Guangyuan Liu et.al.|[2501.09383](http://arxiv.org/abs/2501.09383)|null|
 |**2025-01-15**|**Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG**|Aditi Singh et.al.|[2501.09136](http://arxiv.org/abs/2501.09136)|**[link](https://github.com/asinghcsu/agenticrag-survey)**|
 |**2025-01-15**|**SteLLA: A Structured Grading System Using LLMs with RAG**|Hefei Qiu et.al.|[2501.09092](http://arxiv.org/abs/2501.09092)|null|
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-17**|**Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation**|Azat Abdullin et.al.|[2501.10200](http://arxiv.org/abs/2501.10200)|null|
 |**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-15**|**Augmenting Human-Annotated Training Data with Large Language Model Generation and Distillation in Open-Response Assessment**|Conrad Borchers et.al.|[2501.09126](http://arxiv.org/abs/2501.09126)|null|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008](http://arxiv.org/abs/2501.09008)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
 |**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-14**|**Multiplayer Federated Learning: Reaching Equilibrium with Less Communication**|TaeHo Yoon et.al.|[2501.08263](http://arxiv.org/abs/2501.08263)|null|
 |**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044](http://arxiv.org/abs/2501.08044)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
 
-<p align=right>(<a href=#updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
