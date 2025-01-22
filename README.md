@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-17**|**Finite-size security of continuous-variable quantum key distribution with imperfect heterodyne measurement**|Adnan A. E. Hajomer et.al.|[2501.10278](http://arxiv.org/abs/2501.10278)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-10**|**Prompt engineering and its implications on the energy consumption of Large Language Models**|Riccardo Rubei et.al.|[2501.05899](http://arxiv.org/abs/2501.05899)|null|
 |**2025-01-10**|**A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers**|Chenxi Yang et.al.|[2501.05651](http://arxiv.org/abs/2501.05651)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-16**|**Definition and data-driven reconstruction of asymptotic phase and amplitudes of stochastic oscillators via Koopman operator theory**|Shohei Takata et.al.|[2501.09340](http://arxiv.org/abs/2501.09340)|null|
 |**2025-01-16**|**Free-Knots Kolmogorov-Arnold Network: On the Analysis of Spline Knots and Advancing Stability**|Liangwewi Nathan Zheng et.al.|[2501.09283](http://arxiv.org/abs/2501.09283)|**[link](https://github.com/icuraslw/fr-kan)**|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-17**|**Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation**|Azat Abdullin et.al.|[2501.10200](http://arxiv.org/abs/2501.10200)|null|
 |**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-15**|**Augmenting Human-Annotated Training Data with Large Language Model Generation and Distillation in Open-Response Assessment**|Conrad Borchers et.al.|[2501.09126](http://arxiv.org/abs/2501.09126)|null|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008](http://arxiv.org/abs/2501.09008)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
 |**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-14**|**Multiplayer Federated Learning: Reaching Equilibrium with Less Communication**|TaeHo Yoon et.al.|[2501.08263](http://arxiv.org/abs/2501.08263)|null|
 |**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044](http://arxiv.org/abs/2501.08044)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
 
-<p align=right>(<a href=#updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
