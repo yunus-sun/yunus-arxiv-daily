@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -89,7 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-22**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
+|**2025-01-24**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
 |**2025-01-23**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|
 |**2025-01-21**|**How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models?**|Mirali Purohit et.al.|[2501.12535](http://arxiv.org/abs/2501.12535)|null|
 |**2025-01-23**|**Empowering AIOps: Leveraging Large Language Models for IT Operations Management**|Arthur Vitui et.al.|[2501.12461](http://arxiv.org/abs/2501.12461)|null|

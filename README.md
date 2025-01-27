@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-23**|**Exploring Finetuned Audio-LLM on Heart Murmur Features**|Adrian Florea et.al.|[2501.13884](http://arxiv.org/abs/2501.13884)|null|
 |**2025-01-23**|**The Lock Generative Adversarial Network for Medical Waveform Anomaly Detection**|Wenjie Xu et.al.|[2501.13858](http://arxiv.org/abs/2501.13858)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-14**|**Euclid preparation LX. The use of HST images as input for weak-lensing image simulations**|Euclid Collaboration et.al.|[2501.08372](http://arxiv.org/abs/2501.08372)|null|
 |**2025-01-14**|**Periodic Gamma-ray Modulation of the blazar PG 1553+113 Confirmed by Fermi-LAT and Multi-wavelength Observations**|S. Abdollahi et.al.|[2501.08015](http://arxiv.org/abs/2501.08015)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-22**|**Bailout Embedding and Stability Analysis of a Dynamical Mean-Field Ising Model of Opinion Dynamics**|Senbagaraman Sudarsanam et.al.|[2501.13078](http://arxiv.org/abs/2501.13078)|null|
 |**2025-01-22**|**TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting**|Yifan Hu et.al.|[2501.13041](http://arxiv.org/abs/2501.13041)|**[link](https://github.com/troubadour000/timefilter)**|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-21**|**ALoFTRAG: Automatic Local Fine Tuning for Retrieval Augmented Generation**|Peter Devine et.al.|[2501.11929](http://arxiv.org/abs/2501.11929)|**[link](https://github.com/lightblue-tech/aloftrag)**|
 |**2025-01-23**|**Med-R $^2$ : Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885](http://arxiv.org/abs/2501.11885)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,13 +103,13 @@
 |**2025-01-23**|**On the Reasoning Capacity of AI Models and How to Quantify It**|Santosh Kumar Radha et.al.|[2501.13833](http://arxiv.org/abs/2501.13833)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-22**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
+|**2025-01-24**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
 |**2025-01-23**|**Generative AI Misuse Potential in Cyber Security Education: A Case Study of a UK Degree Program**|Carlton Shepherd et.al.|[2501.12883](http://arxiv.org/abs/2501.12883)|null|
 |**2025-01-21**|**How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models?**|Mirali Purohit et.al.|[2501.12535](http://arxiv.org/abs/2501.12535)|null|
 |**2025-01-23**|**Empowering AIOps: Leveraging Large Language Models for IT Operations Management**|Arthur Vitui et.al.|[2501.12461](http://arxiv.org/abs/2501.12461)|null|
@@ -120,7 +120,7 @@
 |**2025-01-20**|**Fairness Testing through Extreme Value Theory**|Verya Monjezi et.al.|[2501.11597](http://arxiv.org/abs/2501.11597)|null|
 |**2025-01-20**|**Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges**|Vincent Koc et.al.|[2501.11496](http://arxiv.org/abs/2501.11496)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-22**|**Anomaly Detection in Double-entry Bookkeeping Data by Federated Learning System with Non-model Sharing Approach**|Sota Mashiko et.al.|[2501.12723](http://arxiv.org/abs/2501.12723)|null|
 |**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
