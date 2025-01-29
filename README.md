@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-27**|**Quantum frequency resampling**|Emanuele Tumbiolo et.al.|[2501.16283](http://arxiv.org/abs/2501.16283)|null|
 |**2025-01-27**|**Electric transport as a probe to unveil microscopic aspects of oxygen-depleted YBCO**|C. Acha et.al.|[2501.16278](http://arxiv.org/abs/2501.16278)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-22**|**Community attitudes towards the environmental cost of computational fluid dynamics research**|Miranda van Heel et.al.|[2501.09314](http://arxiv.org/abs/2501.09314)|null|
 |**2025-01-16**|**Scheduling Coflows for Minimizing the Maximum Completion Time in Heterogeneous Parallel Networks**|Chi-Yeh Chen et.al.|[2501.09293](http://arxiv.org/abs/2501.09293)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-26**|**Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory**|Hao Shu et.al.|[2501.15388](http://arxiv.org/abs/2501.15388)|**[link](https://github.com/haoshu2000/tctnn)**|
 |**2025-01-26**|**A Transfer Learning Framework for Anomaly Detection in Multivariate IoT Traffic Data**|Mahshid Rezakhani et.al.|[2501.15365](http://arxiv.org/abs/2501.15365)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-25**|**Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**|Yiqun Chen et.al.|[2501.15228](http://arxiv.org/abs/2501.15228)|**[link](https://github.com/chenyiqun/mmoa-rag)**|
 |**2025-01-25**|**Enhancing Intent Understanding for Ambiguous Prompts through Human-Machine Co-Adaptation**|Yangfan He et.al.|[2501.15167](http://arxiv.org/abs/2501.15167)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
 |**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579](http://arxiv.org/abs/2501.14579)|null|
 |**2025-01-27**|**Exploring the sustainable scaling of AI dilemma: A projective study of corporations' AI environmental impacts**|Clément Desroches et.al.|[2501.14334](http://arxiv.org/abs/2501.14334)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957](http://arxiv.org/abs/2501.15957)|null|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-25**|**A Post-Processing-Based Fair Federated Learning Framework**|Yi Zhou et.al.|[2501.15318](http://arxiv.org/abs/2501.15318)|null|
 |**2025-01-25**|**A Two-Stage CAE-Based Federated Learning Framework for Efficient Jamming Detection in 5G Networks**|Samhita Kuili et.al.|[2501.15288](http://arxiv.org/abs/2501.15288)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
