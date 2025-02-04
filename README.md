@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-01-31**|**Low-cost Microfluidic Testbed for Molecular Communications with Integrated Hydrodynamic Gating and Screen-printed Sensors**|Maide Miray Albay et.al.|[2501.19341](http://arxiv.org/abs/2501.19341)|null|
 |**2025-01-31**|**What is causal about causal models and representations?**|Frederik Hytting Jørgensen et.al.|[2501.19335](http://arxiv.org/abs/2501.19335)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-22**|**DASCH: Bringing 100+ Years of Photographic Data into the 21st Century and Beyond**|Peter K. G. Williams et.al.|[2501.12977](http://arxiv.org/abs/2501.12977)|null|
 |**2025-01-22**|**Offline Critic-Guided Diffusion Policy for Multi-User Delay-Constrained Scheduling**|Zhuoran Li et.al.|[2501.12942](http://arxiv.org/abs/2501.12942)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-01-30**|**Motion Diffusion Autoencoders: Enabling Attribute Manipulation in Human Motion Demonstrated on Karate Techniques**|Anthony Mendil et.al.|[2501.18729](http://arxiv.org/abs/2501.18729)|**[link](https://github.com/anthony-mendil/modiffae)**|
 |**2025-01-30**|**CryptoDNA: A Machine Learning Paradigm for DDoS Detection in Healthcare IoT, Inspired by crypto jacking prevention Models**|Zag ElSayed et.al.|[2501.18549](http://arxiv.org/abs/2501.18549)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-01-28**|**Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models**|Minghan Li et.al.|[2501.17039](http://arxiv.org/abs/2501.17039)|null|
 |**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952](http://arxiv.org/abs/2501.16952)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
 |**2025-01-30**|**Examining the Expanding Role of Synthetic Data Throughout the AI Development Pipeline**|Shivani Kapania et.al.|[2501.18493](http://arxiv.org/abs/2501.18493)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-01-31**|**Test-Time Training Scaling for Chemical Exploration in Drug Design**|Morgan Thomas et.al.|[2501.19153](http://arxiv.org/abs/2501.19153)|null|
 |**2025-01-31**|**Decorrelated Soft Actor-Critic for Efficient Deep Reinforcement Learning**|Burcu Küçükoğlu et.al.|[2501.19133](http://arxiv.org/abs/2501.19133)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-29**|**Power-Efficient Over-the-Air Aggregation with Receive Beamforming for Federated Learning**|Faeze Moradi Kalarde et.al.|[2501.18058](http://arxiv.org/abs/2501.18058)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
