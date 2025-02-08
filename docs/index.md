@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -51,7 +51,7 @@ layout: default
 |**2025-02-06**|**Decision Trees That Remember: Gradient-Based Learning of Recurrent Decision Trees with Memory**|Sascha Marton et.al.|[2502.04052](http://arxiv.org/abs/2502.04052)|null|
 |**2025-02-06**|**PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data**|Keon Vin Park et.al.|[2502.04018](http://arxiv.org/abs/2502.04018)|null|
 |**2025-02-06**|**Candidate RR Lyrae Associated with the Ultrafaint Dwarf Galaxy Aquarius III**|Chow-Choong Ngeow et.al.|[2502.03764](http://arxiv.org/abs/2502.03764)|null|
-|**2025-02-05**|**Rule-based Evolving Fuzzy System for Time Series Forecasting: New Perspectives Based on Type-2 Fuzzy Sets Measures Approach**|Eduardo Santos de Oliveira Marques et.al.|[2502.03650](http://arxiv.org/abs/2502.03650)|null|
+|**2025-02-05**|**Rule-based Evolving Fuzzy System for Time Series Forecasting: New Perspectives Based on Type-2 Fuzzy Sets Measures Approach**|Eduardo Santos de Oliveira Marques et.al.|[2502.03650](http://arxiv.org/abs/2502.03650)|**[link](https://github.com/EduProgram/ePL-KRLS-FSM_plus)**|
 |**2025-02-05**|**Swarm Characteristic Classification using Robust Neural Networks with Optimized Controllable Inputs**|Donald W. Peltier III et.al.|[2502.03619](http://arxiv.org/abs/2502.03619)|null|
 |**2025-02-05**|**A Multi-Task Learning Approach to Linear Multivariate Forecasting**|Liran Nochumsohn et.al.|[2502.03571](http://arxiv.org/abs/2502.03571)|null|
 
