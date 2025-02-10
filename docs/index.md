@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -32,7 +32,7 @@ layout: default
 |**2025-02-05**|**Solar Synergy: Innovative Strategies for Data Centers Energy Efficiency and Sustainability**|Alnawar J. Mohammed et.al.|[2502.03130](http://arxiv.org/abs/2502.03130)|null|
 |**2025-02-04**|**FPGA Innovation Research in the Netherlands: Present Landscape and Future Outlook**|Nikolaos Alachiotis et.al.|[2502.02404](http://arxiv.org/abs/2502.02404)|null|
 |**2025-02-04**|**A Multi-Objective Framework for Optimizing GPU-Enabled VM Placement in Cloud Data Centers with Multi-Instance GPU Technology**|Ahmad Siavashi et.al.|[2502.01909](http://arxiv.org/abs/2502.01909)|null|
-|**2025-01-28**|**AI Load Dynamics--A Power Electronics Perspective**|Yuzhuo Li et.al.|[2502.01647](http://arxiv.org/abs/2502.01647)|null|
+|**2025-02-06**|**AI Load Dynamics--A Power Electronics Perspective**|Yuzhuo Li et.al.|[2502.01647](http://arxiv.org/abs/2502.01647)|null|
 |**2025-02-02**|**Congestion Management in High-Performance Interconnection Networks Using Adaptive Routing Notifications**|Jose Rocher-Gonzalez et.al.|[2502.00616](http://arxiv.org/abs/2502.00616)|null|
 |**2025-02-01**|**BatAnalysis -- A Comprehensive Python Pipeline for Swift BAT Time-Tagged Event Data Analysis**|Tyler Parsotan et.al.|[2502.00278](http://arxiv.org/abs/2502.00278)|**[link](https://github.com/parsotat/batanalysis)**|
 |**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|

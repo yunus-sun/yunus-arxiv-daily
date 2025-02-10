@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-06**|**DECAF: Learning to be Fair in Multi-agent Resource Allocation**|Ashwin Kumar et.al.|[2502.04281](http://arxiv.org/abs/2502.04281)|null|
 |**2025-02-06**|**Mean-Field Analysis of Latent Variable Process Models on Dynamically Evolving Graphs with Feedback Effects**|Ankan Ganguly et.al.|[2502.04280](http://arxiv.org/abs/2502.04280)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Data Center
 
@@ -44,7 +44,7 @@
 |**2025-02-05**|**Solar Synergy: Innovative Strategies for Data Centers Energy Efficiency and Sustainability**|Alnawar J. Mohammed et.al.|[2502.03130](http://arxiv.org/abs/2502.03130)|null|
 |**2025-02-04**|**FPGA Innovation Research in the Netherlands: Present Landscape and Future Outlook**|Nikolaos Alachiotis et.al.|[2502.02404](http://arxiv.org/abs/2502.02404)|null|
 |**2025-02-04**|**A Multi-Objective Framework for Optimizing GPU-Enabled VM Placement in Cloud Data Centers with Multi-Instance GPU Technology**|Ahmad Siavashi et.al.|[2502.01909](http://arxiv.org/abs/2502.01909)|null|
-|**2025-01-28**|**AI Load Dynamics--A Power Electronics Perspective**|Yuzhuo Li et.al.|[2502.01647](http://arxiv.org/abs/2502.01647)|null|
+|**2025-02-06**|**AI Load Dynamics--A Power Electronics Perspective**|Yuzhuo Li et.al.|[2502.01647](http://arxiv.org/abs/2502.01647)|null|
 |**2025-02-02**|**Congestion Management in High-Performance Interconnection Networks Using Adaptive Routing Notifications**|Jose Rocher-Gonzalez et.al.|[2502.00616](http://arxiv.org/abs/2502.00616)|null|
 |**2025-02-01**|**BatAnalysis -- A Comprehensive Python Pipeline for Swift BAT Time-Tagged Event Data Analysis**|Tyler Parsotan et.al.|[2502.00278](http://arxiv.org/abs/2502.00278)|**[link](https://github.com/parsotat/batanalysis)**|
 |**2025-01-31**|**StruM: Structured Mixed Precision for Efficient Deep Learning Hardware Codesign**|Michael Wu et.al.|[2501.18953](http://arxiv.org/abs/2501.18953)|null|
@@ -52,7 +52,7 @@
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
 |**2025-01-27**|**Euclid preparation. 3-dimensional galaxy clustering in configuration space. Part I. 2-point correlation function estimation**|Euclid Collaboration et.al.|[2501.16555](http://arxiv.org/abs/2501.16555)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-02-05**|**Swarm Characteristic Classification using Robust Neural Networks with Optimized Controllable Inputs**|Donald W. Peltier III et.al.|[2502.03619](http://arxiv.org/abs/2502.03619)|null|
 |**2025-02-05**|**A Multi-Task Learning Approach to Linear Multivariate Forecasting**|Liran Nochumsohn et.al.|[2502.03571](http://arxiv.org/abs/2502.03571)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-04**|**Conversation AI Dialog for Medicare powered by Finetuning and Retrieval Augmented Generation**|Atharva Mangeshkumar Agrawal et.al.|[2502.02249](http://arxiv.org/abs/2502.02249)|null|
 |**2025-02-04**|**LLMSecConfig: An LLM-Based Approach for Fixing Software Container Misconfigurations**|Ziyang Ye et.al.|[2502.02009](http://arxiv.org/abs/2502.02009)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-06**|**Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks**|Andreas Happe et.al.|[2502.04227](http://arxiv.org/abs/2502.04227)|null|
 |**2025-02-06**|**Keep It Light! Simplifying Image Clustering Via Text-Free Adapters**|Yicen Li et.al.|[2502.04226](http://arxiv.org/abs/2502.04226)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-05**|**Membership Inference Attack Should Move On to Distributional Statistics for Distilled Generative Models**|Muxing Li et.al.|[2502.02970](http://arxiv.org/abs/2502.02970)|null|
 |**2025-02-05**|**A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs**|Bradley P. Allen et.al.|[2502.02896](http://arxiv.org/abs/2502.02896)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-06**|**Mirror Descent Actor Critic via Bounded Advantage Learning**|Ryo Iwaki et.al.|[2502.03854](http://arxiv.org/abs/2502.03854)|null|
 |**2025-02-06**|**PAGNet: Pluggable Adaptive Generative Networks for Information Completion in Multi-Agent Communication**|Zhuohui Zhang et.al.|[2502.03845](http://arxiv.org/abs/2502.03845)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-05**|**Multi-objective methods in Federated Learning: A survey and taxonomy**|Maria Hartmann et.al.|[2502.03108](http://arxiv.org/abs/2502.03108)|null|
 |**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092](http://arxiv.org/abs/2502.03092)|null|
 
-<p align=right>(<a href=#updated-on-20250209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
