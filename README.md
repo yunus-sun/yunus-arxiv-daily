@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
 |**2025-02-07**|**Optimizing Wireless Resource Management and Synchronization in Digital Twin Networks**|Hanzhi Yu et.al.|[2502.05116](http://arxiv.org/abs/2502.05116)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
 |**2025-01-27**|**Euclid preparation. 3-dimensional galaxy clustering in configuration space. Part I. 2-point correlation function estimation**|Euclid Collaboration et.al.|[2501.16555](http://arxiv.org/abs/2501.16555)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-02-06**|**MedGNN: Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification**|Wei Fan et.al.|[2502.04515](http://arxiv.org/abs/2502.04515)|null|
 |**2025-02-06**|**Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense**|Zhicong Xian et.al.|[2502.04167](http://arxiv.org/abs/2502.04167)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-06**|**Experiments with Large Language Models on Retrieval-Augmented Generation for Closed-Source Simulation Software**|Andreas Baumann et.al.|[2502.03916](http://arxiv.org/abs/2502.03916)|null|
 |**2025-02-05**|**MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation**|Seonok Kim et.al.|[2502.03004](http://arxiv.org/abs/2502.03004)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-07**|**"It Felt Like I Was Left in the Dark": Exploring Information Needs and Design Opportunities for Family Caregivers of Older Adult Patients in Critical Care Settings**|Shihan Fu et.al.|[2502.05115](http://arxiv.org/abs/2502.05115)|null|
 |**2025-02-07**|**Flexible and Efficient Grammar-Constrained Decoding**|Kanghee Park et.al.|[2502.05111](http://arxiv.org/abs/2502.05111)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-05**|**Controllable GUI Exploration**|Aryan Garg et.al.|[2502.03330](http://arxiv.org/abs/2502.03330)|null|
 |**2025-02-05**|**Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing**|Salvatore Sinno et.al.|[2502.03086](http://arxiv.org/abs/2502.03086)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-07**|**Towards Smarter Sensing: 2D Clutter Mitigation in RL-Driven Cognitive MIMO Radar**|Adam Umra et.al.|[2502.04967](http://arxiv.org/abs/2502.04967)|null|
 |**2025-02-07**|**Fast Adaptive Anti-Jamming Channel Access via Deep Q Learning and Coarse-Grained Spectrum Prediction**|Jianshu Zhang et.al.|[2502.04963](http://arxiv.org/abs/2502.04963)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243](http://arxiv.org/abs/2502.04243)|null|
 |**2025-02-06**|**The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning**|Kunlan Xiang et.al.|[2502.04106](http://arxiv.org/abs/2502.04106)|null|
 
-<p align=right>(<a href=#updated-on-20250210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
