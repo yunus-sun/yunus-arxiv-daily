@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-19**|**Conveniently Identify Coils in Inductive Power Transfer System Using Machine Learning**|Yifan Zhao et.al.|[2502.13915](http://arxiv.org/abs/2502.13915)|null|
 |**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912](http://arxiv.org/abs/2502.13912)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-02-12**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766](http://arxiv.org/abs/2502.06766)|null|
 |**2025-02-10**|**Onion Routing Key Distribution for QKDN**|Pedro Otero-García et.al.|[2502.06657](http://arxiv.org/abs/2502.06657)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-02-18**|**Performance of Zero-Shot Time Series Foundation Models on Cloud Data**|William Toner et.al.|[2502.12944](http://arxiv.org/abs/2502.12944)|null|
 |**2025-02-18**|**Lightweight Online Adaption for Time Series Foundation Model Forecasts**|Thomas L. Lee et.al.|[2502.12920](http://arxiv.org/abs/2502.12920)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## RAG
 
@@ -86,13 +86,13 @@
 |**2025-02-18**|**Language Models are Few-Shot Graders**|Chenyan Zhao et.al.|[2502.13337](http://arxiv.org/abs/2502.13337)|null|
 |**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Large Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-20**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
 |**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
 |**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
@@ -103,7 +103,7 @@
 |**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
 |**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-18**|**Generative AI Enabled Robust Data Augmentation for Wireless Sensing in ISAC Networks**|Jiacheng Wang et.al.|[2502.12622](http://arxiv.org/abs/2502.12622)|null|
 |**2025-02-18**|**A Comprehensive Survey on Generative AI for Video-to-Music Generation**|Shulei Ji et.al.|[2502.12489](http://arxiv.org/abs/2502.12489)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-19**|**User Association and Coordinated Beamforming in Cognitive Aerial-Terrestrial Networks: A Safe Reinforcement Learning Approach**|Zizhen Zhou et.al.|[2502.13663](http://arxiv.org/abs/2502.13663)|null|
 |**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-14**|**Efficient Zero-Order Federated Finetuning of Language Models for Resource-Constrained Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.10239](http://arxiv.org/abs/2502.10239)|null|
 |**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978](http://arxiv.org/abs/2502.09978)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
