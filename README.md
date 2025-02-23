@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|null|
 |**2025-02-20**|**FetalCLIP: A Visual-Language Foundation Model for Fetal Ultrasound Image Analysis**|Fadillah Maani et.al.|[2502.14807](http://arxiv.org/abs/2502.14807)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-02-14**|**Distributed Application Provisioning over Ethereum based private and permissioned Blockchain: Availability modeling, capacity, and costs planning**|Carlos Melo et.al.|[2502.10515](http://arxiv.org/abs/2502.10515)|null|
 |**2025-02-13**|**Euclid: Finding strong gravitational lenses in the Early Release Observations using convolutional neural networks**|B. C. Nagam et.al.|[2502.09802](http://arxiv.org/abs/2502.09802)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,14 +69,14 @@
 |**2025-02-19**|**Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method**|Juyuan Zhang et.al.|[2502.13725](http://arxiv.org/abs/2502.13725)|null|
 |**2025-02-19**|**Learning Novel Transformer Architecture for Time-series Forecasting**|Juyuan Zhang et.al.|[2502.13721](http://arxiv.org/abs/2502.13721)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## RAG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
-|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|null|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**On the Influence of Context Size and Model Choice in Retrieval-Augmented Generation Systems**|Juraj Vladika et.al.|[2502.14759](http://arxiv.org/abs/2502.14759)|null|
 |**2025-02-20**|**WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models**|Yifu Chen et.al.|[2502.14727](http://arxiv.org/abs/2502.14727)|null|
 |**2025-02-20**|**FIND: Fine-grained Information Density Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis**|Mingyi Jia et.al.|[2502.14614](http://arxiv.org/abs/2502.14614)|null|
@@ -86,7 +86,7 @@
 |**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/abs/2502.14838)|null|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-18**|**Two Tickets are Better than One: Fair and Accurate Hiring Under Strategic LLM Manipulations**|Lee Cohen et.al.|[2502.13221](http://arxiv.org/abs/2502.13221)|null|
 |**2025-02-18**|**Generative AI and Information Asymmetry: Impacts on Adverse Selection and Moral Hazard**|Yukun Zhang et.al.|[2502.12969](http://arxiv.org/abs/2502.12969)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-20**|**Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization**|Zhitao He et.al.|[2502.14496](http://arxiv.org/abs/2502.14496)|null|
 |**2025-02-20**|**Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning**|Austin Yubo He et.al.|[2502.14372](http://arxiv.org/abs/2502.14372)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-19**|**Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective**|Wentao Yu et.al.|[2502.13732](http://arxiv.org/abs/2502.13732)|null|
 |**2025-02-19**|**Smoothed Normalization for Efficient Distributed Private Optimization**|Egor Shulgin et.al.|[2502.13482](http://arxiv.org/abs/2502.13482)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
