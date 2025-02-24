@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -32,7 +32,7 @@ layout: default
 |**2025-02-20**|**Secondary materials, Pigouvian taxes, and a monopsony**|Timo Kuosmanen et.al.|[2502.14636](http://arxiv.org/abs/2502.14636)|null|
 |**2025-02-20**|**Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale**|Shashwat Jaiswal et.al.|[2502.14617](http://arxiv.org/abs/2502.14617)|null|
 |**2025-02-19**|**CarbonEdge: Leveraging Mesoscale Spatial Carbon-Intensity Variations for Low Carbon Edge Computing**|Li Wu et.al.|[2502.14076](http://arxiv.org/abs/2502.14076)|null|
-|**2025-02-18**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
+|**2025-02-21**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
 |**2025-02-17**|**California Earthquake Dataset for Machine Learning and Cloud Computing**|Weiqiang Zhu et.al.|[2502.11500](http://arxiv.org/abs/2502.11500)|null|
 |**2025-02-16**|**Tri-layer SiN-on-Si 8x8 Optical Switches with Thermo-optic and Electro-optic Actuators**|Bohao Sun et.al.|[2502.11297](http://arxiv.org/abs/2502.11297)|null|
 |**2025-02-16**|**DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization**|Zhenheng Tang et.al.|[2502.11058](http://arxiv.org/abs/2502.11058)|null|
@@ -44,7 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting**|Yuxuan Yang et.al.|[2502.14704](http://arxiv.org/abs/2502.14704)|null|
+|**2025-02-21**|**Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting**|Yuxuan Yang et.al.|[2502.14704](http://arxiv.org/abs/2502.14704)|null|
 |**2025-02-20**|**LEIT-motifs: Scalable Motif Mining in Multidimensional Time Series**|Matteo Ceccarello et.al.|[2502.14446](http://arxiv.org/abs/2502.14446)|**[link](https://github.com/aidaLabDEI/LEIT-motifs)**|
 |**2025-02-20**|**Causality Analysis of COVID-19 Induced Crashes in Stock and Commodity Markets: A Topological Perspective**|Buddha Nath Sharma et.al.|[2502.14431](http://arxiv.org/abs/2502.14431)|null|
 |**2025-02-20**|**Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments**|Zhiwei Liu et.al.|[2502.14383](http://arxiv.org/abs/2502.14383)|null|
@@ -119,7 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**FUIA: Model Inversion Attack against Federated Unlearning**|Lei Zhou et.al.|[2502.14558](http://arxiv.org/abs/2502.14558)|null|
 |**2025-02-20**|**PQBFL: A Post-Quantum Blockchain-based Protocol for Federated Learning**|Hadi GHaravi et.al.|[2502.14464](http://arxiv.org/abs/2502.14464)|null|
 |**2025-02-20**|**VFL-RPS: Relevant Participant Selection in Vertical Federated Learning**|Afsana Khan et.al.|[2502.14375](http://arxiv.org/abs/2502.14375)|null|

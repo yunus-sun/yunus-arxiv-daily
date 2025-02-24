@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|null|
 |**2025-02-20**|**FetalCLIP: A Visual-Language Foundation Model for Fetal Ultrasound Image Analysis**|Fadillah Maani et.al.|[2502.14807](http://arxiv.org/abs/2502.14807)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Data Center
 
@@ -44,7 +44,7 @@
 |**2025-02-20**|**Secondary materials, Pigouvian taxes, and a monopsony**|Timo Kuosmanen et.al.|[2502.14636](http://arxiv.org/abs/2502.14636)|null|
 |**2025-02-20**|**Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale**|Shashwat Jaiswal et.al.|[2502.14617](http://arxiv.org/abs/2502.14617)|null|
 |**2025-02-19**|**CarbonEdge: Leveraging Mesoscale Spatial Carbon-Intensity Variations for Low Carbon Edge Computing**|Li Wu et.al.|[2502.14076](http://arxiv.org/abs/2502.14076)|null|
-|**2025-02-18**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
+|**2025-02-21**|**Moving to ICSC: synergy between PNRR projects for more powerful Data Centers: a case study**|Fabio Ragosta et.al.|[2502.12938](http://arxiv.org/abs/2502.12938)|null|
 |**2025-02-17**|**California Earthquake Dataset for Machine Learning and Cloud Computing**|Weiqiang Zhu et.al.|[2502.11500](http://arxiv.org/abs/2502.11500)|null|
 |**2025-02-16**|**Tri-layer SiN-on-Si 8x8 Optical Switches with Thermo-optic and Electro-optic Actuators**|Bohao Sun et.al.|[2502.11297](http://arxiv.org/abs/2502.11297)|null|
 |**2025-02-16**|**DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization**|Zhenheng Tang et.al.|[2502.11058](http://arxiv.org/abs/2502.11058)|null|
@@ -52,13 +52,13 @@
 |**2025-02-14**|**Distributed Application Provisioning over Ethereum based private and permissioned Blockchain: Availability modeling, capacity, and costs planning**|Carlos Melo et.al.|[2502.10515](http://arxiv.org/abs/2502.10515)|null|
 |**2025-02-13**|**Euclid: Finding strong gravitational lenses in the Early Release Observations using convolutional neural networks**|B. C. Nagam et.al.|[2502.09802](http://arxiv.org/abs/2502.09802)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting**|Yuxuan Yang et.al.|[2502.14704](http://arxiv.org/abs/2502.14704)|null|
+|**2025-02-21**|**Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting**|Yuxuan Yang et.al.|[2502.14704](http://arxiv.org/abs/2502.14704)|null|
 |**2025-02-20**|**LEIT-motifs: Scalable Motif Mining in Multidimensional Time Series**|Matteo Ceccarello et.al.|[2502.14446](http://arxiv.org/abs/2502.14446)|**[link](https://github.com/aidaLabDEI/LEIT-motifs)**|
 |**2025-02-20**|**Causality Analysis of COVID-19 Induced Crashes in Stock and Commodity Markets: A Topological Perspective**|Buddha Nath Sharma et.al.|[2502.14431](http://arxiv.org/abs/2502.14431)|null|
 |**2025-02-20**|**Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments**|Zhiwei Liu et.al.|[2502.14383](http://arxiv.org/abs/2502.14383)|null|
@@ -69,7 +69,7 @@
 |**2025-02-19**|**Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method**|Juyuan Zhang et.al.|[2502.13725](http://arxiv.org/abs/2502.13725)|null|
 |**2025-02-19**|**Learning Novel Transformer Architecture for Time-series Forecasting**|Juyuan Zhang et.al.|[2502.13721](http://arxiv.org/abs/2502.13721)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-20**|**Revealing and Mitigating Over-Attention in Knowledge Editing**|Pinzheng Wang et.al.|[2502.14838](http://arxiv.org/abs/2502.14838)|null|
 |**2025-02-20**|**Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs**|Tao Ji et.al.|[2502.14837](http://arxiv.org/abs/2502.14837)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-18**|**Two Tickets are Better than One: Fair and Accurate Hiring Under Strategic LLM Manipulations**|Lee Cohen et.al.|[2502.13221](http://arxiv.org/abs/2502.13221)|null|
 |**2025-02-18**|**Generative AI and Information Asymmetry: Impacts on Adverse Selection and Moral Hazard**|Yukun Zhang et.al.|[2502.12969](http://arxiv.org/abs/2502.12969)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,13 +137,13 @@
 |**2025-02-20**|**Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization**|Zhitao He et.al.|[2502.14496](http://arxiv.org/abs/2502.14496)|null|
 |**2025-02-20**|**Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning**|Austin Yubo He et.al.|[2502.14372](http://arxiv.org/abs/2502.14372)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 ## Federated Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**FUIA: Model Inversion Attack against Federated Unlearning**|Lei Zhou et.al.|[2502.14558](http://arxiv.org/abs/2502.14558)|null|
 |**2025-02-20**|**PQBFL: A Post-Quantum Blockchain-based Protocol for Federated Learning**|Hadi GHaravi et.al.|[2502.14464](http://arxiv.org/abs/2502.14464)|null|
 |**2025-02-20**|**VFL-RPS: Relevant Participant Selection in Vertical Federated Learning**|Afsana Khan et.al.|[2502.14375](http://arxiv.org/abs/2502.14375)|null|
@@ -154,7 +154,7 @@
 |**2025-02-19**|**Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective**|Wentao Yu et.al.|[2502.13732](http://arxiv.org/abs/2502.13732)|null|
 |**2025-02-19**|**Smoothed Normalization for Efficient Distributed Private Optimization**|Egor Shulgin et.al.|[2502.13482](http://arxiv.org/abs/2502.13482)|null|
 
-<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
