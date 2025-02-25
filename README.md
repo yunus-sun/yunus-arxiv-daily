@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-21**|**A Deep Neural Network-based Frequency Predictor for Frequency-Constrained Optimal Power Flow**|Fan Jiang et.al.|[2502.15641](http://arxiv.org/abs/2502.15641)|null|
 |**2025-02-21**|**Sparks of cognitive flexibility: self-guided context inference for flexible stimulus-response mapping by attentional routing**|Rowan Sommers et.al.|[2502.15634](http://arxiv.org/abs/2502.15634)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-02-16**|**DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization**|Zhenheng Tang et.al.|[2502.11058](http://arxiv.org/abs/2502.11058)|null|
 |**2025-02-16**|**Enabling Efficient Transaction Processing on CXL-Based Memory Sharing**|Zhao Wang et.al.|[2502.11046](http://arxiv.org/abs/2502.11046)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-02-21**|**MONSTER: Monash Scalable Time Series Evaluation Repository**|Angus Dempster et.al.|[2502.15122](http://arxiv.org/abs/2502.15122)|null|
 |**2025-02-20**|**Extreme Value Analysis based on Blockwise Top-Two Order Statistics**|Axel Bücher et.al.|[2502.15036](http://arxiv.org/abs/2502.15036)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-20**|**KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding**|Ahmed Heakl et.al.|[2502.14949](http://arxiv.org/abs/2502.14949)|null|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-21**|**Cross-Format Retrieval-Augmented Generation in XR with LLMs for Context-Aware Maintenance Assistance**|Akos Nagy et.al.|[2502.15604](http://arxiv.org/abs/2502.15604)|null|
 |**2025-02-21**|**Do Multilingual LLMs Think In English?**|Lisa Schut et.al.|[2502.15603](http://arxiv.org/abs/2502.15603)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-20**|**Augmenting Coaching with GenAI: Insights into Use, Effectiveness, and Future Potential**|Jennifer Haase et.al.|[2502.14632](http://arxiv.org/abs/2502.14632)|null|
 |**2025-02-20**|**Feedforward in Generative AI: Opportunities for a Design Space**|Bryan Min et.al.|[2502.14229](http://arxiv.org/abs/2502.14229)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
 |**2025-02-21**|**Projection Optimization: A General Framework for Multi-Objective and Multi-Group RLHF**|Nuoya Xiong et.al.|[2502.15145](http://arxiv.org/abs/2502.15145)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-20**|**Blockchain-based Framework for Scalable and Incentivized Federated Learning**|Bijun Wu et.al.|[2502.14170](http://arxiv.org/abs/2502.14170)|null|
 |**2025-02-19**|**Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective**|Wentao Yu et.al.|[2502.13732](http://arxiv.org/abs/2502.13732)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
