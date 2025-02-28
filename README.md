@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377](http://arxiv.org/abs/2502.19377)|null|
 |**2025-02-26**|**The chiral SYK model in three-dimensional holography**|Alexander Altland et.al.|[2502.19370](http://arxiv.org/abs/2502.19370)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-02-22**|**Tri-layer SiN-on-Si 8x8 Optical Switches with Thermo-optic and Electro-optic Actuators**|Bohao Sun et.al.|[2502.11297](http://arxiv.org/abs/2502.11297)|null|
 |**2025-02-16**|**DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization**|Zhenheng Tang et.al.|[2502.11058](http://arxiv.org/abs/2502.11058)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Time Series
 
@@ -67,9 +67,9 @@
 |**2025-02-26**|**Empirical likelihood approach for high-dimensional moment restrictions with dependent data**|Jinyuan Chang et.al.|[2502.18970](http://arxiv.org/abs/2502.18970)|null|
 |**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834](http://arxiv.org/abs/2502.18834)|null|
 |**2025-02-26**|**Optimal Stochastic Trace Estimation in Generative Modeling**|Xinyang Liu et.al.|[2502.18808](http://arxiv.org/abs/2502.18808)|null|
-|**2025-02-26**|**BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**|Ruifeng Tan et.al.|[2502.18807](http://arxiv.org/abs/2502.18807)|**[link](https://github.com/Ruifeng-Tan/BatteryLife)**|
+|**2025-02-27**|**BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**|Ruifeng Tan et.al.|[2502.18807](http://arxiv.org/abs/2502.18807)|**[link](https://github.com/Ruifeng-Tan/BatteryLife)**|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-25**|**Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems**|Matthew Barker et.al.|[2502.18635](http://arxiv.org/abs/2502.18635)|null|
 |**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-02-26**|**HDEE: Heterogeneous Domain Expert Ensemble**|Oğuzhan Ersoy et.al.|[2502.19385](http://arxiv.org/abs/2502.19385)|null|
 |**2025-02-26**|**DataMan: Data Manager for Pre-training Large Language Models**|Ru Peng et.al.|[2502.19363](http://arxiv.org/abs/2502.19363)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-25**|**Inverse Materials Design by Large Language Model-Assisted Generative Framework**|Yun Hao et.al.|[2502.18127](http://arxiv.org/abs/2502.18127)|null|
 |**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -128,7 +128,7 @@
 |---|---|---|---|---|
 |**2025-02-26**|**Recurrent Auto-Encoders for Enhanced Deep Reinforcement Learning in Wilderness Search and Rescue Planning**|Jan-Hendrik Ewers et.al.|[2502.19356](http://arxiv.org/abs/2502.19356)|null|
 |**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
-|**2025-02-26**|**WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies**|William Solow et.al.|[2502.19308](http://arxiv.org/abs/2502.19308)|null|
+|**2025-02-27**|**WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies**|William Solow et.al.|[2502.19308](http://arxiv.org/abs/2502.19308)|null|
 |**2025-02-26**|**Combining Planning and Reinforcement Learning for Solving Relational Multiagent Domains**|Nikhilesh Prabhakar et.al.|[2502.19297](http://arxiv.org/abs/2502.19297)|null|
 |**2025-02-26**|**Deep Computerized Adaptive Testing**|Jiguang Li et.al.|[2502.19275](http://arxiv.org/abs/2502.19275)|null|
 |**2025-02-26**|**Can RLHF be More Efficient with Imperfect Reward Models? A Policy Coverage Perspective**|Jiawei Huang et.al.|[2502.19255](http://arxiv.org/abs/2502.19255)|null|
@@ -137,7 +137,7 @@
 |**2025-02-26**|**Policy Testing with MDPFuzz (Replicability Study)**|Quentin Mazouni et.al.|[2502.19116](http://arxiv.org/abs/2502.19116)|null|
 |**2025-02-26**|**XSS Adversarial Attacks Based on Deep Reinforcement Learning: A Replication and Extension Study**|Samuele Pasini et.al.|[2502.19095](http://arxiv.org/abs/2502.19095)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-25**|**FinP: Fairness-in-Privacy in Federated Learning by Addressing Disparities in Privacy Risk**|Tianyu Zhao et.al.|[2502.17748](http://arxiv.org/abs/2502.17748)|null|
 |**2025-02-24**|**Robust Federated Learning with Global Sensitivity Estimation for Financial Risk Management**|Lei Zhao et.al.|[2502.17694](http://arxiv.org/abs/2502.17694)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

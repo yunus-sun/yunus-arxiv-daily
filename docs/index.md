@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -53,7 +53,7 @@ layout: default
 |**2025-02-26**|**Empirical likelihood approach for high-dimensional moment restrictions with dependent data**|Jinyuan Chang et.al.|[2502.18970](http://arxiv.org/abs/2502.18970)|null|
 |**2025-02-26**|**FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting**|Yifan Hu et.al.|[2502.18834](http://arxiv.org/abs/2502.18834)|null|
 |**2025-02-26**|**Optimal Stochastic Trace Estimation in Generative Modeling**|Xinyang Liu et.al.|[2502.18808](http://arxiv.org/abs/2502.18808)|null|
-|**2025-02-26**|**BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**|Ruifeng Tan et.al.|[2502.18807](http://arxiv.org/abs/2502.18807)|**[link](https://github.com/Ruifeng-Tan/BatteryLife)**|
+|**2025-02-27**|**BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction**|Ruifeng Tan et.al.|[2502.18807](http://arxiv.org/abs/2502.18807)|**[link](https://github.com/Ruifeng-Tan/BatteryLife)**|
 
 ## RAG
 
@@ -106,7 +106,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**Recurrent Auto-Encoders for Enhanced Deep Reinforcement Learning in Wilderness Search and Rescue Planning**|Jan-Hendrik Ewers et.al.|[2502.19356](http://arxiv.org/abs/2502.19356)|null|
 |**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
-|**2025-02-26**|**WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies**|William Solow et.al.|[2502.19308](http://arxiv.org/abs/2502.19308)|null|
+|**2025-02-27**|**WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies**|William Solow et.al.|[2502.19308](http://arxiv.org/abs/2502.19308)|null|
 |**2025-02-26**|**Combining Planning and Reinforcement Learning for Solving Relational Multiagent Domains**|Nikhilesh Prabhakar et.al.|[2502.19297](http://arxiv.org/abs/2502.19297)|null|
 |**2025-02-26**|**Deep Computerized Adaptive Testing**|Jiguang Li et.al.|[2502.19275](http://arxiv.org/abs/2502.19275)|null|
 |**2025-02-26**|**Can RLHF be More Efficient with Imperfect Reward Models? A Policy Coverage Perspective**|Jiawei Huang et.al.|[2502.19255](http://arxiv.org/abs/2502.19255)|null|
