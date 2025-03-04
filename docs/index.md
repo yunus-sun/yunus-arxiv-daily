@@ -65,7 +65,7 @@ layout: default
 |**2025-02-28**|**TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval**|Chien-Yu Lin et.al.|[2502.20969](http://arxiv.org/abs/2502.20969)|null|
 |**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
 |**2025-02-28**|**Retrieval Augmented Generation for Topic Modeling in Organizational Research: An Introduction with Empirical Demonstration**|Gerion Spielberger et.al.|[2502.20963](http://arxiv.org/abs/2502.20963)|null|
-|**2025-02-28**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
+|**2025-03-03**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
 |**2025-02-28**|**DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking**|Zhuoqun Li et.al.|[2502.20730](http://arxiv.org/abs/2502.20730)|null|
 |**2025-02-28**|**LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation**|Haitao Li et.al.|[2502.20640](http://arxiv.org/abs/2502.20640)|null|
 |**2025-02-28**|**PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data**|Juntao Tan et.al.|[2502.20616](http://arxiv.org/abs/2502.20616)|null|
@@ -82,7 +82,7 @@ layout: default
 |**2025-02-28**|**Token-level Ensembling of Models with Different Vocabularies**|Rachel Wicks et.al.|[2502.21265](http://arxiv.org/abs/2502.21265)|null|
 |**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
 |**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
-|**2025-02-28**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
+|**2025-03-03**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
 |**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
 
 ## Generative AI
