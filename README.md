@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-28**|**Utilizing Quantum Fingerprints in Plant Cells to Evaluate Plant productivity**|Umadini Ranasinghe et.al.|[2502.21275](http://arxiv.org/abs/2502.21275)|null|
 |**2025-02-28**|**Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks**|Andrea Montanari et.al.|[2502.21269](http://arxiv.org/abs/2502.21269)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-02-17**|**California Earthquake Dataset for Machine Learning and Cloud Computing**|Weiqiang Zhu et.al.|[2502.11500](http://arxiv.org/abs/2502.11500)|null|
 |**2025-02-22**|**Tri-layer SiN-on-Si 8x8 Optical Switches with Thermo-optic and Electro-optic Actuators**|Bohao Sun et.al.|[2502.11297](http://arxiv.org/abs/2502.11297)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-02-28**|**A Compact Model for Large-Scale Time Series Forecasting**|Chin-Chia Michael Yeh et.al.|[2502.20634](http://arxiv.org/abs/2502.20634)|null|
 |**2025-02-27**|**PFformer: A Position-Free Transformer Variant for Extreme-Adaptive Multivariate Time Series Forecasting**|Yanhong Li et.al.|[2502.20571](http://arxiv.org/abs/2502.20571)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-02-28**|**LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation**|Haitao Li et.al.|[2502.20640](http://arxiv.org/abs/2502.20640)|null|
 |**2025-02-28**|**PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data**|Juntao Tan et.al.|[2502.20616](http://arxiv.org/abs/2502.20616)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-03**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
 |**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
 |**2025-02-27**|**Empowering Social Service with AI: Insights from a Participatory Design Study with Practitioners**|Yugin Tan et.al.|[2502.19822](http://arxiv.org/abs/2502.19822)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-02-28**|**Robust Deterministic Policy Gradient for Disturbance Attenuation and Its Application to Quadrotor Control**|Taeho Lee et.al.|[2502.21057](http://arxiv.org/abs/2502.21057)|null|
 |**2025-02-28**|**Reward Dimension Reduction for Scalable Multi-Objective Reinforcement Learning**|Giseung Park et.al.|[2502.20957](http://arxiv.org/abs/2502.20957)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-02-27**|**Revisit the Stability of Vanilla Federated Learning Under Diverse Conditions**|Youngjoon Lee et.al.|[2502.19849](http://arxiv.org/abs/2502.19849)|null|
 |**2025-02-27**|**Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data**|Pei-Yau Weng et.al.|[2502.19752](http://arxiv.org/abs/2502.19752)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
