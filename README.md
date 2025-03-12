@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |---|---|---|---|---|
 |**2025-03-10**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586](http://arxiv.org/abs/2503.07586)|null|
 |**2025-03-10**|**Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability**|Mukesh Sahani et.al.|[2503.07570](http://arxiv.org/abs/2503.07570)|null|
-|**2025-03-10**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565](http://arxiv.org/abs/2503.07565)|null|
+|**2025-03-11**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565](http://arxiv.org/abs/2503.07565)|null|
 |**2025-03-10**|**Efficient Distributed Learning over Decentralized Networks with Convoluted Support Vector Machine**|Canyi Chen et.al.|[2503.07563](http://arxiv.org/abs/2503.07563)|null|
 |**2025-03-10**|**Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure**|Jason Milionis et.al.|[2503.07558](http://arxiv.org/abs/2503.07558)|null|
 |**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
@@ -35,7 +35,7 @@
 |**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547](http://arxiv.org/abs/2503.07547)|null|
 |**2025-03-10**|**Real-Time Structural Deflection Estimation in Hydraulically Actuated Systems Using 3D Flexible Multibody Simulation and DNNs**|Qasim Khadim et.al.|[2503.07528](http://arxiv.org/abs/2503.07528)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Data Center
 
@@ -45,14 +45,14 @@
 |**2025-03-10**|**xPUE: Extending Power Usage Effectiveness Metrics for Cloud Infrastructures**|Guillaume Fieni et.al.|[2503.07124](http://arxiv.org/abs/2503.07124)|null|
 |**2025-03-09**|**Towards Space-Based Computing Infrastructure Network: Development Trends, Network Architecture, Challenges Analysis, and Key Technologies**|Linling Kuang et.al.|[2503.06521](http://arxiv.org/abs/2503.06521)|null|
 |**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
-|**2025-03-07**|**VersaSlot: Efficient Fine-grained FPGA Sharing with Big.Little Slots and Live Migration in FPGA Cluster**|Jianfeng Gu et.al.|[2503.05930](http://arxiv.org/abs/2503.05930)|null|
+|**2025-03-11**|**VersaSlot: Efficient Fine-grained FPGA Sharing with Big.Little Slots and Live Migration in FPGA Cluster**|Jianfeng Gu et.al.|[2503.05930](http://arxiv.org/abs/2503.05930)|null|
 |**2025-03-03**|**Holistically Evaluating the Environmental Impact of Creating Language Models**|Jacob Morrison et.al.|[2503.05804](http://arxiv.org/abs/2503.05804)|null|
 |**2025-03-07**|**Routing for Large ML Models**|Ofir Cohen et.al.|[2503.05324](http://arxiv.org/abs/2503.05324)|**[link](https://github.com/ofircohen205/dcn-simulators)**|
 |**2025-03-06**|**The Case for Persistent CXL switches**|Khan Shaikhul Hadi et.al.|[2503.04991](http://arxiv.org/abs/2503.04991)|null|
 |**2025-03-06**|**Cloud Computing Energy Consumption Prediction Based on Kernel Extreme Learning Machine Algorithm Improved by Vector Weighted Average Algorithm**|Yuqing Wang et.al.|[2503.04088](http://arxiv.org/abs/2503.04088)|null|
 |**2025-03-05**|**Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach**|Noel Portillo et.al.|[2503.03618](http://arxiv.org/abs/2503.03618)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-03-09**|**Diffusion Model Based Probabilistic Day-ahead Load Forecasting**|Ding Lin et.al.|[2503.06697](http://arxiv.org/abs/2503.06697)|null|
 |**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-03-07**|**Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**|Shiping Yang et.al.|[2503.05587](http://arxiv.org/abs/2503.05587)|null|
 |**2025-03-07**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530](http://arxiv.org/abs/2503.05530)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-10**|**Plume: Scaffolding Text Composition in Dashboards**|Maxim Lisnic et.al.|[2503.07512](http://arxiv.org/abs/2503.07512)|null|
 |**2025-03-10**|**Sometimes the Model doth Preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations**|Hari Shankar et.al.|[2503.07510](http://arxiv.org/abs/2503.07510)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,14 +120,14 @@
 |**2025-03-09**|**Generative AI as Digital Media**|Gilad Abiri et.al.|[2503.06523](http://arxiv.org/abs/2503.06523)|null|
 |**2025-03-09**|**GenAI for Simulation Model in Model-Based Systems Engineering**|Lin Zhang et.al.|[2503.06422](http://arxiv.org/abs/2503.06422)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
-|**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
+|**2025-03-11**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
 |**2025-03-10**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523](http://arxiv.org/abs/2503.07523)|null|
 |**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
 |**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
@@ -137,7 +137,7 @@
 |**2025-03-10**|**Towards Safe Robot Foundation Models**|Maximilian Tölle et.al.|[2503.07404](http://arxiv.org/abs/2503.07404)|null|
 |**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -148,13 +148,13 @@
 |**2025-03-10**|**From Centralized to Decentralized Federated Learning: Theoretical Insights, Privacy Preservation, and Robustness Challenges**|Qiongxiu Li et.al.|[2503.07505](http://arxiv.org/abs/2503.07505)|null|
 |**2025-03-10**|**Federated Learning in NTNs: Design, Architecture and Challenges**|Amin Farajzadeh et.al.|[2503.07272](http://arxiv.org/abs/2503.07272)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
-|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216](http://arxiv.org/abs/2503.07216)|null|
+|**2025-03-11**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216](http://arxiv.org/abs/2503.07216)|null|
 |**2025-03-10**|**A Failure-Free and Efficient Discrete Laplace Distribution for Differential Privacy in MPC**|Ivan Tjuawinata et.al.|[2503.07048](http://arxiv.org/abs/2503.07048)|null|
 |**2025-03-10**|**CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model**|Shihao Hou et.al.|[2503.06993](http://arxiv.org/abs/2503.06993)|null|
 |**2025-03-10**|**Capture Global Feature Statistics for One-Shot Federated Learning**|Zenghao Guan et.al.|[2503.06962](http://arxiv.org/abs/2503.06962)|null|
 |**2025-03-10**|**You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data**|Shanshan Yan et.al.|[2503.06916](http://arxiv.org/abs/2503.06916)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
