@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.15
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-03-13**|**Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**|Nina Vesseron et.al.|[2503.10576](http://arxiv.org/abs/2503.10576)|null|
 |**2025-03-13**|**Low-Rank Matrix Regression via Least-Angle Regression**|Mingzhou Yin et.al.|[2503.10569](http://arxiv.org/abs/2503.10569)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-03-09**|**Generalizable Machine Learning Models for Predicting Data Center Server Power, Efficiency, and Throughput**|Nuoa Lei et.al.|[2503.06439](http://arxiv.org/abs/2503.06439)|null|
 |**2025-03-11**|**VersaSlot: Efficient Fine-grained FPGA Sharing with Big.Little Slots and Live Migration in FPGA Cluster**|Jianfeng Gu et.al.|[2503.05930](http://arxiv.org/abs/2503.05930)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-03-12**|**Predicting Lifespan of Ground-to-Air Multipath Components in mmWave UAV Channels**|Wahab Khawaja et.al.|[2503.09044](http://arxiv.org/abs/2503.09044)|null|
 |**2025-03-12**|**Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations**|Jiancheng Zhang et.al.|[2503.09007](http://arxiv.org/abs/2503.09007)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-03-11**|**Towards Scalable and Cross-Lingual Specialist Language Models for Oncology**|Morteza Rohanian et.al.|[2503.08323](http://arxiv.org/abs/2503.08323)|null|
 |**2025-03-11**|**DeepRAG: Building a Custom Hindi Embedding Model for Retrieval Augmented Generation from Scratch**|Nandakishor M et.al.|[2503.08213](http://arxiv.org/abs/2503.08213)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
 |**2025-03-13**|**Probing LLMs for Multilingual Discourse Generalization Through a Unified Label Set**|Florian Eichin et.al.|[2503.10515](http://arxiv.org/abs/2503.10515)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-03-12**|**"I Like Your Story!": A Co-Creative Story-Crafting Game with a Persona-Driven Character Based on Generative AI**|Jiaying Fu et.al.|[2503.09102](http://arxiv.org/abs/2503.09102)|null|
 |**2025-03-11**|**When Discourse Stalls: Moving Past Five Semantic Stopsigns about Generative AI in Design Research**|Willem van der Maden et.al.|[2503.08565](http://arxiv.org/abs/2503.08565)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434](http://arxiv.org/abs/2503.10434)|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421](http://arxiv.org/abs/2503.10421)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-03-12**|**Mitigating Membership Inference Vulnerability in Personalized Federated Learning**|Kangsoo Jung et.al.|[2503.09414](http://arxiv.org/abs/2503.09414)|null|
 |**2025-03-12**|**Robust Asymmetric Heterogeneous Federated Learning with Corrupted Clients**|Xiuwen Fang et.al.|[2503.09206](http://arxiv.org/abs/2503.09206)|**[link](https://github.com/fangxiuwen/rahfl)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
