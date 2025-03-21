@@ -14,88 +14,88 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
-|**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
-|**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481](http://arxiv.org/abs/2503.15481)|null|
-|**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
-|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
-|**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461](http://arxiv.org/abs/2503.15461)|null|
-|**2025-03-19**|**pyTTN: An Open Source Toolbox for Open and Closed System Quantum Dynamics Simulations Using Tree Tensor Networks**|Lachlan P Lindoy et.al.|[2503.15460](http://arxiv.org/abs/2503.15460)|**[link](https://gitlab.npl.co.uk/qsm/pyttn/)**|
-|**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448](http://arxiv.org/abs/2503.15448)|null|
-|**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
-|**2025-03-19**|**A discontinuity-capturing neural network with categorical embedding and its application to anisotropic elliptic interface problems**|Wei-Fan Hu et.al.|[2503.15441](http://arxiv.org/abs/2503.15441)|null|
+|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
+|**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|null|
+|**2025-03-20**|**Deep Feynman-Kac Methods for High-dimensional Semilinear Parabolic Equations: Revisit**|Xiaotao Zheng et.al.|[2503.16407](http://arxiv.org/abs/2503.16407)|null|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398](http://arxiv.org/abs/2503.16398)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**Truthful Elicitation of Imprecise Forecasts**|Anurag Singh et.al.|[2503.16395](http://arxiv.org/abs/2503.16395)|null|
+|**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389](http://arxiv.org/abs/2503.16389)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**Dynamic Metasurface-Backed Luneburg Lens for Multiplexed Backscatter Communication**|Samuel Kim et.al.|[2503.16366](http://arxiv.org/abs/2503.16366)|null|
+|**2025-03-20**|**Neural Networks: According to the Principles of Grassmann Algebra**|Z. Zarezadeh et.al.|[2503.16364](http://arxiv.org/abs/2503.16364)|null|
 
 ## Data Center
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Euclid: Quick Data Release (Q1) -- Photometric studies of known transients**|C. Duffy et.al.|[2503.15334](http://arxiv.org/abs/2503.15334)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). Galaxy shapes and alignments in the cosmic web**|Euclid Collaboration et.al.|[2503.15333](http://arxiv.org/abs/2503.15333)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). The role of cosmic connectivity in shaping galaxy clusters**|Euclid Collaboration et.al.|[2503.15332](http://arxiv.org/abs/2503.15332)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters**|Euclid Collaboration et.al.|[2503.15330](http://arxiv.org/abs/2503.15330)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine E -- Ensemble classification of strong gravitational lenses: lessons for Data Release 1**|Euclid Collaboration et.al.|[2503.15328](http://arxiv.org/abs/2503.15328)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). The Strong Lensing Discovery Engine C -- Finding lenses with machine learning**|Euclid Collaboration et.al.|[2503.15326](http://arxiv.org/abs/2503.15326)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1) The Strong Lensing Discovery Engine B -- Early strong lens candidates from visual inspection of high velocity dispersion galaxies**|Euclid Collaboration et.al.|[2503.15325](http://arxiv.org/abs/2503.15325)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): The Strong Lensing Discovery Engine A -- System overview and lens catalogue**|Euclid Collaboration et.al.|[2503.15324](http://arxiv.org/abs/2503.15324)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). An investigation of optically faint, red objects in the Euclid Deep Fields**|Euclid Collaboration et.al.|[2503.15322](http://arxiv.org/abs/2503.15322)|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images**|Euclid Collaboration et.al.|[2503.15321](http://arxiv.org/abs/2503.15321)|null|
+|**2025-03-19**|**ECO: An LLM-Driven Efficient Code Optimizer for Warehouse Scale Computers**|Hannah Lin et.al.|[2503.15669](http://arxiv.org/abs/2503.15669)|null|
+|**2025-03-18**|**Reliability Evaluation of Generalized $K_4$ -Hypercubes Based on Five Link Fault Patterns**|Shuqian Cheng et.al.|[2503.14022](http://arxiv.org/abs/2503.14022)|null|
+|**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
+|**2025-03-16**|**Automated Planning for Optimal Data Pipeline Instantiation**|Leonardo Rosa Amado et.al.|[2503.12626](http://arxiv.org/abs/2503.12626)|null|
+|**2025-03-15**|**MODRIC: A Cost Effective MODular Data Center Network Architecture with Rich InterConnections**|Nabajyoti Medhi et.al.|[2503.12200](http://arxiv.org/abs/2503.12200)|null|
+|**2025-03-17**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
+|**2025-03-14**|**Pushing DSP-Free Coherent Interconnect to the Last Inch by Optically Analog Signal Processing**|Mingming Zhang et.al.|[2503.11618](http://arxiv.org/abs/2503.11618)|null|
+|**2025-03-13**|**Shaved Ice: Optimal Compute Resource Commitments for Dynamic Multi-Cloud Workloads**|Murray Stokely et.al.|[2503.10235](http://arxiv.org/abs/2503.10235)|**[link](https://github.com/Snowflake-Labs/shavedice-dataset)**|
+|**2025-03-12**|**Priority-Aware Preemptive Scheduling for Mixed-Priority Workloads in MoE Inference**|Mohammad Siavashi et.al.|[2503.09304](http://arxiv.org/abs/2503.09304)|null|
+|**2025-03-12**|**A 3d particle visualization system for temperature management**|Benoit Lange et.al.|[2503.09198](http://arxiv.org/abs/2503.09198)|null|
 
 ## Time Series
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**A Dataset of Performance Measurements and Alerts from Mozilla (Data Artifact)**|Mohamed Bilel Besbes et.al.|[2503.16332](http://arxiv.org/abs/2503.16332)|null|
+|**2025-03-20**|**Machine learning identifies nullclines in oscillatory dynamical systems**|Bartosz Prokop et.al.|[2503.16240](http://arxiv.org/abs/2503.16240)|null|
+|**2025-03-20**|**Notes on Correlation Stress Tests**|Piotr Chmielowski et.al.|[2503.16200](http://arxiv.org/abs/2503.16200)|null|
+|**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049](http://arxiv.org/abs/2503.16049)|null|
+|**2025-03-20**|**Multivariate Time Series Anomaly Detection in Industry 5.0**|Lorenzo Colombi et.al.|[2503.15946](http://arxiv.org/abs/2503.15946)|null|
+|**2025-03-20**|**Revisiting the SATIRE-S irradiance reconstruction: Heritage of Mt Wilson magnetograms and Ca II K observations**|Theodosios Chatzistergos et.al.|[2503.15903](http://arxiv.org/abs/2503.15903)|null|
+|**2025-03-20**|**The Gaussian central limit theorem for a stationary time series with infinite varia**|Muneya Matsui et.al.|[2503.15894](http://arxiv.org/abs/2503.15894)|null|
+|**2025-03-20**|**Line Space Clustering (LSC): Feature-Based Clustering using K-medians and Dynamic Time Warping for Versatility**|Joanikij Chulev et.al.|[2503.15777](http://arxiv.org/abs/2503.15777)|null|
+|**2025-03-19**|**The OGLE Collection of Variable Stars. Over 75 000 Eclipsing and Ellipsoidal Binary Systems in the Magellanic Clouds**|M. Głowacki et.al.|[2503.15596](http://arxiv.org/abs/2503.15596)|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
-|**2025-03-19**|**HQNN-FSP: A Hybrid Classical-Quantum Neural Network for Regression-Based Financial Stock Market Prediction**|Prashant Kumar Choudhary et.al.|[2503.15403](http://arxiv.org/abs/2503.15403)|null|
-|**2025-03-19**|**ImputeGAP: A Comprehensive Library for Time Series Imputation**|Quentin Nater et.al.|[2503.15250](http://arxiv.org/abs/2503.15250)|null|
-|**2025-03-19**|**A Foundation Model for Patient Behavior Monitoring and Suicide Detection**|Rodrigo Oliver et.al.|[2503.15221](http://arxiv.org/abs/2503.15221)|null|
-|**2025-03-19**|**Diffusion-Based Forecasting for Uncertainty-Aware Model Predictive Control**|Stelios Zarifis et.al.|[2503.15095](http://arxiv.org/abs/2503.15095)|null|
-|**2025-03-19**|**A Note on Local Linear Regression for Time Series in Banach Spaces**|Florian Heinrichs et.al.|[2503.15039](http://arxiv.org/abs/2503.15039)|null|
-|**2025-03-19**|**SALMON VR: Visualizing Light-Matter Dynamics**|Tomohito Otobe et.al.|[2503.14870](http://arxiv.org/abs/2503.14870)|null|
-|**2025-03-19**|**Evaluating Time Series Models with Knowledge Discovery**|Li Zhang et.al.|[2503.14869](http://arxiv.org/abs/2503.14869)|null|
-|**2025-03-19**|**Maximum likelihood estimation of burst-merging kernels for bursty time series**|Tibebe Birhanu et.al.|[2503.14861](http://arxiv.org/abs/2503.14861)|null|
-|**2025-03-19**|**On a Dissimilarity Metric for Analyzing Body Synergistic Coordination in Non-Periodic Motion**|Shunpei Fujii et.al.|[2503.14821](http://arxiv.org/abs/2503.14821)|null|
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|null|
+|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|null|
+|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|null|
+|**2025-03-20**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879](http://arxiv.org/abs/2503.15879)|null|
+|**2025-03-20**|**DroidTTP: Mapping Android Applications with TTP for Cyber Threat Intelligence**|Dincy R Arikkat et.al.|[2503.15866](http://arxiv.org/abs/2503.15866)|null|
+|**2025-03-19**|**Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation**|Hisashi Johno et.al.|[2503.15664](http://arxiv.org/abs/2503.15664)|null|
+|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|null|
 |**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**When Pigs Get Sick: Multi-Agent AI for Swine Disease Detection**|Tittaya Mairittha et.al.|[2503.15204](http://arxiv.org/abs/2503.15204)|null|
-|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
-|**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
-|**2025-03-18**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
-|**2025-03-18**|**Command R7B Arabic: A Small, Enterprise Focused, Multilingual, and Culturally Aware Arabic LLM**|Yazeed Alnumay et.al.|[2503.14603](http://arxiv.org/abs/2503.14603)|null|
-|**2025-03-18**|**From "Hallucination" to "Suture": Insights from Language Philosophy to Enhance Large Language Models**|Qiantong Wang et.al.|[2503.14392](http://arxiv.org/abs/2503.14392)|null|
-|**2025-03-18**|**Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation**|Rikuto Tsuchida et.al.|[2503.14382](http://arxiv.org/abs/2503.14382)|null|
-|**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|
 
 ## Large Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
-|**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|null|
-|**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
-|**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
-|**2025-03-19**|**SkyLadder: Better and Faster Pretraining via Context Window Scheduling**|Tongyao Zhu et.al.|[2503.15450](http://arxiv.org/abs/2503.15450)|null|
-|**2025-03-19**|**Probing the topology of the space of tokens with structured prompts**|Michael Robinson et.al.|[2503.15421](http://arxiv.org/abs/2503.15421)|null|
-|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|null|
-|**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
-|**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
-|**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342](http://arxiv.org/abs/2503.15342)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Survey on Evaluation of LLM-based Agents**|Asaf Yehudai et.al.|[2503.16416](http://arxiv.org/abs/2503.16416)|null|
+|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
+|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402](http://arxiv.org/abs/2503.16402)|null|
+|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401](http://arxiv.org/abs/2503.16401)|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385](http://arxiv.org/abs/2503.16385)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356](http://arxiv.org/abs/2503.16356)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
 
 ## Generative AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Student's Use of Generative AI as a Support Tool in an Advanced Web Development Course**|Isaac Alpizar-Chacon et.al.|[2503.15684](http://arxiv.org/abs/2503.15684)|null|
+|**2025-03-19**|**Model Risk Management for Generative AI In Financial Institutions**|Anwesha Bhattacharyya et.al.|[2503.15668](http://arxiv.org/abs/2503.15668)|null|
 |**2025-03-19**|**SENAI: Towards Software Engineering Native Generative Artificial Intelligence**|Mootez Saad et.al.|[2503.15282](http://arxiv.org/abs/2503.15282)|null|
 |**2025-03-19**|**Exponentially Tilted Thermodynamic Maps (expTM): Predicting Phase Transitions Across Temperature, Pressure, and Chemical Potential**|Suemin Lee et.al.|[2503.15080](http://arxiv.org/abs/2503.15080)|null|
 |**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|null|
 |**2025-03-18**|**WebNav: An Intelligent Agent for Voice-Controlled Web Navigation**|Trisanth Srinivasan et.al.|[2503.13843](http://arxiv.org/abs/2503.13843)|null|
 |**2025-03-17**|**Pareidolic Illusions of Meaning: ChatGPT, Pseudolaw and the Triumph of Form over Substance**|Joe McIntyre et.al.|[2503.13556](http://arxiv.org/abs/2503.13556)|null|
-|**2025-03-15**|**Unlocking Learning Potentials: The Transformative Effect of Generative AI in Education Across Grade Levels**|Meijuan Xie et.al.|[2503.13535](http://arxiv.org/abs/2503.13535)|null|
-|**2025-03-15**|**Context-aware Multimodal AI Reveals Hidden Pathways in Five Centuries of Art Evolution**|Jin Kim et.al.|[2503.13531](http://arxiv.org/abs/2503.13531)|null|
 |**2025-03-17**|**Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions**|Matteo Esposito et.al.|[2503.13310](http://arxiv.org/abs/2503.13310)|null|
 |**2025-03-17**|**Objective Measurement of AI Literacy: Development and Validation of the AI Competency Objective Scale (AICOS)**|André Markus et.al.|[2503.12921](http://arxiv.org/abs/2503.12921)|null|
 |**2025-03-16**|**FedGAI: Federated Style Learning with Cloud-Edge Collaboration for Generative AI in Fashion Design**|Mingzhu Wu et.al.|[2503.12389](http://arxiv.org/abs/2503.12389)|null|
@@ -104,31 +104,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481](http://arxiv.org/abs/2503.15481)|null|
-|**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477](http://arxiv.org/abs/2503.15477)|null|
-|**2025-03-19**|**Optimizing Decomposition for Optimal Claim Verification**|Yining Lu et.al.|[2503.15354](http://arxiv.org/abs/2503.15354)|null|
-|**2025-03-19**|**aiXcoder-7B-v2: Training LLMs to Fully Utilize the Long Context in Repository-level Code Completion**|Jia Li et.al.|[2503.15301](http://arxiv.org/abs/2503.15301)|null|
-|**2025-03-19**|**Reinforcement Learning for Robust Athletic Intelligence: Lessons from the 2nd 'AI Olympics with RealAIGym' Competition**|Felix Wiebe et.al.|[2503.15290](http://arxiv.org/abs/2503.15290)|null|
-|**2025-03-19**|**DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**|Ruowen Zhao et.al.|[2503.15265](http://arxiv.org/abs/2503.15265)|null|
-|**2025-03-19**|**Partially Observable Reinforcement Learning with Memory Traces**|Onno Eberhard et.al.|[2503.15200](http://arxiv.org/abs/2503.15200)|null|
-|**2025-03-19**|**Multi-Agent Actor-Critic with Harmonic Annealing Pruning for Dynamic Spectrum Access Systems**|George Stamatelis et.al.|[2503.15172](http://arxiv.org/abs/2503.15172)|null|
-|**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
-|**2025-03-19**|**Volumetric Reconstruction From Partial Views for Task-Oriented Grasping**|Fujian Yan et.al.|[2503.15167](http://arxiv.org/abs/2503.15167)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming**|Minori Narita et.al.|[2503.16371](http://arxiv.org/abs/2503.16371)|null|
+|**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/abs/2503.16252)|null|
+|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/abs/2503.16219)|null|
+|**2025-03-20**|**Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning**|Georgios Apostolides et.al.|[2503.16197](http://arxiv.org/abs/2503.16197)|null|
+|**2025-03-20**|**Nonparametric Bellman Mappings for Value Iteration in Distributed Reinforcement Learning**|Yuki Akiyama et.al.|[2503.16192](http://arxiv.org/abs/2503.16192)|null|
+|**2025-03-20**|**CLS-RL: Image Classification with Rule-Based Reinforcement Learning**|Ming Li et.al.|[2503.16188](http://arxiv.org/abs/2503.16188)|null|
+|**2025-03-20**|**Cultural Alignment in Large Language Models Using Soft Prompt Tuning**|Reem I. Masoud et.al.|[2503.16094](http://arxiv.org/abs/2503.16094)|null|
+|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-20**|**Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2503.15947](http://arxiv.org/abs/2503.15947)|null|
 
 ## Federated Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233](http://arxiv.org/abs/2503.16233)|null|
+|**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049](http://arxiv.org/abs/2503.16049)|null|
+|**2025-03-20**|**FedSAF: A Federated Learning Framework for Enhanced Gastric Cancer Detection and Privacy Preservation**|Yuxin Miao et.al.|[2503.15870](http://arxiv.org/abs/2503.15870)|null|
+|**2025-03-20**|**FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors**|Changlong Shi et.al.|[2503.15842](http://arxiv.org/abs/2503.15842)|null|
+|**2025-03-20**|**Energy-Efficient Federated Learning and Migration in Digital Twin Edge Networks**|Yuzhi Zhou et.al.|[2503.15822](http://arxiv.org/abs/2503.15822)|null|
+|**2025-03-20**|**Communication Efficient Federated Learning with Linear Convergence on Heterogeneous Data**|Jie Liu et.al.|[2503.15804](http://arxiv.org/abs/2503.15804)|null|
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448](http://arxiv.org/abs/2503.15448)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390](http://arxiv.org/abs/2503.15390)|null|
-|**2025-03-19**|**FedBEns: One-Shot Federated Learning based on Bayesian Ensemble**|Jacopo Talpini et.al.|[2503.15367](http://arxiv.org/abs/2503.15367)|null|
-|**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210](http://arxiv.org/abs/2503.15210)|null|
-|**2025-03-19**|**Global Group Fairness in Federated Learning via Function Tracking**|Yves Rychener et.al.|[2503.15163](http://arxiv.org/abs/2503.15163)|null|
-|**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|null|
-|**2025-03-19**|**FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking**|Changlong Shi et.al.|[2503.15111](http://arxiv.org/abs/2503.15111)|null|
-|**2025-03-19**|**OFL: Opportunistic Federated Learning for Resource-Heterogeneous and Privacy-Aware Devices**|Yunlong Mao et.al.|[2503.15015](http://arxiv.org/abs/2503.15015)|null|
-|**2025-03-19**|**pFedFair: Towards Optimal Group Fairness-Accuracy Trade-off in Heterogeneous Federated Learning**|Haoyu Lei et.al.|[2503.14925](http://arxiv.org/abs/2503.14925)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
