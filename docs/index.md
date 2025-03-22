@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.21
+## Updated on 2025.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -93,7 +93,7 @@ layout: default
 |**2025-03-19**|**Model Risk Management for Generative AI In Financial Institutions**|Anwesha Bhattacharyya et.al.|[2503.15668](http://arxiv.org/abs/2503.15668)|null|
 |**2025-03-19**|**SENAI: Towards Software Engineering Native Generative Artificial Intelligence**|Mootez Saad et.al.|[2503.15282](http://arxiv.org/abs/2503.15282)|null|
 |**2025-03-19**|**Exponentially Tilted Thermodynamic Maps (expTM): Predicting Phase Transitions Across Temperature, Pressure, and Chemical Potential**|Suemin Lee et.al.|[2503.15080](http://arxiv.org/abs/2503.15080)|null|
-|**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|null|
+|**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|**[link](https://github.com/shanexiangh/aigve_tool)**|
 |**2025-03-18**|**WebNav: An Intelligent Agent for Voice-Controlled Web Navigation**|Trisanth Srinivasan et.al.|[2503.13843](http://arxiv.org/abs/2503.13843)|null|
 |**2025-03-17**|**Pareidolic Illusions of Meaning: ChatGPT, Pseudolaw and the Triumph of Form over Substance**|Joe McIntyre et.al.|[2503.13556](http://arxiv.org/abs/2503.13556)|null|
 |**2025-03-17**|**Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions**|Matteo Esposito et.al.|[2503.13310](http://arxiv.org/abs/2503.13310)|null|
