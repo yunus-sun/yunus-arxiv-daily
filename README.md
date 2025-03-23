@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.22
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-03-20**|**Dynamic Metasurface-Backed Luneburg Lens for Multiplexed Backscatter Communication**|Samuel Kim et.al.|[2503.16366](http://arxiv.org/abs/2503.16366)|null|
 |**2025-03-20**|**Neural Networks: According to the Principles of Grassmann Algebra**|Z. Zarezadeh et.al.|[2503.16364](http://arxiv.org/abs/2503.16364)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-03-12**|**Priority-Aware Preemptive Scheduling for Mixed-Priority Workloads in MoE Inference**|Mohammad Siavashi et.al.|[2503.09304](http://arxiv.org/abs/2503.09304)|null|
 |**2025-03-12**|**A 3d particle visualization system for temperature management**|Benoit Lange et.al.|[2503.09198](http://arxiv.org/abs/2503.09198)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-03-19**|**The OGLE Collection of Variable Stars. Over 75 000 Eclipsing and Ellipsoidal Binary Systems in the Magellanic Clouds**|M. Głowacki et.al.|[2503.15596](http://arxiv.org/abs/2503.15596)|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456](http://arxiv.org/abs/2503.15456)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**When Pigs Get Sick: Multi-Agent AI for Swine Disease Detection**|Tittaya Mairittha et.al.|[2503.15204](http://arxiv.org/abs/2503.15204)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
 |**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-03-17**|**Objective Measurement of AI Literacy: Development and Validation of the AI Competency Objective Scale (AICOS)**|André Markus et.al.|[2503.12921](http://arxiv.org/abs/2503.12921)|null|
 |**2025-03-16**|**FedGAI: Federated Style Learning with Cloud-Edge Collaboration for Generative AI in Fashion Design**|Mingzhu Wu et.al.|[2503.12389](http://arxiv.org/abs/2503.12389)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
 |**2025-03-20**|**Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2503.15947](http://arxiv.org/abs/2503.15947)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390](http://arxiv.org/abs/2503.15390)|null|
 
-<p align=right>(<a href=#updated-on-20250322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
