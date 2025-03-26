@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939](http://arxiv.org/abs/2503.18939)|null|
 |**2025-03-24**|**Strong coupling of dipole trapped atomic ensembles to a ring cavity**|T. Olney et.al.|[2503.18925](http://arxiv.org/abs/2503.18925)|null|
 |**2025-03-24**|**Signal Propagation in RIS-Aided 5G Systems**|Adam Samorzewski et.al.|[2503.18915](http://arxiv.org/abs/2503.18915)|null|
@@ -97,7 +97,7 @@ layout: default
 |**2025-03-23**|**Strategic Prompt Pricing for AIGC Services: A User-Centric Approach**|Xiang Li et.al.|[2503.18168](http://arxiv.org/abs/2503.18168)|null|
 |**2025-03-23**|**Adoption of Watermarking for Generative AI Systems in Practice and Implications under the new EU AI Act**|Bram Rijsbosch et.al.|[2503.18156](http://arxiv.org/abs/2503.18156)|null|
 |**2025-03-23**|**Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts**|Zongxiao Wu et.al.|[2503.18029](http://arxiv.org/abs/2503.18029)|null|
-|**2025-03-23**|**Generative AI for Validating Physics Laws**|Maria Nareklishvili et.al.|[2503.17894](http://arxiv.org/abs/2503.17894)|null|
+|**2025-03-25**|**Generative AI for Validating Physics Laws**|Maria Nareklishvili et.al.|[2503.17894](http://arxiv.org/abs/2503.17894)|null|
 |**2025-03-22**|**Metacognition in Content-Centric Computational Cognitive C4 Modeling**|Sergei Nirenburg et.al.|[2503.17822](http://arxiv.org/abs/2503.17822)|null|
 
 ## Reinforcement Learning

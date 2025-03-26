@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939](http://arxiv.org/abs/2503.18939)|null|
 |**2025-03-24**|**Strong coupling of dipole trapped atomic ensembles to a ring cavity**|T. Olney et.al.|[2503.18925](http://arxiv.org/abs/2503.18925)|null|
 |**2025-03-24**|**Signal Propagation in RIS-Aided 5G Systems**|Adam Samorzewski et.al.|[2503.18915](http://arxiv.org/abs/2503.18915)|null|
@@ -35,7 +35,7 @@
 |**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
 |**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874](http://arxiv.org/abs/2503.18874)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-03-17**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
 |**2025-03-14**|**Pushing DSP-Free Coherent Interconnect to the Last Inch by Optically Analog Signal Processing**|Mingming Zhang et.al.|[2503.11618](http://arxiv.org/abs/2503.11618)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-03-24**|**Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems**|Zhidi Lin et.al.|[2503.18309](http://arxiv.org/abs/2503.18309)|null|
 |**2025-03-23**|**Feedback-enhanced quantum reservoir computing with weak measurements**|Tomoya Monomi et.al.|[2503.17939](http://arxiv.org/abs/2503.17939)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
 |**2025-03-21**|**RustEvo^2: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation**|Linxi Liang et.al.|[2503.16922](http://arxiv.org/abs/2503.16922)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-24**|**Efficient and Accurate Scene Text Recognition with Cascaded-Transformers**|Savas Ozkan et.al.|[2503.18883](http://arxiv.org/abs/2503.18883)|null|
 |**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Generative AI
 
@@ -117,10 +117,10 @@
 |**2025-03-23**|**Strategic Prompt Pricing for AIGC Services: A User-Centric Approach**|Xiang Li et.al.|[2503.18168](http://arxiv.org/abs/2503.18168)|null|
 |**2025-03-23**|**Adoption of Watermarking for Generative AI Systems in Practice and Implications under the new EU AI Act**|Bram Rijsbosch et.al.|[2503.18156](http://arxiv.org/abs/2503.18156)|null|
 |**2025-03-23**|**Unleashing the power of text for credit default prediction: Comparing human-written and generative AI-refined texts**|Zongxiao Wu et.al.|[2503.18029](http://arxiv.org/abs/2503.18029)|null|
-|**2025-03-23**|**Generative AI for Validating Physics Laws**|Maria Nareklishvili et.al.|[2503.17894](http://arxiv.org/abs/2503.17894)|null|
+|**2025-03-25**|**Generative AI for Validating Physics Laws**|Maria Nareklishvili et.al.|[2503.17894](http://arxiv.org/abs/2503.17894)|null|
 |**2025-03-22**|**Metacognition in Content-Centric Computational Cognitive C4 Modeling**|Sergei Nirenburg et.al.|[2503.17822](http://arxiv.org/abs/2503.17822)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-03-24**|**The Role of Artificial Intelligence in Enhancing Insulin Recommendations and Therapy Outcomes**|Maria Panagiotou et.al.|[2503.18592](http://arxiv.org/abs/2503.18592)|null|
 |**2025-03-24**|**RLCAD: Reinforcement Learning Training Gym for Revolution Involved CAD Command Sequence Generation**|Xiaolong Yin et.al.|[2503.18549](http://arxiv.org/abs/2503.18549)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-03-20**|**Fed-NDIF: A Noise-Embedded Federated Diffusion Model For Low-Count Whole-Body PET Denoising**|Yinchi Zhou et.al.|[2503.16635](http://arxiv.org/abs/2503.16635)|null|
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
