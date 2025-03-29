@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.28
+## Updated on 2025.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-03-27**|**Solvability of N-level Systems under the Rotating Wave Approximation (RWA) and Dipole Selection Rules**|Phoenix M. M. Paing et.al.|[2503.21689](http://arxiv.org/abs/2503.21689)|null|
 |**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681](http://arxiv.org/abs/2503.21681)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-03-18**|**Reliability Evaluation of Generalized $K_4$ -Hypercubes Based on Five Link Fault Patterns**|Shuqian Cheng et.al.|[2503.14022](http://arxiv.org/abs/2503.14022)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-03-26**|**A kinetic theory approach to consensus formation in financial markets**|Jean-Gabriel Attali et.al.|[2503.20922](http://arxiv.org/abs/2503.20922)|null|
 |**2025-03-26**|**Topology of The Polar Vortex and Montana Weather**|Joshua Dorrington et.al.|[2503.20743](http://arxiv.org/abs/2503.20743)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
 |**2025-03-26**|**Dewey Long Context Embedding Model: A Technical Report**|Dun Zhang et.al.|[2503.20376](http://arxiv.org/abs/2503.20376)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/abs/2503.21683)|null|
 |**2025-03-27**|**COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**|Rajvee Sheth et.al.|[2503.21670](http://arxiv.org/abs/2503.21670)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-03-26**|**Generative AI and News Consumption: Design Fictions and Critical Analysis**|Joel Kiskola et.al.|[2503.20391](http://arxiv.org/abs/2503.20391)|null|
 |**2025-03-27**|**Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience**|Yahav Biran et.al.|[2503.20074](http://arxiv.org/abs/2503.20074)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-03-27**|**On Learning-Based Traffic Monitoring With a Swarm of Drones**|Marko Maljkovic et.al.|[2503.21433](http://arxiv.org/abs/2503.21433)|null|
 |**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-03-27**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768](http://arxiv.org/abs/2503.20768)|null|
 |**2025-03-26**|**Convergence Theory of Flexible ALADIN for Distributed Optimization**|Xu Du et.al.|[2503.20716](http://arxiv.org/abs/2503.20716)|null|
 
-<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
