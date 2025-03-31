@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -50,7 +50,7 @@ layout: default
 |**2025-03-27**|**Retrieving Time-Series Differences Using Natural Language Queries**|Kota Dohi et.al.|[2503.21378](http://arxiv.org/abs/2503.21378)|null|
 |**2025-03-27**|**Adaptive Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.21336](http://arxiv.org/abs/2503.21336)|null|
 |**2025-03-27**|**Dual-Splitting Conformal Prediction for Multi-Step Time Series Forecasting**|Qingdi Yu et.al.|[2503.21251](http://arxiv.org/abs/2503.21251)|null|
-|**2025-03-27**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162](http://arxiv.org/abs/2503.21162)|null|
+|**2025-03-28**|**Network Density Analysis of Health Seeking Behavior in Metro Manila: A Retrospective Analysis on COVID-19 Google Trends Data**|Michael T. Lopez II et.al.|[2503.21162](http://arxiv.org/abs/2503.21162)|null|
 |**2025-03-26**|**TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models**|Caspar Meijer et.al.|[2503.20952](http://arxiv.org/abs/2503.20952)|**[link](https://github.com/capsar/ts-inverse)**|
 |**2025-03-26**|**A kinetic theory approach to consensus formation in financial markets**|Jean-Gabriel Attali et.al.|[2503.20922](http://arxiv.org/abs/2503.20922)|null|
 |**2025-03-26**|**Topology of The Polar Vortex and Montana Weather**|Joshua Dorrington et.al.|[2503.20743](http://arxiv.org/abs/2503.20743)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601](http://arxiv.org/abs/2503.21601)|null|
 |**2025-03-27**|**DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows**|Jinwen Chen et.al.|[2503.21458](http://arxiv.org/abs/2503.21458)|null|
 |**2025-03-27**|**On Learning-Based Traffic Monitoring With a Swarm of Drones**|Marko Maljkovic et.al.|[2503.21433](http://arxiv.org/abs/2503.21433)|null|
-|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
+|**2025-03-28**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401](http://arxiv.org/abs/2503.21401)|null|
 
 ## Federated Learning
 
