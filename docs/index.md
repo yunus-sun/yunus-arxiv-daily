@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953](http://arxiv.org/abs/2504.01953)|null|
 |**2025-04-02**|**PIMDAL: Mitigating the Memory Bottleneck in Data Analytics using a Real Processing-in-Memory System**|Manos Frouzakis et.al.|[2504.01948](http://arxiv.org/abs/2504.01948)|null|
 |**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
@@ -64,11 +64,11 @@ layout: default
 |**2025-04-02**|**LARGE: Legal Retrieval Augmented Generation Evaluation Tool**|Minhu Park et.al.|[2504.01840](http://arxiv.org/abs/2504.01840)|null|
 |**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700](http://arxiv.org/abs/2504.01700)|null|
 |**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509](http://arxiv.org/abs/2504.01509)|null|
-|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
-|**2025-04-02**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|null|
+|**2025-04-03**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
+|**2025-04-03**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
-|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
-|**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|null|
+|**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
+|**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|**[link](https://github.com/nyuolab/MedDistractQA)**|
 
 ## Large Model
 
@@ -81,7 +81,7 @@ layout: default
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
 |**2025-04-02**|**Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure**|Boshi Wang et.al.|[2504.01928](http://arxiv.org/abs/2504.01928)|null|
 |**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**|Yinggan Xu et.al.|[2504.01911](http://arxiv.org/abs/2504.01911)|null|
 |**2025-04-02**|**Build Code Needs Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**|Anwar Ghammam et.al.|[2504.01907](http://arxiv.org/abs/2504.01907)|null|
 
@@ -109,7 +109,7 @@ layout: default
 |**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
 |**2025-04-02**|**Interpreting Emergent Planning in Model-Free Reinforcement Learning**|Thomas Bush et.al.|[2504.01871](http://arxiv.org/abs/2504.01871)|null|
 |**2025-04-02**|**Learning with Imperfect Models: When Multi-step Prediction Mitigates Compounding Error**|Anne Somalwar et.al.|[2504.01766](http://arxiv.org/abs/2504.01766)|null|
-|**2025-04-02**|**Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning**|Ke Jiang et.al.|[2504.01719](http://arxiv.org/abs/2504.01719)|null|
+|**2025-04-03**|**Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning**|Ke Jiang et.al.|[2504.01719](http://arxiv.org/abs/2504.01719)|null|
 |**2025-04-02**|**ToM-RL: Reinforcement Learning Unlocks Theory of Mind in Small LLMs**|Yi-Long Lu et.al.|[2504.01698](http://arxiv.org/abs/2504.01698)|null|
 |**2025-04-02**|**A Robust Model-Based Approach for Continuous-Time Policy Evaluation with Unknown Lévy Process Dynamics**|Qihao Ye et.al.|[2504.01482](http://arxiv.org/abs/2504.01482)|null|
 |**2025-04-02**|**Probabilistic Curriculum Learning for Goal-Based Reinforcement Learning**|Llewyn Salt et.al.|[2504.01459](http://arxiv.org/abs/2504.01459)|null|
