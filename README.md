@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
 |**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781](http://arxiv.org/abs/2504.02781)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-03-31**|**Moving Edge for On-Demand Edge Computing: An Uncertainty-aware Approach**|Fangtong Zhou et.al.|[2503.24214](http://arxiv.org/abs/2503.24214)|null|
 |**2025-03-29**|**Plug & Offload: Transparently Offloading TCP Stack onto Off-path SmartNIC with PnO-TCP**|Hailong Nan et.al.|[2503.22930](http://arxiv.org/abs/2503.22930)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
 |**2025-04-02**|**shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python**|Martin Jullum et.al.|[2504.01842](http://arxiv.org/abs/2504.01842)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-04-03**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-04-03**|**MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs**|Jaap Jumelet et.al.|[2504.02768](http://arxiv.org/abs/2504.02768)|null|
 |**2025-04-03**|**How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?**|Andres Algaba et.al.|[2504.02767](http://arxiv.org/abs/2504.02767)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-04-02**|**Quo Vadis, HCOMP? A Review of 12 Years of Research at the Frontier of Human Computation and Crowdsourcing**|Jonas Oppenlaender et.al.|[2504.01352](http://arxiv.org/abs/2504.01352)|null|
 |**2025-04-01**|**Near-energy-free Photonic Fourier Transformation for Convolution Operation Acceler**|Hangbo Yang et.al.|[2504.01117](http://arxiv.org/abs/2504.01117)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|null|
 |**2025-04-03**|**MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning**|Luca Furieri et.al.|[2504.02565](http://arxiv.org/abs/2504.02565)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-04-02**|**A Two-Timescale Approach for Wireless Federated Learning with Parameter Freezing and Power Control**|Jinhao Ouyang et.al.|[2504.01752](http://arxiv.org/abs/2504.01752)|null|
 |**2025-04-02**|**Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning**|Md Mahabub Uz Zaman et.al.|[2504.01705](http://arxiv.org/abs/2504.01705)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
