@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,9 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473](http://arxiv.org/abs/2504.10473)|null|
+|**2025-04-15**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473](http://arxiv.org/abs/2504.10473)|null|
 |**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456](http://arxiv.org/abs/2504.10456)|null|
-|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
+|**2025-04-15**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
 |**2025-04-14**|**Pinching-Antenna System (PASS) Enhanced Covert Communications**|Hao Jiang et.al.|[2504.10442](http://arxiv.org/abs/2504.10442)|null|
 |**2025-04-14**|**HybridCollab: Unifying In-Person and Remote Collaboration for Cardiovascular Surgical Planning in Mobile Augmented Reality**|Pratham Darrpan Mehta et.al.|[2504.10440](http://arxiv.org/abs/2504.10440)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
@@ -35,7 +35,7 @@
 |**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397](http://arxiv.org/abs/2504.10397)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Fangcheng Jin et.al.|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Data Center
 
@@ -45,14 +45,14 @@
 |**2025-04-09**|**Can Carbon-Aware Electric Load Shifting Reduce Emissions? An Equilibrium-Based Analysis**|Wenqian Jiang et.al.|[2504.07248](http://arxiv.org/abs/2504.07248)|null|
 |**2025-04-09**|**A Digital Twin of an Electrical Distribution Grid: SoCal 28-Bus Dataset**|Yiheng Xie et.al.|[2504.06588](http://arxiv.org/abs/2504.06588)|null|
 |**2025-04-07**|**dpBento: Benchmarking DPUs for Data Processing**|Jiasheng Hu et.al.|[2504.05536](http://arxiv.org/abs/2504.05536)|null|
-|**2025-04-07**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982](http://arxiv.org/abs/2504.04982)|null|
+|**2025-04-15**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982](http://arxiv.org/abs/2504.04982)|null|
 |**2025-04-05**|**ASDO: An Efficient Algorithm for Traffic Engineering in Large-Scale Data Center Network**|Yingming Mao et.al.|[2504.04027](http://arxiv.org/abs/2504.04027)|null|
 |**2025-04-03**|**Anomaly Detection in Time Series Data Using Reinforcement Learning, Variational Autoencoder, and Active Learning**|Bahareh Golchin et.al.|[2504.02999](http://arxiv.org/abs/2504.02999)|null|
 |**2025-04-03**|**Technical Overview of Recent Developments in Small Modular Reactors in the United States**|Yifan Sun et.al.|[2504.02599](http://arxiv.org/abs/2504.02599)|null|
 |**2025-04-03**|**Identifying misclassified meteor showers in the IAU MDC database. Reclassification Proposal**|T. J. Jopek et.al.|[2504.02392](http://arxiv.org/abs/2504.02392)|null|
 |**2025-04-03**|**Finite-Time Behavior of Erlang-C Model: Mixing Time, Mean Queue Length and Tail Bounds**|Hoang Huy Nguyen et.al.|[2504.02207](http://arxiv.org/abs/2504.02207)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-04-13**|**InfoMAE: Pair-Efficient Cross-Modal Alignment for Multimodal Time-Series Sensing Signals**|Tomoyoshi Kimura et.al.|[2504.09707](http://arxiv.org/abs/2504.09707)|null|
 |**2025-04-13**|**Adapting to the Unknown: Robust Meta-Learning for Zero-Shot Financial Time Series Forecasting**|Anxian Liu et.al.|[2504.09664](http://arxiv.org/abs/2504.09664)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## RAG
 
@@ -83,17 +83,17 @@
 |**2025-04-14**|**DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**|Hanghui Guo et.al.|[2504.10198](http://arxiv.org/abs/2504.10198)|null|
 |**2025-04-14**|**HalluSearch at SemEval-2025 Task 3: A Search-Enhanced RAG Pipeline for Hallucination Detection**|Mohamed A. Abdallah et.al.|[2504.10168](http://arxiv.org/abs/2504.10168)|null|
 |**2025-04-14**|**A Survey of Personalization: From RAG to Agent**|Xiaopeng Li et.al.|[2504.10147](http://arxiv.org/abs/2504.10147)|**[link](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent)**|
-|**2025-04-14**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074](http://arxiv.org/abs/2504.10074)|null|
+|**2025-04-15**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074](http://arxiv.org/abs/2504.10074)|null|
 |**2025-04-14**|**Hallucination Detection in LLMs via Topological Divergence on Attention Graphs**|Alexandra Bazarova et.al.|[2504.10063](http://arxiv.org/abs/2504.10063)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Large Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481](http://arxiv.org/abs/2504.10481)|null|
-|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
+|**2025-04-15**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
 |**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
 |**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
 |**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430](http://arxiv.org/abs/2504.10430)|null|
@@ -103,7 +103,7 @@
 |**2025-04-14**|**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**|Jiaxin Lu et.al.|[2504.10414](http://arxiv.org/abs/2504.10414)|null|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,15 +120,15 @@
 |**2025-04-12**|**Privacy Preservation in Gen AI Applications**|Swetha S et.al.|[2504.09095](http://arxiv.org/abs/2504.09095)|null|
 |**2025-04-11**|**Exploring Families' Use and Mediation of Generative AI: A Multi-User Perspective**|Shirley Zhang et.al.|[2504.09004](http://arxiv.org/abs/2504.09004)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
+|**2025-04-15**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
 |**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474](http://arxiv.org/abs/2504.10474)|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**The Communication and Computation Trade-off in Wireless Semantic Communications**|Xuyang Chen et.al.|[2504.10357](http://arxiv.org/abs/2504.10357)|null|
 |**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337](http://arxiv.org/abs/2504.10337)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
@@ -137,7 +137,7 @@
 |**2025-04-14**|**Deep Reasoning Translation via Reinforcement Learning**|Jiaan Wang et.al.|[2504.10187](http://arxiv.org/abs/2504.10187)|null|
 |**2025-04-14**|**MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning**|Zhaopeng Feng et.al.|[2504.10160](http://arxiv.org/abs/2504.10160)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-04-12**|**Query-based Knowledge Transfer for Heterogeneous Learning Environments**|Norah Alballa et.al.|[2504.09205](http://arxiv.org/abs/2504.09205)|null|
 |**2025-04-12**|**Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning**|Xianke Qiang et.al.|[2504.09114](http://arxiv.org/abs/2504.09114)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
