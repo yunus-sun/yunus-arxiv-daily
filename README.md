@@ -24,16 +24,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
-|**2025-04-15**|**Full-Diversity Construction-D Lattices: Design and Decoding Perspective on Block-Fading Channels**|Maryam Sadeghi et.al.|[2504.11448](http://arxiv.org/abs/2504.11448)|null|
-|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
-|**2025-04-15**|**Predicting Wave Dynamics using Deep Learning with Multistep Integration Inspired Attention and Physics-Based Loss Decomposition**|Indu Kant Deo et.al.|[2504.11433](http://arxiv.org/abs/2504.11433)|null|
-|**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431](http://arxiv.org/abs/2504.11431)|null|
-|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
-|**2025-04-15**|**HeatSense: Intelligent Thermal Anomaly Detection for Securing NoC-Enabled MPSoCs**|Mahdi Hasanzadeh et.al.|[2504.11421](http://arxiv.org/abs/2504.11421)|null|
-|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
-|**2025-04-15**|**Robustness and sex differences in skin cancer detection: logistic regression vs CNNs**|Nikolette Pedersen et.al.|[2504.11415](http://arxiv.org/abs/2504.11415)|null|
-|**2025-04-15**|**Multi-level Cellular Automata for FLIM networks**|Felipe Crispim Salvagnini et.al.|[2504.11406](http://arxiv.org/abs/2504.11406)|null|
+|**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|null|
+|**2025-04-16**|**Set families: restricted distances via restricted intersections**|Zichao Dong et.al.|[2504.12296](http://arxiv.org/abs/2504.12296)|null|
+|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292](http://arxiv.org/abs/2504.12292)|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
+|**2025-04-16**|**The Tenth NTIRE 2025 Image Denoising Challenge Report**|Lei Sun et.al.|[2504.12276](http://arxiv.org/abs/2504.12276)|null|
+|**2025-04-16**|**Kernels for Storage Capacity and Dual Index Coding**|Ishay Haviv et.al.|[2504.12274](http://arxiv.org/abs/2504.12274)|null|
+|**2025-04-16**|**SEROAISE: Advancing ROA Estimation for ReLU and PWA Dynamics through Estimating Certified Invariant Sets**|Pouya Samanipour et.al.|[2504.12269](http://arxiv.org/abs/2504.12269)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
+|**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265](http://arxiv.org/abs/2504.12265)|null|
+|**2025-04-16**|**Experimental Analysis of Multipath Characteristics in Indoor Distributed Massive MIMO Channels**|Yingjie Xu et.al.|[2504.12258](http://arxiv.org/abs/2504.12258)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750](http://arxiv.org/abs/2504.11750)|null|
 |**2025-04-14**|**Container-level Energy Observability in Kubernetes Clusters**|Bjorn Pijnacker et.al.|[2504.10702](http://arxiv.org/abs/2504.10702)|null|
 |**2025-04-14**|**Dispatching Odyssey: Exploring Performance in Computing Clusters under Real-world Workloads**|Mert Yildiz et.al.|[2504.10184](http://arxiv.org/abs/2504.10184)|null|
 |**2025-04-09**|**Can Carbon-Aware Electric Load Shifting Reduce Emissions? An Equilibrium-Based Analysis**|Wenqian Jiang et.al.|[2504.07248](http://arxiv.org/abs/2504.07248)|null|
@@ -50,7 +51,6 @@
 |**2025-04-05**|**ASDO: An Efficient Algorithm for Traffic Engineering in Large-Scale Data Center Network**|Yingming Mao et.al.|[2504.04027](http://arxiv.org/abs/2504.04027)|null|
 |**2025-04-03**|**Anomaly Detection in Time Series Data Using Reinforcement Learning, Variational Autoencoder, and Active Learning**|Bahareh Golchin et.al.|[2504.02999](http://arxiv.org/abs/2504.02999)|null|
 |**2025-04-03**|**Technical Overview of Recent Developments in Small Modular Reactors in the United States**|Yifan Sun et.al.|[2504.02599](http://arxiv.org/abs/2504.02599)|null|
-|**2025-04-03**|**Identifying misclassified meteor showers in the IAU MDC database. Reclassification Proposal**|T. J. Jopek et.al.|[2504.02392](http://arxiv.org/abs/2504.02392)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -58,16 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Periodic Potential for Point Defects in a 2D Hexagonal Colloidal Lattice**|Huang Xicheng et.al.|[2504.12038](http://arxiv.org/abs/2504.12038)|null|
+|**2025-04-16**|**Hardware-Friendly Delayed-Feedback Reservoir for Multivariate Time-Series Classification**|Sosei Ikeda et.al.|[2504.11981](http://arxiv.org/abs/2504.11981)|null|
+|**2025-04-16**|**ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation**|Nada Shahin et.al.|[2504.11942](http://arxiv.org/abs/2504.11942)|null|
+|**2025-04-16**|**Dynamics and Computational Principles of Echo State Networks: A Mathematical Perspective**|Pradeep Singh et.al.|[2504.11757](http://arxiv.org/abs/2504.11757)|null|
+|**2025-04-16**|**Blockchain Application in Metaverse: A Review**|Bingquan Jin et.al.|[2504.11730](http://arxiv.org/abs/2504.11730)|null|
+|**2025-04-15**|**Possibility for Proactive Anomaly Detection**|Jinsung Jeon et.al.|[2504.11623](http://arxiv.org/abs/2504.11623)|null|
+|**2025-04-15**|**Dueling Deep Reinforcement Learning for Financial Time Series**|Bruno Giorgio et.al.|[2504.11601](http://arxiv.org/abs/2504.11601)|null|
+|**2025-04-15**|**Experimental evidence of a strange nonchaotic attractor in a Nd:YVO4 laser with saturable absorber**|Juliana Bourdieu et.al.|[2504.11548](http://arxiv.org/abs/2504.11548)|null|
+|**2025-04-15**|**Scaler rates from the Pierre Auger Observatory: a new proxy of solar activity**|The Pierre Auger Collaboration et.al.|[2504.11542](http://arxiv.org/abs/2504.11542)|null|
 |**2025-04-15**|**TADACap: Time-series Adaptive Domain-Aware Captioning**|Elizabeth Fons et.al.|[2504.11441](http://arxiv.org/abs/2504.11441)|null|
-|**2025-04-15**|**Complex multiannual cycles of Mycoplasma pneumoniae: persistence and the role of stochasticity**|Bjarke Frost Nielsen et.al.|[2504.11402](http://arxiv.org/abs/2504.11402)|null|
-|**2025-04-15**|**Diagnostic Uncertainty Limits the Potential of Early Warning Signals to Identify Epidemic Emergence**|Callum R. K. Arnold et.al.|[2504.11352](http://arxiv.org/abs/2504.11352)|null|
-|**2025-04-15**|**Two-Part Forecasting for Time-Shifted Metrics**|Harrison Katz et.al.|[2504.11194](http://arxiv.org/abs/2504.11194)|null|
-|**2025-04-15**|**C-SHAP for time series: An approach to high-level temporal explanations**|Annemarie Jutte et.al.|[2504.11159](http://arxiv.org/abs/2504.11159)|null|
-|**2025-04-15**|**Using Time Structure to Estimate Causal Effects**|Tom Hochsprung et.al.|[2504.11076](http://arxiv.org/abs/2504.11076)|null|
-|**2025-04-15**|**Meta-learning For Few-Shot Time Series Crop Type Classification: A Benchmark On The EuroCropsML Dataset**|Joana Reuss et.al.|[2504.11022](http://arxiv.org/abs/2504.11022)|null|
-|**2025-04-15**|**Bridging Distribution Gaps in Time Series Foundation Model Pretraining with Prototype-Guided Normalization**|Peiliang Gong et.al.|[2504.10900](http://arxiv.org/abs/2504.10900)|null|
-|**2025-04-14**|**Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families**|Shahriar Noroozizadeh et.al.|[2504.10340](http://arxiv.org/abs/2504.10340)|null|
-|**2025-04-14**|**Measuring amount of computation done by C.elegans using whole brain neural activity**|Junang Li et.al.|[2504.10300](http://arxiv.org/abs/2504.10300)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -75,16 +75,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges**|Matteo Lupinacci et.al.|[2504.12143](http://arxiv.org/abs/2504.12143)|null|
+|**2025-04-16**|**A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification**|Bianca Lamm et.al.|[2504.11838](http://arxiv.org/abs/2504.11838)|null|
+|**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
+|**2025-04-16**|**A Library of LLM Intrinsics for Retrieval-Augmented Generation**|Marina Danilevsky et.al.|[2504.11704](http://arxiv.org/abs/2504.11704)|null|
+|**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544](http://arxiv.org/abs/2504.11544)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[2504.11514](http://arxiv.org/abs/2504.11514)|null|
 |**2025-04-15**|**Towards Automated Safety Requirements Derivation Using Agent-based RAG**|Balahari Vignesh Balu et.al.|[2504.11243](http://arxiv.org/abs/2504.11243)|null|
 |**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
 |**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001](http://arxiv.org/abs/2504.11001)|null|
 |**2025-04-16**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
-|**2025-04-15**|**ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search**|Yize Zhang et.al.|[2504.10893](http://arxiv.org/abs/2504.10893)|null|
-|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
-|**2025-04-14**|**Smooth sailing or ragged climb? -- Increasing the robustness of power spectrum de-wiggling and ShapeFit parameter compression**|Katayoon Ghaemi et.al.|[2504.10578](http://arxiv.org/abs/2504.10578)|null|
-|**2025-04-14**|**SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning**|Yiting Wang et.al.|[2504.10369](http://arxiv.org/abs/2504.10369)|null|
-|**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
-|**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309](http://arxiv.org/abs/2504.10309)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -92,16 +92,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
-|**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
-|**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431](http://arxiv.org/abs/2504.11431)|null|
-|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
-|**2025-04-15**|**Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts**|Quanyu Long et.al.|[2504.11420](http://arxiv.org/abs/2504.11420)|null|
-|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
-|**2025-04-15**|**DataDecide: How to Predict Best Pretraining Data with Small Experiments**|Ian Magnusson et.al.|[2504.11393](http://arxiv.org/abs/2504.11393)|null|
-|**2025-04-15**|**RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models**|Juan Diego Rodriguez et.al.|[2504.11381](http://arxiv.org/abs/2504.11381)|null|
-|**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373](http://arxiv.org/abs/2504.11373)|null|
-|**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|null|
+|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/abs/2504.12285)|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268](http://arxiv.org/abs/2504.12268)|null|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
+|**2025-04-16**|**AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**|Xinyu Li et.al.|[2504.12250](http://arxiv.org/abs/2504.12250)|null|
+|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
+|**2025-04-16**|**Watermarking Needs Input Repetition Masking**|David Khachaturov et.al.|[2504.12229](http://arxiv.org/abs/2504.12229)|null|
+|**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216](http://arxiv.org/abs/2504.12216)|null|
+|**2025-04-16**|**From Requirements to Architecture: Semi-Automatically Generating Software Architectures**|Tobias Eisenreich et.al.|[2504.12192](http://arxiv.org/abs/2504.12192)|null|
+|**2025-04-16**|**What Do Large Language Models Know? Tacit Knowledge as a Potential Causal-Explanatory Structure**|Céline Budding et.al.|[2504.12187](http://arxiv.org/abs/2504.12187)|null|
+|**2025-04-16**|**SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**|Suyoung Bae et.al.|[2504.12185](http://arxiv.org/abs/2504.12185)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -109,16 +109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Creating benchmarkable components to measure the quality ofAI-enhanced developer tools**|Elise Paradis et.al.|[2504.12211](http://arxiv.org/abs/2504.12211)|null|
+|**2025-04-16**|**A Bidirectional DeepParticle Method for Efficiently Solving Low-dimensional Transport Map Problems**|Tan Zhang et.al.|[2504.11851](http://arxiv.org/abs/2504.11851)|null|
+|**2025-04-16**|**Agile Retrospectives: What went well? What didn't go well? What should we do?**|Maria Spichkova et.al.|[2504.11780](http://arxiv.org/abs/2504.11780)|null|
+|**2025-04-16**|**Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics**|Yiran He et.al.|[2504.11686](http://arxiv.org/abs/2504.11686)|null|
+|**2025-04-15**|**Towards Interpretable Deep Generative Models via Causal Representation Learning**|Gemma E. Moran et.al.|[2504.11609](http://arxiv.org/abs/2504.11609)|null|
 |**2025-04-15**|**Early Impacts of M365 Copilot**|Eleanor Wiske Dillon et.al.|[2504.11443](http://arxiv.org/abs/2504.11443)|null|
 |**2025-04-15**|**Shifting Work Patterns with Generative AI**|Eleanor Wiske Dillon et.al.|[2504.11436](http://arxiv.org/abs/2504.11436)|null|
 |**2025-04-15**|**OpenTuringBench: An Open-Model-based Benchmark and Framework for Machine-Generated Text Detection and Attribution**|Lucio La Cava et.al.|[2504.11369](http://arxiv.org/abs/2504.11369)|null|
 |**2025-04-16**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347](http://arxiv.org/abs/2504.11347)|null|
 |**2025-04-15**|**The Cambridge Report on Database Research**|Anastasia Ailamaki et.al.|[2504.11259](http://arxiv.org/abs/2504.11259)|null|
-|**2025-04-15**|**BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play**|Yujia Liu et.al.|[2504.11138](http://arxiv.org/abs/2504.11138)|null|
-|**2025-04-15**|**Evaluating Trust in AI, Human, and Co-produced Feedback Among Undergraduate Students**|Audrey Zhang et.al.|[2504.10961](http://arxiv.org/abs/2504.10961)|null|
-|**2025-04-15**|**Moving Beyond Next-Token Prediction: Transformers are Context-Sensitive Language Generators**|Phill Kyu Rhee et.al.|[2504.10845](http://arxiv.org/abs/2504.10845)|null|
-|**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
-|**2025-04-14**|**Introducing Large Language Models as the Next Challenging Internet Traffic Source**|Nataliia Koneva et.al.|[2504.10688](http://arxiv.org/abs/2504.10688)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -126,16 +126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
-|**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453](http://arxiv.org/abs/2504.11453)|null|
-|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
-|**2025-04-15**|**Measures of Variability for Risk-averse Policy Gradient**|Yudong Luo et.al.|[2504.11412](http://arxiv.org/abs/2504.11412)|null|
-|**2025-04-15**|**Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning**|Haiming Wang et.al.|[2504.11354](http://arxiv.org/abs/2504.11354)|null|
-|**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/abs/2504.11343)|null|
-|**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258](http://arxiv.org/abs/2504.11258)|null|
-|**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250](http://arxiv.org/abs/2504.11250)|null|
-|**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
-|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
+|**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216](http://arxiv.org/abs/2504.12216)|null|
+|**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090](http://arxiv.org/abs/2504.12090)|null|
+|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045](http://arxiv.org/abs/2504.12045)|null|
+|**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023](http://arxiv.org/abs/2504.12023)|null|
+|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|null|
+|**2025-04-16**|**A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs**|Kihyuk Hong et.al.|[2504.11997](http://arxiv.org/abs/2504.11997)|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
+|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
+|**2025-04-16**|**VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning**|Xuyang Chen et.al.|[2504.11944](http://arxiv.org/abs/2504.11944)|null|
+|**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907](http://arxiv.org/abs/2504.11907)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
@@ -143,16 +143,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Communication Optimization for Decentralized Learning atop Bandwidth-limited Edge Networks**|Tingyang Sun et.al.|[2504.12210](http://arxiv.org/abs/2504.12210)|null|
+|**2025-04-16**|**Battery-aware Cyclic Scheduling in Energy-harvesting Federated Learning**|Eunjeong Jeong et.al.|[2504.12181](http://arxiv.org/abs/2504.12181)|null|
+|**2025-04-16**|**FedEPA: Enhancing Personalization and Modality Alignment in Multimodal Federated Learning**|Yu Zhang et.al.|[2504.12025](http://arxiv.org/abs/2504.12025)|null|
+|**2025-04-16**|**FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data**|Yuan Zhou et.al.|[2504.11903](http://arxiv.org/abs/2504.11903)|null|
+|**2025-04-16**|**Benchmarking Mutual Information-based Loss Functions in Federated Learning**|Sarang S et.al.|[2504.11877](http://arxiv.org/abs/2504.11877)|null|
+|**2025-04-16**|**Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs**|Kishan Gurumurthy et.al.|[2504.11808](http://arxiv.org/abs/2504.11808)|null|
+|**2025-04-16**|**Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification**|Yue Li et.al.|[2504.11793](http://arxiv.org/abs/2504.11793)|null|
 |**2025-04-15**|**Diversity-Driven Learning: Tackling Spurious Correlations and Data Heterogeneity in Federated Models**|Gergely D. Németh et.al.|[2504.11216](http://arxiv.org/abs/2504.11216)|null|
 |**2025-04-15**|**FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption**|Yang Li et.al.|[2504.11088](http://arxiv.org/abs/2504.11088)|null|
 |**2025-04-15**|**ICAFS: Inter-Client-Aware Feature Selection for Vertical Federated Learning**|Ruochen Jin et.al.|[2504.10851](http://arxiv.org/abs/2504.10851)|null|
-|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817](http://arxiv.org/abs/2504.10817)|null|
-|**2025-04-14**|**Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication**|Soad Almabdy et.al.|[2504.10698](http://arxiv.org/abs/2504.10698)|null|
-|**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456](http://arxiv.org/abs/2504.10456)|null|
-|**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403](http://arxiv.org/abs/2504.10403)|null|
-|**2025-04-14**|**Undermining Federated Learning Accuracy in EdgeIoT via Variational Graph Auto-Encoders**|Kai Li et.al.|[2504.10067](http://arxiv.org/abs/2504.10067)|null|
-|**2025-04-14**|**FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments**|Junming Liu et.al.|[2504.09941](http://arxiv.org/abs/2504.09941)|null|
-|**2025-04-14**|**Accelerating Differentially Private Federated Learning via Adaptive Extrapolation**|Shokichi Takakura et.al.|[2504.09850](http://arxiv.org/abs/2504.09850)|null|
 
 <p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
