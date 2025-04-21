@@ -30,7 +30,7 @@
 |**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164](http://arxiv.org/abs/2504.13164)|null|
 |**2025-04-17**|**FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents**|Nandan Thakur et.al.|[2504.13128](http://arxiv.org/abs/2504.13128)|null|
 |**2025-04-17**|**A hybrid U-Net and Fourier neural operator framework for the large-eddy simulation of turbulent flows over periodic hills**|Yunpeng Wang et.al.|[2504.13126](http://arxiv.org/abs/2504.13126)|null|
-|**2025-04-17**|**Propagation of Chaos in One-hidden-layer Neural Networks beyond Logarithmic Time**|Margalit Glasgow et.al.|[2504.13110](http://arxiv.org/abs/2504.13110)|null|
+|**2025-04-17**|**Propagation of Chaos in One-hidden-layer Neural Networks beyond Logarithmic Time**|Margalit Glasgow et.al.|[2504.13110](http://arxiv.org/abs/2504.13110)|**[link](https://github.com/margalitglasgow/prop-chaos)**|
 |**2025-04-17**|**A Bad Example for Jain's Iterative Rounding Theorem for the Cover Small Cuts Problem**|Miles Simmons et.al.|[2504.13105](http://arxiv.org/abs/2504.13105)|null|
 |**2025-04-17**|**A Multi-task Learning Balanced Attention Convolutional Neural Network Model for Few-shot Underwater Acoustic Target Recognition**|Wei Huang et.al.|[2504.13102](http://arxiv.org/abs/2504.13102)|null|
 |**2025-04-17**|**Many-body cages: disorder-free glassiness from flat bands in Fock space, and many-body Rabi oscillations**|Tom Ben-Ami et.al.|[2504.13086](http://arxiv.org/abs/2504.13086)|null|
@@ -65,7 +65,7 @@
 |**2025-04-17**|**TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations**|Yihang Lu et.al.|[2504.12721](http://arxiv.org/abs/2504.12721)|null|
 |**2025-04-16**|**Mean Independent Component Analysis for Multivariate Time Series**|Chung Eun Lee et.al.|[2504.12496](http://arxiv.org/abs/2504.12496)|null|
 |**2025-04-16**|**Boosting Reservoir Computing with Brain-inspired Adaptive Dynamics**|Keshav Srinivasan et.al.|[2504.12480](http://arxiv.org/abs/2504.12480)|null|
-|**2025-04-16**|**Quantum vs. classical: A comprehensive benchmark study for predicting time series with variational quantum machine learning**|Tobias Fellner et.al.|[2504.12416](http://arxiv.org/abs/2504.12416)|null|
+|**2025-04-16**|**Quantum vs. classical: A comprehensive benchmark study for predicting time series with variational quantum machine learning**|Tobias Fellner et.al.|[2504.12416](http://arxiv.org/abs/2504.12416)|**[link](https://github.com/tobias-fllnr/VariationalQMLTimeSeriesBenchmark)**|
 |**2025-04-16**|**Periodic Potential for Point Defects in a 2D Hexagonal Colloidal Lattice**|Huang Xicheng et.al.|[2504.12038](http://arxiv.org/abs/2504.12038)|null|
 |**2025-04-16**|**Hardware-Friendly Delayed-Feedback Reservoir for Multivariate Time-Series Classification**|Sosei Ikeda et.al.|[2504.11981](http://arxiv.org/abs/2504.11981)|null|
 
@@ -95,7 +95,7 @@
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
-|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|**[link](https://github.com/AnamikaLochab/EBRM)**|
 |**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/abs/2504.13125)|null|
 |**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/abs/2504.13122)|**[link](https://github.com/haroldchen19/vistadpo)**|
 |**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|null|
@@ -126,7 +126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|**[link](https://github.com/AnamikaLochab/EBRM)**|
 |**2025-04-17**|**LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard**|Varun Rao et.al.|[2504.13125](http://arxiv.org/abs/2504.13125)|null|
 |**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
 |**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Xiangyan Liu et.al.|[2504.13055](http://arxiv.org/abs/2504.13055)|null|
