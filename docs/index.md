@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -49,7 +49,7 @@ layout: default
 |**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617](http://arxiv.org/abs/2504.17617)|null|
 |**2025-04-24**|**TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation**|Bowen Deng et.al.|[2504.17613](http://arxiv.org/abs/2504.17613)|null|
 |**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548](http://arxiv.org/abs/2504.17548)|null|
-|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543](http://arxiv.org/abs/2504.17543)|null|
+|**2025-04-25**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543](http://arxiv.org/abs/2504.17543)|null|
 |**2025-04-24**|**Tailored minimal reservoir computing: on the bidirectional connection between nonlinearities in the reservoir and in data**|Davide Prosperino et.al.|[2504.17503](http://arxiv.org/abs/2504.17503)|null|
 |**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493](http://arxiv.org/abs/2504.17493)|null|
 |**2025-04-24**|**Evaluating Time Series Models for Urban Wastewater Management: Predictive Performance, Model Complexity and Resilience**|Vipin Singh et.al.|[2504.17461](http://arxiv.org/abs/2504.17461)|null|
