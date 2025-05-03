@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-05-01**|**RIS Partitioning and User Clustering for Resilient Non-Orthogonal Multiple Access UAV Networks**|Mohammed Saif et.al.|[2505.00658](http://arxiv.org/abs/2505.00658)|null|
 |**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632](http://arxiv.org/abs/2505.00632)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-04-24**|**PowerSensor3: A Fast and Accurate Open Source Power Measurement Tool**|Steven van der Vlugt et.al.|[2504.17883](http://arxiv.org/abs/2504.17883)|null|
 |**2025-04-24**|**Euclid preparation: TBD. Cosmic Dawn Survey: evolution of the galaxy stellar mass function across 0.2<z<6.5 measured over 10 square degrees**|Euclid Collaboration et.al.|[2504.17867](http://arxiv.org/abs/2504.17867)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-04-30**|**Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series**|Michael Wieck-Sosa et.al.|[2504.21647](http://arxiv.org/abs/2504.21647)|null|
 |**2025-04-30**|**Effect of eccentric mixing parameters on chaotic characteristics and mixing time for viscous liquid based on sound decibels**|Ronfgang Wang et.al.|[2504.21621](http://arxiv.org/abs/2504.21621)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-04-30**|**Homa at SemEval-2025 Task 5: Aligning Librarian Records with OntoAligner for Subject Tagging**|Hadi Bayrami Asl Tekanlou et.al.|[2504.21474](http://arxiv.org/abs/2504.21474)|null|
 |**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/abs/2505.00626)|null|
 |**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/abs/2505.00624)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-05-01**|**TRIED: Truly Innovative and Effective AI Detection Benchmark, developed by WITNESS**|Shirin Anlen et.al.|[2504.21489](http://arxiv.org/abs/2504.21489)|null|
 |**2025-04-30**|**NGENT: Next-Generation AI Agents Must Integrate Multi-Domain Abilities to Achieve Artificial General Intelligence**|Zhicong Li et.al.|[2504.21433](http://arxiv.org/abs/2504.21433)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
 |**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-04-29**|**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs**|Zihan Chen et.al.|[2504.21206](http://arxiv.org/abs/2504.21206)|null|
 |**2025-04-29**|**Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions**|Gulsah Hancerliogullari Koksalmis et.al.|[2504.21189](http://arxiv.org/abs/2504.21189)|null|
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
