@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -47,7 +47,7 @@ layout: default
 |**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
 |**2025-05-02**|**Predicting the Price of Gold in the Financial Markets Using Hybrid Models**|Mohammadhossein Rashidi et.al.|[2505.01402](http://arxiv.org/abs/2505.01402)|null|
 |**2025-05-02**|**Fluctuating growth rates link turnover and unevenness in species-rich communities**|Emil Mallmin et.al.|[2505.01376](http://arxiv.org/abs/2505.01376)|null|
-|**2025-05-02**|**Weight-calibrated estimation for factor models of high-dimensional time series**|Xinghao Qiao et.al.|[2505.01357](http://arxiv.org/abs/2505.01357)|null|
+|**2025-05-05**|**Weight-calibrated estimation for factor models of high-dimensional time series**|Xinghao Qiao et.al.|[2505.01357](http://arxiv.org/abs/2505.01357)|null|
 |**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305](http://arxiv.org/abs/2505.01305)|null|
 |**2025-05-02**|**Discovering Mechanistic Causality from Time Series: A Behavioral-System Approach**|Yingzhu Liu et.al.|[2505.01226](http://arxiv.org/abs/2505.01226)|null|
 |**2025-05-02**|**Empirical Comparison of Lightweight Forecasting Models for Seasonal and Non-Seasonal Time Series**|Thanh Son Nguyen et.al.|[2505.01163](http://arxiv.org/abs/2505.01163)|null|
@@ -75,7 +75,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-02**|**TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**|Svenja Kenneweg et.al.|[2505.01325](http://arxiv.org/abs/2505.01325)|null|
-|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
 |**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
 |**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
