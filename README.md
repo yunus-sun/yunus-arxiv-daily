@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736](http://arxiv.org/abs/2505.03736)|null|
 |**2025-05-06**|**A Communication-First Account of Explanation**|Jacqueline Harding et.al.|[2505.03732](http://arxiv.org/abs/2505.03732)|null|
@@ -32,10 +32,10 @@
 |**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
 |**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual $^2$ Approach**|Jingwang Li et.al.|[2505.03719](http://arxiv.org/abs/2505.03719)|null|
 |**2025-05-06**|**Incremental universality of Wigner random matrices**|Giovanni M. Cicuta et.al.|[2505.03714](http://arxiv.org/abs/2505.03714)|null|
-|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
+|**2025-05-07**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-05-01**|**Scalable Quantum Computing with Optical Links**|M. J. Weaver et.al.|[2505.00542](http://arxiv.org/abs/2505.00542)|null|
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Jun Wang et.al.|[2505.02744](http://arxiv.org/abs/2505.02744)|null|
 |**2025-05-05**|**Less is More: Efficient Weight Farcasting with 1-Layer Neural Network**|Xiao Shou et.al.|[2505.02714](http://arxiv.org/abs/2505.02714)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## RAG
 
@@ -81,12 +81,12 @@
 |**2025-05-06**|**Capability-Driven Skill Generation with LLMs: A RAG-Based Approach for Reusing Existing Libraries and Interfaces**|Luis Miguel Vieira da Silva et.al.|[2505.03295](http://arxiv.org/abs/2505.03295)|null|
 |**2025-05-06**|**RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation**|Tiantian Gan et.al.|[2505.03275](http://arxiv.org/abs/2505.03275)|null|
 |**2025-05-05**|**Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models**|Zhengliang Shi et.al.|[2505.03075](http://arxiv.org/abs/2505.03075)|null|
-|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|**[link](https://github.com/ucscirkm/sim-rag)**|
 |**2025-05-05**|**SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration**|Qiang Sun et.al.|[2505.02418](http://arxiv.org/abs/2505.02418)|null|
 |**2025-05-05**|**From Course to Skill: Evaluating LLM Performance in Curricular Analytics**|Zhen Xu et.al.|[2505.02324](http://arxiv.org/abs/2505.02324)|null|
 |**2025-05-05**|**Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition**|Siyu Liang et.al.|[2505.02304](http://arxiv.org/abs/2505.02304)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-06**|**Ruled by the Representation Space: On the University's Embrace of Large Language Models**|Katia Schwerzmann et.al.|[2505.03513](http://arxiv.org/abs/2505.03513)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Generative AI
 
@@ -111,16 +111,16 @@
 |---|---|---|---|---|
 |**2025-05-06**|**BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation**|Lucas Anastasiou et.al.|[2505.03584](http://arxiv.org/abs/2505.03584)|null|
 |**2025-05-06**|**Ruled by the Representation Space: On the University's Embrace of Large Language Models**|Katia Schwerzmann et.al.|[2505.03513](http://arxiv.org/abs/2505.03513)|null|
-|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/abs/2505.03427)|null|
+|**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/abs/2505.03427)|**[link](https://github.com/nyuad-cai/medarabiq)**|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
 |**2025-05-05**|**The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI**|Kishore Sampath et.al.|[2505.03020](http://arxiv.org/abs/2505.03020)|null|
-|**2025-05-05**|**Iterative Resolution of Prompt Ambiguities Using a Progressive Cutting-Search Approach**|Fabrizio Marozzo et.al.|[2505.02952](http://arxiv.org/abs/2505.02952)|null|
+|**2025-05-05**|**Iterative Resolution of Prompt Ambiguities Using a Progressive Cutting-Search Approach**|Fabrizio Marozzo et.al.|[2505.02952](http://arxiv.org/abs/2505.02952)|**[link](https://github.com/scalabunical/promptambiguitydataset)**|
 |**2025-05-05**|**Automating Automotive Software Development: A Synergy of Generative AI and Formal Methods**|Fengjunjie Pan et.al.|[2505.02500](http://arxiv.org/abs/2505.02500)|null|
 |**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489](http://arxiv.org/abs/2505.02489)|null|
 |**2025-05-05**|**Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90+ Novice Counselors**|Ryan Louie et.al.|[2505.02428](http://arxiv.org/abs/2505.02428)|null|
 |**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271](http://arxiv.org/abs/2505.02271)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439](http://arxiv.org/abs/2505.03439)|null|
 |**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432](http://arxiv.org/abs/2505.03432)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-05-04**|**Bayesian Federated Cause-of-Death Classification and Quantification Under Distribution Shift**|Yu Zhu et.al.|[2505.02257](http://arxiv.org/abs/2505.02257)|null|
 |**2025-05-04**|**A Survey on Privacy Risks and Protection in Large Language Models**|Kang Chen et.al.|[2505.01976](http://arxiv.org/abs/2505.01976)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
