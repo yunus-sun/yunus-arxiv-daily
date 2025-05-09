@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,14 +35,14 @@
 |**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
 |**2025-05-07**|**From Flowers to Fascism? The Cottagecore to Tradwife Pipeline on Tumblr**|Oliver Mel Allen et.al.|[2505.04561](http://arxiv.org/abs/2505.04561)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Data Center
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585](http://arxiv.org/abs/2505.04585)|null|
-|**2025-05-07**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
+|**2025-05-08**|**In-Situ Hardware Error Detection Using Specification-Derived Petri Net Models and Behavior-Derived State Sequences**|Tomonari Tanaka et.al.|[2505.04108](http://arxiv.org/abs/2505.04108)|null|
 |**2025-05-06**|**Minimum Congestion Routing of Unsplittable Flows in Data-Center Networks**|Miguel Ferreira et.al.|[2505.03908](http://arxiv.org/abs/2505.03908)|null|
 |**2025-05-06**|**Detecting Urban Earthquakes with the San Fernando Valley Nodal Array and Machine Learning**|Joses Omojola et.al.|[2505.03496](http://arxiv.org/abs/2505.03496)|null|
 |**2025-05-05**|**"Two-Stagification": Job Dispatching in Large-Scale Clusters via a Two-Stage Architecture**|Mert Yildiz et.al.|[2505.03032](http://arxiv.org/abs/2505.03032)|null|
@@ -52,7 +52,7 @@
 |**2025-05-05**|**Opt-GPTQ: An Optimized GPTQ Combining Sparse Attention and Quantization Techniques**|Jie Kong et.al.|[2505.02351](http://arxiv.org/abs/2505.02351)|null|
 |**2025-05-04**|**Paired 2-disjoint path covers of Bcube under the partitioned edge fault model**|Qingqiong Cai et.al.|[2505.02150](http://arxiv.org/abs/2505.02150)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-05-06**|**Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation**|Yihang Wang et.al.|[2505.03652](http://arxiv.org/abs/2505.03652)|null|
 |**2025-05-06**|**Stabilizing 3D EPI time series by servo navigation and phase equalization exploiting repeated shots (PEERS)**|Malte Riedel et.al.|[2505.03637](http://arxiv.org/abs/2505.03637)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-05-06**|**RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation**|Tiantian Gan et.al.|[2505.03275](http://arxiv.org/abs/2505.03275)|null|
 |**2025-05-05**|**Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models**|Zhengliang Shi et.al.|[2505.03075](http://arxiv.org/abs/2505.03075)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Large Model
 
@@ -95,7 +95,7 @@
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
 |**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
 |**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
@@ -103,14 +103,14 @@
 |**2025-05-07**|**A Design Space for the Critical Validation of LLM-Generated Tabular Data**|Madhav Sachdeva et.al.|[2505.04487](http://arxiv.org/abs/2505.04487)|null|
 |**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm**|Laura Wagner et.al.|[2505.04600](http://arxiv.org/abs/2505.04600)|null|
-|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
+|**2025-05-08**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
 |**2025-05-07**|**LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling**|AbdulAziz AbdulGhaffar et.al.|[2505.04101](http://arxiv.org/abs/2505.04101)|null|
 |**2025-05-06**|**Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub**|Ruiyin Li et.al.|[2505.03901](http://arxiv.org/abs/2505.03901)|null|
 |**2025-05-06**|**BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation**|Lucas Anastasiou et.al.|[2505.03584](http://arxiv.org/abs/2505.03584)|null|
@@ -120,7 +120,7 @@
 |**2025-05-05**|**The Multimodal Paradox: How Added and Missing Modalities Shape Bias and Performance in Multimodal AI**|Kishore Sampath et.al.|[2505.03020](http://arxiv.org/abs/2505.03020)|null|
 |**2025-05-05**|**Iterative Resolution of Prompt Ambiguities Using a Progressive Cutting-Search Approach**|Fabrizio Marozzo et.al.|[2505.02952](http://arxiv.org/abs/2505.02952)|**[link](https://github.com/scalabunical/promptambiguitydataset)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-05-07**|**RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation**|Jing Hu et.al.|[2505.04424](http://arxiv.org/abs/2505.04424)|null|
 |**2025-05-07**|**A Heuristic-Integrated DRL Approach for Phase Optimization in Large-Scale RISs**|Wei Wang et.al.|[2505.04401](http://arxiv.org/abs/2505.04401)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490](http://arxiv.org/abs/2505.02490)|null|
 |**2025-05-05**|**Incentivizing Inclusive Contributions in Model Sharing Markets**|Enpei Zhang et.al.|[2505.02462](http://arxiv.org/abs/2505.02462)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
