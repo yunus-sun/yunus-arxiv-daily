@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -82,7 +82,7 @@ layout: default
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
 |**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131](http://arxiv.org/abs/2505.06131)|null|
 |**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-12**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
 |**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
 
 ## Generative AI
@@ -128,7 +128,7 @@ layout: default
 |**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155](http://arxiv.org/abs/2505.05155)|null|
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
 |**2025-05-08**|**Balancing Client Participation in Federated Learning Using AoI**|Alireza Javani et.al.|[2505.05099](http://arxiv.org/abs/2505.05099)|null|
-|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
+|**2025-05-11**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
