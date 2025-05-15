@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -65,7 +65,7 @@ layout: default
 |**2025-05-13**|**Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**|Hussien Al-Asi et.al.|[2505.08590](http://arxiv.org/abs/2505.08590)|null|
 |**2025-05-13**|**IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation**|Kazuki Hayashi et.al.|[2505.08450](http://arxiv.org/abs/2505.08450)|null|
 |**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445](http://arxiv.org/abs/2505.08445)|null|
-|**2025-05-13**|**Hakim: Farsi Text Embedding Model**|Mehran Sarmadi et.al.|[2505.08435](http://arxiv.org/abs/2505.08435)|null|
+|**2025-05-14**|**Hakim: Farsi Text Embedding Model**|Mehran Sarmadi et.al.|[2505.08435](http://arxiv.org/abs/2505.08435)|null|
 |**2025-05-13**|**Enhancing Cache-Augmented Generation (CAG) with Adaptive Contextual Compression for Scalable Knowledge Integration**|Rishabh Agrawal et.al.|[2505.08261](http://arxiv.org/abs/2505.08261)|null|
 |**2025-05-13**|**Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations**|Jinming Hu et.al.|[2505.08195](http://arxiv.org/abs/2505.08195)|null|
 |**2025-05-13**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|**[link](https://github.com/amaiya/onprem)**|

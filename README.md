@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-05-13**|**The structure and migration of twin boundaries in tetragonal $β$ -Sn: an application of machine learning based interatomic potentials**|Ian Chesser et.al.|[2505.08732](http://arxiv.org/abs/2505.08732)|null|
 |**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-05-05**|**Can We Recycle Our Old Models? An Empirical Evaluation of Model Selection Mechanisms for AIOps Solutions**|Yingzhe Lyu et.al.|[2505.02961](http://arxiv.org/abs/2505.02961)|**[link](https://github.com/empyreanknight/suppmaterial-25-yingzhe-aiopsselection)**|
 |**2025-05-05**|**Dynamic Graph-based Fingerprinting of In-browser Cryptomining**|Tanapoom Sermchaiwong et.al.|[2505.02493](http://arxiv.org/abs/2505.02493)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-05-13**|**A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting**|Boshi Gao et.al.|[2505.08199](http://arxiv.org/abs/2505.08199)|null|
 |**2025-05-13**|**Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model**|Xiannan Huang et.al.|[2505.08158](http://arxiv.org/abs/2505.08158)|**[link](https://github.com/xiannanhuang/ffdci)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## RAG
 
@@ -81,12 +81,12 @@
 |**2025-05-13**|**Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**|Hussien Al-Asi et.al.|[2505.08590](http://arxiv.org/abs/2505.08590)|null|
 |**2025-05-13**|**IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented Generation**|Kazuki Hayashi et.al.|[2505.08450](http://arxiv.org/abs/2505.08450)|null|
 |**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445](http://arxiv.org/abs/2505.08445)|null|
-|**2025-05-13**|**Hakim: Farsi Text Embedding Model**|Mehran Sarmadi et.al.|[2505.08435](http://arxiv.org/abs/2505.08435)|null|
+|**2025-05-14**|**Hakim: Farsi Text Embedding Model**|Mehran Sarmadi et.al.|[2505.08435](http://arxiv.org/abs/2505.08435)|null|
 |**2025-05-13**|**Enhancing Cache-Augmented Generation (CAG) with Adaptive Contextual Compression for Scalable Knowledge Integration**|Rishabh Agrawal et.al.|[2505.08261](http://arxiv.org/abs/2505.08261)|null|
 |**2025-05-13**|**Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations**|Jinming Hu et.al.|[2505.08195](http://arxiv.org/abs/2505.08195)|null|
 |**2025-05-13**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|**[link](https://github.com/amaiya/onprem)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-05-13**|**Visual Watermarking in the Era of Diffusion Models: Advances and Challenges**|Junxian Duan et.al.|[2505.08197](http://arxiv.org/abs/2505.08197)|null|
 |**2025-05-12**|**Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting**|Wenhan Lyu et.al.|[2505.08119](http://arxiv.org/abs/2505.08119)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-05-13**|**Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting**|Emlyn Williams et.al.|[2505.08458](http://arxiv.org/abs/2505.08458)|null|
 |**2025-05-13**|**Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges**|Miguel Arana-Catania et.al.|[2505.08453](http://arxiv.org/abs/2505.08453)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-05-12**|**Personalized Federated Learning under Model Dissimilarity Constraints**|Samuel Erickson et.al.|[2505.07575](http://arxiv.org/abs/2505.07575)|null|
 |**2025-05-12**|**Adaptive Latent-Space Constraints in Personalized FL**|Sana Ayromlou et.al.|[2505.07525](http://arxiv.org/abs/2505.07525)|**[link](https://github.com/vectorinstitute/fl4health)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
