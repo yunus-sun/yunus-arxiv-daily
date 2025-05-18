@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -19,8 +19,8 @@ layout: default
 |**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/abs/2505.10541)|**[link](https://github.com/welldonepf/stme)**|
 |**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537](http://arxiv.org/abs/2505.10537)|null|
 |**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536](http://arxiv.org/abs/2505.10536)|null|
-|**2025-05-15**|**WorldPM: Scaling Human Preference Modeling**|Binghai Wang et.al.|[2505.10527](http://arxiv.org/abs/2505.10527)|null|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515](http://arxiv.org/abs/2505.10515)|null|
+|**2025-05-15**|**WorldPM: Scaling Human Preference Modeling**|Binghai Wang et.al.|[2505.10527](http://arxiv.org/abs/2505.10527)|**[link](https://github.com/qwenlm/worldpm)**|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515](http://arxiv.org/abs/2505.10515)|**[link](https://github.com/openxaiproject/pnpxai)**|
 |**2025-05-15**|**Networked Infectiousness: Cascades, Power Laws, and Kinetics**|Sara Najem et.al.|[2505.10512](http://arxiv.org/abs/2505.10512)|null|
 |**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511](http://arxiv.org/abs/2505.10511)|**[link](https://github.com/victorzheleznov/dafx25)**|
 |**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500](http://arxiv.org/abs/2505.10500)|null|
@@ -66,7 +66,7 @@ layout: default
 |**2025-05-15**|**XRAG: Cross-lingual Retrieval-Augmented Generation**|Wei Liu et.al.|[2505.10089](http://arxiv.org/abs/2505.10089)|null|
 |**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
 |**2025-05-15**|**CAFE: Retrieval Head-based Coarse-to-Fine Information Seeking to Enhance Multi-Document QA Capability**|Han Peng et.al.|[2505.10063](http://arxiv.org/abs/2505.10063)|null|
-|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|**[link](https://github.com/asu-kim/personal-llm-kg)**|
 |**2025-05-14**|**Do Large Language Models Know Conflict? Investigating Parametric vs. Non-Parametric Knowledge of LLMs for Conflict Forecasting**|Apollinaire Poli Nemkova et.al.|[2505.09852](http://arxiv.org/abs/2505.09852)|null|
 |**2025-05-14**|**A Multimodal Multi-Agent Framework for Radiology Report Generation**|Ziruo Yi et.al.|[2505.09787](http://arxiv.org/abs/2505.09787)|null|
 
@@ -104,7 +104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/abs/2505.10554)|null|
+|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/abs/2505.10554)|**[link](https://github.com/zhiyuanhubj/meta-ability-alignment)**|
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484](http://arxiv.org/abs/2505.10484)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
@@ -126,7 +126,7 @@ layout: default
 |**2025-05-15**|**Sybil-based Virtual Data Poisoning Attacks in Federated Learning**|Changxun Zhu et.al.|[2505.09983](http://arxiv.org/abs/2505.09983)|null|
 |**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854](http://arxiv.org/abs/2505.09854)|null|
 |**2025-05-14**|**Robust Federated Learning with Confidence-Weighted Filtering and GAN-Based Completion under Noisy and Incomplete Data**|Alpaslan Gokcen et.al.|[2505.09733](http://arxiv.org/abs/2505.09733)|null|
-|**2025-05-14**|**Energy-Efficient Federated Learning for AIoT using Clustering Methods**|Roberto Pereira et.al.|[2505.09704](http://arxiv.org/abs/2505.09704)|null|
+|**2025-05-14**|**Energy-Efficient Federated Learning for AIoT using Clustering Methods**|Roberto Pereira et.al.|[2505.09704](http://arxiv.org/abs/2505.09704)|**[link](https://github.com/robertomatheuspp/clustering_ee_fl)**|
 |**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|**[link](https://github.com/qimingwu/fedida)**|
 |**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287](http://arxiv.org/abs/2505.09287)|**[link](https://github.com/limu-research/2025-edm-fl)**|
 
