@@ -14,21 +14,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
-|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
-|**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
-|**2025-05-29**|**On the Convergence Analysis of Muon**|Wei Shen et.al.|[2505.23737](http://arxiv.org/abs/2505.23737)|null|
-|**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735](http://arxiv.org/abs/2505.23735)|null|
-|**2025-05-29**|**Group Convolutional Neural Network Ground State of the Quantum Dimer Model**|Ojasvi Sharma et.al.|[2505.23728](http://arxiv.org/abs/2505.23728)|null|
-|**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
-|**2025-05-29**|**DiffER: Categorical Diffusion for Chemical Retrosynthesis**|Sean Current et.al.|[2505.23721](http://arxiv.org/abs/2505.23721)|**[link](https://github.com/sfcurre/differ)**|
-|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713](http://arxiv.org/abs/2505.23713)|**[link](https://github.com/xzx34/socialmaze)**|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874](http://arxiv.org/abs/2505.24874)|null|
+|**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
+|**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858](http://arxiv.org/abs/2505.24858)|null|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855](http://arxiv.org/abs/2505.24855)|null|
+|**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|null|
+|**2025-05-30**|**Realistic quantum network simulation for experimental BBM92 key distribution**|Michelle Chalupnik et.al.|[2505.24851](http://arxiv.org/abs/2505.24851)|null|
+|**2025-05-30**|**Statistical mechanics of extensive-width Bayesian neural networks near interpolation**|Jean Barbier et.al.|[2505.24849](http://arxiv.org/abs/2505.24849)|null|
+|**2025-05-30**|**Optimising cryptocurrency portfolios through stable clustering of price correlation networks**|Ruixue Jing et.al.|[2505.24831](http://arxiv.org/abs/2505.24831)|null|
+|**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
 
 ## Data Center
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Distributed Intelligence in the Computing Continuum with Active Inference**|Victor Casamayor Pujol et.al.|[2505.24618](http://arxiv.org/abs/2505.24618)|null|
+|**2025-05-30**|**Design and Analysis of Power Consumption Models for Open-RAN Architectures**|Urooj Tariq et.al.|[2505.24552](http://arxiv.org/abs/2505.24552)|null|
 |**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
 |**2025-05-28**|**Euclid: Early Release Observations of ram-pressure stripping in the Perseus cluster. Detection of parsec scale star formation with in the low surface brightness stripped tails of UGC 2665 and MCG +07-07-070**|Koshy George et.al.|[2505.23342](http://arxiv.org/abs/2505.23342)|null|
 |**2025-05-26**|**Synergising Hierarchical Data Centers and Power Networks: A Privacy-Preserving Approach**|Junhong Liu et.al.|[2505.20575](http://arxiv.org/abs/2505.20575)|null|
@@ -37,98 +39,96 @@ layout: default
 |**2025-05-24**|**A DSP-Free Carrier Phase Recovery System using 16-Offset-QAM Laser Forwarded Links for 400Gb/s and Beyond**|Marziyeh Rezaei et.al.|[2505.18534](http://arxiv.org/abs/2505.18534)|null|
 |**2025-05-23**|**Towards VM Rescheduling Optimization Through Deep Reinforcement Learning**|Xianzhong Ding et.al.|[2505.17359](http://arxiv.org/abs/2505.17359)|null|
 |**2025-05-22**|**LogStamping: A blockchain-based log auditing approach for large-scale systems**|Md Shariful Islam et.al.|[2505.17236](http://arxiv.org/abs/2505.17236)|null|
-|**2025-05-22**|**A statistical study of sea ice thickness and coverage in the Canadian Arctic**|Arya Kimiaghalam et.al.|[2505.17199](http://arxiv.org/abs/2505.17199)|null|
-|**2025-05-22**|**Data Center Model for Transient Stability Analysis of Power Systems**|Alberto Jimenez-Ruiz et.al.|[2505.16575](http://arxiv.org/abs/2505.16575)|null|
 
 ## Time Series
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting**|Fuyuan Lyu et.al.|[2505.24835](http://arxiv.org/abs/2505.24835)|null|
+|**2025-05-30**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
+|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
+|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|null|
+|**2025-05-30**|**Joint space-time modelling for upper daily maximum and minimum temperature record-breaking**|Jorge Castillo-Mateo et.al.|[2505.24436](http://arxiv.org/abs/2505.24436)|null|
+|**2025-05-30**|**P: A Universal Measure of Predictive Intelligence**|David Gamez et.al.|[2505.24426](http://arxiv.org/abs/2505.24426)|null|
+|**2025-05-30**|**Alternate Groundwater Modelling Strategies: A Multi-Faceted Data-Driven Approach**|Muralidharan K. et.al.|[2505.24235](http://arxiv.org/abs/2505.24235)|null|
+|**2025-05-29**|**From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?**|Ziming Zhao et.al.|[2505.24030](http://arxiv.org/abs/2505.24030)|null|
+|**2025-05-29**|**Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting**|ChengAo Shen et.al.|[2505.24003](http://arxiv.org/abs/2505.24003)|null|
 |**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW $_1$**|Carl Ingebretsen et.al.|[2505.23736](http://arxiv.org/abs/2505.23736)|null|
-|**2025-05-29**|**Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side**|Truong et.al.|[2505.23733](http://arxiv.org/abs/2505.23733)|null|
-|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|**[link](https://github.com/nx-ai/tirex)**|
-|**2025-05-29**|**Towards Explainable Sequential Learning**|Giacomo Bergami et.al.|[2505.23624](http://arxiv.org/abs/2505.23624)|null|
-|**2025-05-29**|**Improving Time Series Forecasting via Instance-aware Post-hoc Revision**|Zhiding Liu et.al.|[2505.23583](http://arxiv.org/abs/2505.23583)|null|
-|**2025-05-29**|**Maximum Likelihood Learning of Latent Dynamics Without Reconstruction**|Samo Hromadka et.al.|[2505.23569](http://arxiv.org/abs/2505.23569)|null|
-|**2025-05-29**|**Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE**|Zhao Chen et.al.|[2505.23535](http://arxiv.org/abs/2505.23535)|null|
-|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|**[link](https://github.com/bgu-cs-vil/timepoint)**|
-|**2025-05-29**|**Trainable dynamical masking for readout-free optical computing**|S. Bogdanov et.al.|[2505.23464](http://arxiv.org/abs/2505.23464)|null|
-|**2025-05-30**|**PyTICS: An Iterative Method for Photometric Lightcurve Intercalibration using Comparison Stars**|Roberta Vieliute et.al.|[2505.23328](http://arxiv.org/abs/2505.23328)|**[link](https://github.com/astroberta/pytics)**|
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
+|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-05-30**|**ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation**|Hao Chen et.al.|[2505.24388](http://arxiv.org/abs/2505.24388)|null|
+|**2025-05-30**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
+|**2025-05-29**|**mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation**|Chan-Wei Hu et.al.|[2505.24073](http://arxiv.org/abs/2505.24073)|null|
+|**2025-05-29**|**Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding**|Mingyang Mao et.al.|[2505.23990](http://arxiv.org/abs/2505.23990)|null|
+|**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944](http://arxiv.org/abs/2505.23944)|null|
 |**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634](http://arxiv.org/abs/2505.23634)|null|
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
-|**2025-05-29**|**Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective**|Yong Zhang et.al.|[2505.23277](http://arxiv.org/abs/2505.23277)|**[link](https://github.com/yzhangchuck/sentinel)**|
-|**2025-05-29**|**Query Routing for Retrieval-Augmented Language Models**|Jiarui Zhang et.al.|[2505.23052](http://arxiv.org/abs/2505.23052)|null|
-|**2025-05-28**|**Climate Finance Bench**|Rafik Mankour et.al.|[2505.22752](http://arxiv.org/abs/2505.22752)|**[link](https://github.com/pladifes/climate_finance_bench)**|
-|**2025-05-28**|**DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers**|Navve Wasserman et.al.|[2505.22584](http://arxiv.org/abs/2505.22584)|null|
-|**2025-05-30**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/abs/2505.22571)|null|
-|**2025-05-28**|**RAG-Zeval: Towards Robust and Interpretable Evaluation on RAG Responses through End-to-End Rule-Guided Reasoning**|Kun Li et.al.|[2505.22430](http://arxiv.org/abs/2505.22430)|null|
-|**2025-05-28**|**MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models**|Zhiyu Li et.al.|[2505.22101](http://arxiv.org/abs/2505.22101)|null|
 
 ## Large Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
-|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|**[link](https://github.com/mbzuai-oryx/thinkgeo)**|
-|**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729](http://arxiv.org/abs/2505.23729)|null|
-|**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
-|**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
-|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
-|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|**[link](https://github.com/bflashcp3f/deer)**|
-|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715](http://arxiv.org/abs/2505.23715)|**[link](https://github.com/mlgroupjlu/premise_critique)**|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713](http://arxiv.org/abs/2505.23713)|**[link](https://github.com/xzx34/socialmaze)**|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858](http://arxiv.org/abs/2505.24858)|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850](http://arxiv.org/abs/2505.24850)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842](http://arxiv.org/abs/2505.24842)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
 
 ## Generative AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side**|Truong et.al.|[2505.23733](http://arxiv.org/abs/2505.23733)|null|
-|**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634](http://arxiv.org/abs/2505.23634)|null|
-|**2025-05-30**|**A Mathematical Framework for AI-Human Integration in Work**|L. Elisa Celis et.al.|[2505.23432](http://arxiv.org/abs/2505.23432)|null|
-|**2025-05-29**|**A Practical Guide for Supporting Formative Assessment and Feedback Using Generative AI**|Sapolnach Prompiengchai et.al.|[2505.23405](http://arxiv.org/abs/2505.23405)|null|
-|**2025-05-29**|**GenCAD-Self-Repairing: Feasibility Enhancement for 3D CAD Generation**|Chikaha Tsuji et.al.|[2505.23287](http://arxiv.org/abs/2505.23287)|null|
-|**2025-05-28**|**Preference Learning with Response Time**|Ayush Sawarni et.al.|[2505.22820](http://arxiv.org/abs/2505.22820)|null|
-|**2025-05-28**|**Design and testing of an agent chatbot supporting decision making with public transport data**|Luca Fantin et.al.|[2505.22698](http://arxiv.org/abs/2505.22698)|null|
-|**2025-05-28**|**Neural Restoration of Greening Defects in Historical Autochrome Photographs Based on Purely Synthetic Data**|Saptarshi Neil Sinha et.al.|[2505.22291](http://arxiv.org/abs/2505.22291)|null|
-|**2025-05-28**|**Physics-inspired Generative AI models via real hardware-based noisy quantum diffusion**|Marco Parigi et.al.|[2505.22193](http://arxiv.org/abs/2505.22193)|null|
-|**2025-05-28**|**Sentiment Simulation using Generative AI Agents**|Melrose Tia et.al.|[2505.22125](http://arxiv.org/abs/2505.22125)|null|
+|**2025-05-30**|**Generative Knowledge Production Pipeline Driven by Academic Influencers**|Katalin Feher et.al.|[2505.24681](http://arxiv.org/abs/2505.24681)|null|
+|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|null|
+|**2025-05-30**|**Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation**|Sania Nayab et.al.|[2505.24479](http://arxiv.org/abs/2505.24479)|null|
+|**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
+|**2025-05-30**|**Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models**|Mingyi He et.al.|[2505.24260](http://arxiv.org/abs/2505.24260)|null|
+|**2025-05-30**|**How Students (Really) Use ChatGPT: Uncovering Experiences Among Undergraduate Students**|Tawfiq Ammari et.al.|[2505.24126](http://arxiv.org/abs/2505.24126)|null|
+|**2025-05-30**|**Searching Clinical Data Using Generative AI**|Karan Hanswadkar et.al.|[2505.24090](http://arxiv.org/abs/2505.24090)|null|
+|**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
+|**2025-05-29**|**Enhancing Critical Thinking in Generative AI Search with Metacognitive Prompts**|Anjali Singh et.al.|[2505.24014](http://arxiv.org/abs/2505.24014)|null|
 
 ## Reinforcement Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
-|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
-|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
-|**2025-05-29**|**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**|Lucas N. Alegre et.al.|[2505.23708](http://arxiv.org/abs/2505.23708)|null|
-|**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
-|**2025-05-29**|**Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models**|Lang Cao et.al.|[2505.23667](http://arxiv.org/abs/2505.23667)|null|
-|**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663](http://arxiv.org/abs/2505.23663)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
-|**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/abs/2505.23657)|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784](http://arxiv.org/abs/2505.24784)|null|
+|**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
+|**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
+|**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
+|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
 
 ## Federated Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**ByzFL: Research Framework for Robust Federated Learning**|Marc González et.al.|[2505.24802](http://arxiv.org/abs/2505.24802)|null|
+|**2025-05-30**|**Robust Federated Learning against Model Perturbation in Edge Networks**|Dongzi Jin et.al.|[2505.24728](http://arxiv.org/abs/2505.24728)|null|
+|**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603](http://arxiv.org/abs/2505.24603)|null|
+|**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
+|**2025-05-29**|**Adaptive Deadline and Batch Layered Synchronized Federated Learning**|Asaf Goren et.al.|[2505.23973](http://arxiv.org/abs/2505.23973)|null|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
 |**2025-05-30**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593](http://arxiv.org/abs/2505.23593)|null|
 |**2025-05-29**|**Accelerated Training of Federated Learning via Second-Order Methods**|Mrinmay Sen et.al.|[2505.23588](http://arxiv.org/abs/2505.23588)|null|
 |**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
 |**2025-05-29**|**Federated Unsupervised Semantic Segmentation**|Evangelos Charalampakis et.al.|[2505.23292](http://arxiv.org/abs/2505.23292)|null|
-|**2025-05-29**|**Measuring Participant Contributions in Decentralized Federated Learning**|Honoka Anada et.al.|[2505.23246](http://arxiv.org/abs/2505.23246)|null|
-|**2025-05-29**|**FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation**|Srijith Nair et.al.|[2505.23182](http://arxiv.org/abs/2505.23182)|**[link](https://github.com/srijith1996/FSL-SAGE)**|
-|**2025-05-29**|**The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning**|Shiwei Li et.al.|[2505.23176](http://arxiv.org/abs/2505.23176)|**[link](https://github.com/leopold1423/fedmud-icml25)**|
-|**2025-05-29**|**Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification**|Denis Mamba Kabala et.al.|[2505.23063](http://arxiv.org/abs/2505.23063)|null|
-|**2025-05-29**|**Deep Modeling and Optimization of Medical Image Classification**|Yihang Wu et.al.|[2505.23040](http://arxiv.org/abs/2505.23040)|**[link](https://github.com/aipmlab/skincancersimulation)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
