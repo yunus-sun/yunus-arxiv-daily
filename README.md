@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-05-30**|**Optimising cryptocurrency portfolios through stable clustering of price correlation networks**|Ruixue Jing et.al.|[2505.24831](http://arxiv.org/abs/2505.24831)|null|
 |**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-05-23**|**Towards VM Rescheduling Optimization Through Deep Reinforcement Learning**|Xianzhong Ding et.al.|[2505.17359](http://arxiv.org/abs/2505.17359)|null|
 |**2025-05-22**|**LogStamping: A blockchain-based log auditing approach for large-scale systems**|Md Shariful Islam et.al.|[2505.17236](http://arxiv.org/abs/2505.17236)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-05-29**|**Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting**|ChengAo Shen et.al.|[2505.24003](http://arxiv.org/abs/2505.24003)|null|
 |**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW $_1$**|Carl Ingebretsen et.al.|[2505.23736](http://arxiv.org/abs/2505.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## RAG
 
@@ -78,7 +78,7 @@
 |**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
 |**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-05-30**|**ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation**|Hao Chen et.al.|[2505.24388](http://arxiv.org/abs/2505.24388)|null|
-|**2025-05-30**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
+|**2025-06-02**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
 |**2025-05-29**|**mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation**|Chan-Wei Hu et.al.|[2505.24073](http://arxiv.org/abs/2505.24073)|null|
 |**2025-05-29**|**Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding**|Mingyang Mao et.al.|[2505.23990](http://arxiv.org/abs/2505.23990)|null|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944](http://arxiv.org/abs/2505.23944)|null|
@@ -86,7 +86,7 @@
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,14 +103,14 @@
 |**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-30**|**Generative Knowledge Production Pipeline Driven by Academic Influencers**|Katalin Feher et.al.|[2505.24681](http://arxiv.org/abs/2505.24681)|null|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|null|
 |**2025-05-30**|**Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation**|Sania Nayab et.al.|[2505.24479](http://arxiv.org/abs/2505.24479)|null|
 |**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
@@ -120,7 +120,7 @@
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
 |**2025-05-29**|**Enhancing Critical Thinking in Generative AI Search with Metacognitive Prompts**|Anjali Singh et.al.|[2505.24014](http://arxiv.org/abs/2505.24014)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
 |**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
 |**2025-05-29**|**Federated Unsupervised Semantic Segmentation**|Evangelos Charalampakis et.al.|[2505.23292](http://arxiv.org/abs/2505.23292)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -62,7 +62,7 @@ layout: default
 |**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
 |**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-05-30**|**ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and Optimization for Retrieval-Augmented Generation**|Hao Chen et.al.|[2505.24388](http://arxiv.org/abs/2505.24388)|null|
-|**2025-05-30**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
+|**2025-06-02**|**E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness**|Yibo Zhao et.al.|[2505.24226](http://arxiv.org/abs/2505.24226)|null|
 |**2025-05-29**|**mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation**|Chan-Wei Hu et.al.|[2505.24073](http://arxiv.org/abs/2505.24073)|null|
 |**2025-05-29**|**Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding**|Mingyang Mao et.al.|[2505.23990](http://arxiv.org/abs/2505.23990)|null|
 |**2025-05-29**|**Retrieval Augmented Generation based Large Language Models for Causality Mining**|Thushara Manjari Naduvilakandy et.al.|[2505.23944](http://arxiv.org/abs/2505.23944)|null|
@@ -90,7 +90,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Generative Knowledge Production Pipeline Driven by Academic Influencers**|Katalin Feher et.al.|[2505.24681](http://arxiv.org/abs/2505.24681)|null|
-|**2025-05-30**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
+|**2025-06-02**|**AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams**|Sakhinana Sagar Srinivas et.al.|[2505.24584](http://arxiv.org/abs/2505.24584)|null|
 |**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|null|
 |**2025-05-30**|**Leveraging Knowledge Graphs and LLMs for Structured Generation of Misinformation**|Sania Nayab et.al.|[2505.24479](http://arxiv.org/abs/2505.24479)|null|
 |**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
