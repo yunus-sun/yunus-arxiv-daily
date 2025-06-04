@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -45,7 +45,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting**|Fuyuan Lyu et.al.|[2505.24835](http://arxiv.org/abs/2505.24835)|null|
-|**2025-05-30**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
+|**2025-06-03**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
 |**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
 |**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|null|
 |**2025-05-30**|**Joint space-time modelling for upper daily maximum and minimum temperature record-breaking**|Jorge Castillo-Mateo et.al.|[2505.24436](http://arxiv.org/abs/2505.24436)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
 |**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
-|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
+|**2025-06-03**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
 
 ## Federated Learning
 

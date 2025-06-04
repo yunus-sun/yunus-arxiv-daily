@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-05-30**|**Optimising cryptocurrency portfolios through stable clustering of price correlation networks**|Ruixue Jing et.al.|[2505.24831](http://arxiv.org/abs/2505.24831)|null|
 |**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,14 +52,14 @@
 |**2025-05-23**|**Towards VM Rescheduling Optimization Through Deep Reinforcement Learning**|Xianzhong Ding et.al.|[2505.17359](http://arxiv.org/abs/2505.17359)|null|
 |**2025-05-22**|**LogStamping: A blockchain-based log auditing approach for large-scale systems**|Md Shariful Islam et.al.|[2505.17236](http://arxiv.org/abs/2505.17236)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-30**|**Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting**|Fuyuan Lyu et.al.|[2505.24835](http://arxiv.org/abs/2505.24835)|null|
-|**2025-05-30**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
+|**2025-06-03**|**Binary Cumulative Encoding meets Time Series Forecasting**|Andrei Chernov et.al.|[2505.24595](http://arxiv.org/abs/2505.24595)|null|
 |**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
 |**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|null|
 |**2025-05-30**|**Joint space-time modelling for upper daily maximum and minimum temperature record-breaking**|Jorge Castillo-Mateo et.al.|[2505.24436](http://arxiv.org/abs/2505.24436)|null|
@@ -69,7 +69,7 @@
 |**2025-05-29**|**Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting**|ChengAo Shen et.al.|[2505.24003](http://arxiv.org/abs/2505.24003)|null|
 |**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW $_1$**|Carl Ingebretsen et.al.|[2505.23736](http://arxiv.org/abs/2505.23736)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
 |**2025-05-29**|**Enhancing Critical Thinking in Generative AI Search with Metacognitive Prompts**|Anjali Singh et.al.|[2505.24014](http://arxiv.org/abs/2505.24014)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -135,9 +135,9 @@
 |**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
 |**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
-|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
+|**2025-06-03**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
 |**2025-05-29**|**Federated Unsupervised Semantic Segmentation**|Evangelos Charalampakis et.al.|[2505.23292](http://arxiv.org/abs/2505.23292)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
