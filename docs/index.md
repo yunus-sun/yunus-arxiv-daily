@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -33,7 +33,7 @@ layout: default
 |**2025-06-03**|**The Cloud Next Door: Investigating the Environmental and Socioeconomic Strain of Datacenters on Local Communities**|Wacuka Ngata et.al.|[2506.03367](http://arxiv.org/abs/2506.03367)|null|
 |**2025-06-03**|**Quantum Data Centers: Why Entanglement Changes Everything**|Angela Sara Cacciapuoti et.al.|[2506.02920](http://arxiv.org/abs/2506.02920)|null|
 |**2025-06-02**|**A Vertical Approach to Designing and Managing Sustainable Heterogeneous Edge Data Centers**|Aikaterini Maria Panteleaki et.al.|[2506.01712](http://arxiv.org/abs/2506.01712)|null|
-|**2025-06-01**|**Söze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale**|Weitao Wang et.al.|[2506.00834](http://arxiv.org/abs/2506.00834)|null|
+|**2025-06-05**|**Söze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale**|Weitao Wang et.al.|[2506.00834](http://arxiv.org/abs/2506.00834)|null|
 |**2025-05-31**|**Processing-in-memory for genomics workloads**|William Andrew Simon et.al.|[2506.00597](http://arxiv.org/abs/2506.00597)|null|
 |**2025-05-31**|**DV365: Extremely Long User History Modeling at Instagram**|Wenhan Lyu et.al.|[2506.00450](http://arxiv.org/abs/2506.00450)|null|
 |**2025-05-30**|**Distributed Intelligence in the Computing Continuum with Active Inference**|Victor Casamayor Pujol et.al.|[2505.24618](http://arxiv.org/abs/2505.24618)|null|
@@ -63,10 +63,10 @@ layout: default
 |**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185](http://arxiv.org/abs/2506.04185)|null|
 |**2025-06-04**|**QQSUM: A Novel Task and Model of Quantitative Query-Focused Summarization for Review-based Product Question Answering**|An Quang Tang et.al.|[2506.04020](http://arxiv.org/abs/2506.04020)|null|
 |**2025-06-04**|**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**|Alex Laitenberger et.al.|[2506.03989](http://arxiv.org/abs/2506.03989)|null|
-|**2025-06-04**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
+|**2025-06-05**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
 |**2025-06-04**|**A Two-Staged LLM-Based Framework for CI/CD Failure Detection and Remediation with Industrial Validation**|Weiyuan Xu et.al.|[2506.03691](http://arxiv.org/abs/2506.03691)|null|
 |**2025-06-03**|**RAGOps: Operating and Managing Retrieval-Augmented Generation Pipelines**|Xiwei Xu et.al.|[2506.03401](http://arxiv.org/abs/2506.03401)|null|
-|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
+|**2025-06-04**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
 |**2025-06-03**|**DeepShop: A Benchmark for Deep Research Shopping Agents**|Yougang Lyu et.al.|[2506.02839](http://arxiv.org/abs/2506.02839)|null|
 |**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
 
