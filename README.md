@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-05**|**Tight analyses of first-order methods with error feedback**|Daniel Berg Thomsen et.al.|[2506.05271](http://arxiv.org/abs/2506.05271)|null|
 |**2025-06-05**|**A seasonal to decadal calibration of 1990-2100 eastern Canadian freshwater discharge simulations by observations, data models, and neural networks**|Richard E. Danielson et.al.|[2506.05261](http://arxiv.org/abs/2506.05261)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-05-30**|**Design and Analysis of Power Consumption Models for Open-RAN Architectures**|Urooj Tariq et.al.|[2505.24552](http://arxiv.org/abs/2505.24552)|null|
 |**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-05**|**Distribution System State and Impedance Estimation Augmented with Carson's Equations**|Marta Vanin et.al.|[2506.04949](http://arxiv.org/abs/2506.04949)|null|
 |**2025-06-05**|**Continued Photometric Monitoring Supports Long-Term Dynamical Evolution in the Young Binary Star-Disk System KH 15D**|Luke Lamitina et.al.|[2506.04914](http://arxiv.org/abs/2506.04914)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-04**|**GEM: Empowering LLM for both Embedding Generation and Language Understanding**|Caojin Zhang et.al.|[2506.04344](http://arxiv.org/abs/2506.04344)|null|
 |**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/abs/2506.05316)|null|
 |**2025-06-05**|**Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models**|Taha Entesari et.al.|[2506.05314](http://arxiv.org/abs/2506.05314)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-04**|**PRJ: Perception-Retrieval-Judgement for Generated Images**|Qiang Fu et.al.|[2506.03683](http://arxiv.org/abs/2506.03683)|null|
 |**2025-06-04**|**Computational Architects of Society: Quantum Machine Learning for Social Rule Genesis**|Shan Shan et.al.|[2506.03503](http://arxiv.org/abs/2506.03503)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168](http://arxiv.org/abs/2506.05168)|null|
 |**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-04**|**HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**|Jianqing Zhang et.al.|[2506.03954](http://arxiv.org/abs/2506.03954)|null|
 |**2025-06-04**|**FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning**|Li Zhang et.al.|[2506.03777](http://arxiv.org/abs/2506.03777)|null|
 
-<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
