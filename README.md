@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-16**|**The Sample Complexity of Distributed Simple Binary Hypothesis Testing under Information Constraints**|Hadi Kazemi et.al.|[2506.13686](http://arxiv.org/abs/2506.13686)|null|
 |**2025-06-16**|**Turning Down the Heat: A Critical Analysis of Min-p Sampling in Language Models**|Rylan Schaeffer et.al.|[2506.13681](http://arxiv.org/abs/2506.13681)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-03**|**Quantum Data Centers: Why Entanglement Changes Everything**|Angela Sara Cacciapuoti et.al.|[2506.02920](http://arxiv.org/abs/2506.02920)|null|
 |**2025-06-02**|**A Vertical Approach to Designing and Managing Sustainable Heterogeneous Edge Data Centers**|Aikaterini Maria Panteleaki et.al.|[2506.01712](http://arxiv.org/abs/2506.01712)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-15**|**Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning**|Mehmet Ozgur Turkoglu et.al.|[2506.12885](http://arxiv.org/abs/2506.12885)|null|
 |**2025-06-15**|**Lyapunov Learning at the Onset of Chaos**|Matteo Benati et.al.|[2506.12810](http://arxiv.org/abs/2506.12810)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-14**|**MALM: A Multi-Information Adapter for Large Language Models to Mitigate Hallucination**|Ao Jia et.al.|[2506.12483](http://arxiv.org/abs/2506.12483)|null|
 |**2025-06-14**|**The Budget AI Researcher and the Power of RAG Chains**|Franklin Lee et.al.|[2506.12317](http://arxiv.org/abs/2506.12317)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,24 +103,24 @@
 |**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-16**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|null|
-|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
 |**2025-06-16**|**Towards Pervasive Distributed Agentic Generative AI -- A State of The Art**|Gianni Molinari et.al.|[2506.13324](http://arxiv.org/abs/2506.13324)|null|
 |**2025-06-16**|**Screen Reader Users in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape**|Nan Chen et.al.|[2506.13270](http://arxiv.org/abs/2506.13270)|null|
 |**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
-|**2025-06-16**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
+|**2025-06-17**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
 |**2025-06-16**|**A Practical Guide for Evaluating LLMs and LLM-Reliant Systems**|Ethan M. Rudd et.al.|[2506.13023](http://arxiv.org/abs/2506.13023)|null|
 |**2025-06-15**|**Exploring the Potential of Metacognitive Support Agents for Human-AI Co-Creation**|Frederic Gmeiner et.al.|[2506.12879](http://arxiv.org/abs/2506.12879)|null|
 |**2025-06-15**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672](http://arxiv.org/abs/2506.13672)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-13**|**Fed-HeLLo: Efficient Federated Foundation Model Fine-Tuning with Heterogeneous LoRA Allocation**|Zikai Zhang et.al.|[2506.12213](http://arxiv.org/abs/2506.12213)|null|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413](http://arxiv.org/abs/2506.11413)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

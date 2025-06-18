@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -90,12 +90,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|null|
-|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
 |**2025-06-16**|**Towards Pervasive Distributed Agentic Generative AI -- A State of The Art**|Gianni Molinari et.al.|[2506.13324](http://arxiv.org/abs/2506.13324)|null|
 |**2025-06-16**|**Screen Reader Users in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape**|Nan Chen et.al.|[2506.13270](http://arxiv.org/abs/2506.13270)|null|
 |**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
-|**2025-06-16**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
+|**2025-06-17**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
 |**2025-06-16**|**A Practical Guide for Evaluating LLMs and LLM-Reliant Systems**|Ethan M. Rudd et.al.|[2506.13023](http://arxiv.org/abs/2506.13023)|null|
 |**2025-06-15**|**Exploring the Potential of Metacognitive Support Agents for Human-AI Co-Creation**|Frederic Gmeiner et.al.|[2506.12879](http://arxiv.org/abs/2506.12879)|null|
 |**2025-06-15**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
