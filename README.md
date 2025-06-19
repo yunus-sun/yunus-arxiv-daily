@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-03**|**The Cloud Next Door: Investigating the Environmental and Socioeconomic Strain of Datacenters on Local Communities**|Wacuka Ngata et.al.|[2506.03367](http://arxiv.org/abs/2506.03367)|null|
 |**2025-06-03**|**Quantum Data Centers: Why Entanglement Changes Everything**|Angela Sara Cacciapuoti et.al.|[2506.02920](http://arxiv.org/abs/2506.02920)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-17**|**Multi-Scale Finetuning for Encoder-based Time Series Foundation Models**|Zhongzheng Qiao et.al.|[2506.14087](http://arxiv.org/abs/2506.14087)|null|
 |**2025-06-16**|**FEWSim: A Visual Analytic Framework for Exploring the Nexus of Food-Energy-Water Simulations**|Fan Lei et.al.|[2506.14056](http://arxiv.org/abs/2506.14056)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## RAG
 
@@ -83,17 +83,17 @@
 |**2025-06-16**|**Arctic Long Sequence Training: Scalable And Efficient Training For Multi-Million Token Sequences**|Stas Bekman et.al.|[2506.13996](http://arxiv.org/abs/2506.13996)|null|
 |**2025-06-16**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743](http://arxiv.org/abs/2506.13743)|null|
 |**2025-06-16**|**Tree-Based Text Retrieval via Hierarchical Clustering in RAGFrameworks: Application on Taiwanese Regulations**|Chia-Heng Yu et.al.|[2506.13607](http://arxiv.org/abs/2506.13607)|null|
-|**2025-06-16**|**Omni-AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented for Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
+|**2025-06-18**|**AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
 |**2025-06-16**|**CHILL at SemEval-2025 Task 2: You Can't Just Throw Entities and Hope -- Make Your LLM to Get Them Right**|Jaebok Lee et.al.|[2506.13070](http://arxiv.org/abs/2506.13070)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Large Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
 |**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
 |**2025-06-17**|**Unified Software Engineering agent as AI Software Engineer**|Leonhard Applis et.al.|[2506.14683](http://arxiv.org/abs/2506.14683)|null|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|null|
@@ -101,9 +101,9 @@
 |**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|null|
 |**2025-06-17**|**Passing the Turing Test in Political Discourse: Fine-Tuning LLMs to Mimic Polarized Social Media Comments**|. Pazzaglia et.al.|[2506.14645](http://arxiv.org/abs/2506.14645)|null|
 |**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641](http://arxiv.org/abs/2506.14641)|null|
-|**2025-06-17**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634](http://arxiv.org/abs/2506.14634)|null|
+|**2025-06-18**|**AIn't Nothing But a Survey? Using Large Language Models for Coding German Open-Ended Survey Responses on Survey Motivation**|Leah von der Heyde et.al.|[2506.14634](http://arxiv.org/abs/2506.14634)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,14 +120,14 @@
 |**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758](http://arxiv.org/abs/2506.14758)|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
 |**2025-06-17**|**Adaptive Accompaniment with ReaLchords**|Yusong Wu et.al.|[2506.14723](http://arxiv.org/abs/2506.14723)|null|
 |**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648](http://arxiv.org/abs/2506.14648)|null|
 |**2025-06-17**|**On Quantum BSDE Solver for High-Dimensional Parabolic PDEs**|Howard Su et.al.|[2506.14612](http://arxiv.org/abs/2506.14612)|null|
@@ -137,7 +137,7 @@
 |**2025-06-17**|**Toward Rich Video Human-Motion2D Generation**|Ruihao Xi et.al.|[2506.14428](http://arxiv.org/abs/2506.14428)|null|
 |**2025-06-17**|**Unsupervised Skill Discovery through Skill Regions Differentiation**|Ting Xiao et.al.|[2506.14420](http://arxiv.org/abs/2506.14420)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -151,10 +151,10 @@
 |**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846](http://arxiv.org/abs/2506.12846)|null|
 |**2025-06-15**|**Leveraging MIMIC Datasets for Better Digital Health: A Review on Open Problems, Progress Highlights, and Future Promises**|Afifa Khaled et.al.|[2506.12808](http://arxiv.org/abs/2506.12808)|null|
 |**2025-06-15**|**AFBS:Buffer Gradient Selection in Semi-asynchronous Federated Learning**|Chaoyi Lu et.al.|[2506.12754](http://arxiv.org/abs/2506.12754)|null|
-|**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
+|**2025-06-18**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
 |**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425](http://arxiv.org/abs/2506.12425)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
