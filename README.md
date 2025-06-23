@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
 |**2025-06-18**|**Determining the chemical potential via universal density functional learning**|Florian Sammüller et.al.|[2506.15608](http://arxiv.org/abs/2506.15608)|**[link](https://github.com/sfalmo/neural-mu)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-10**|**Euclid preparation. Accurate and precise data-driven angular power spectrum covariances**|Euclid Collaboration et.al.|[2506.09118](http://arxiv.org/abs/2506.09118)|null|
 |**2025-06-10**|**Euclid preparation: The NISP spectroscopy channel, on ground performance and calibration**|Euclid Collaboration et.al.|[2506.08378](http://arxiv.org/abs/2506.08378)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-17**|**Detecting fast-variation pulsations in solar hard X-ray and radio emissions**|Dong Li et.al.|[2506.14433](http://arxiv.org/abs/2506.14433)|null|
 |**2025-06-17**|**A novel approach for converting spatio-temporal series into complex networks**|G. Cigdem Yalcin et.al.|[2506.14378](http://arxiv.org/abs/2506.14378)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-17**|**AviationLLM: An LLM-based Knowledge System for Aviation Training**|Jia'ang Wan et.al.|[2506.14336](http://arxiv.org/abs/2506.14336)|null|
 |**2025-06-17**|**Lightweight Relevance Grader in RAG**|Taehee Jeong et.al.|[2506.14084](http://arxiv.org/abs/2506.14084)|**[link](https://github.com/taeheej/lightweight-relevance-grader-in-rag)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-06-18**|**LiteGD: Lightweight and dynamic GPU Dispatching for Large-scale Heterogeneous Clusters**|Kunming Zhang et.al.|[2506.15595](http://arxiv.org/abs/2506.15595)|null|
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-17**|**The Impact of Generative AI on Social Media: An Experimental Study**|Anders Giovanni Møller et.al.|[2506.14295](http://arxiv.org/abs/2506.14295)|null|
 |**2025-06-17**|**High computational density nanophotonic media for machine learning inference**|Zhenyu Zhao et.al.|[2506.14269](http://arxiv.org/abs/2506.14269)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,13 +137,13 @@
 |**2025-06-18**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522](http://arxiv.org/abs/2506.15522)|null|
 |**2025-06-18**|**Zero-Shot Reinforcement Learning Under Partial Observability**|Scott Jeen et.al.|[2506.15446](http://arxiv.org/abs/2506.15446)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Federated Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
+|**2025-06-19**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
 |**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365](http://arxiv.org/abs/2506.15365)|**[link](https://github.com/f1onae/fedwsidd)**|
 |**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264](http://arxiv.org/abs/2506.15264)|null|
 |**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189](http://arxiv.org/abs/2506.15189)|null|
@@ -154,7 +154,7 @@
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165](http://arxiv.org/abs/2506.14165)|null|
 |**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612](http://arxiv.org/abs/2506.13612)|**[link](https://github.com/lee-va/ebs-cfl)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
