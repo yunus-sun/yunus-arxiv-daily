@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -67,7 +67,7 @@ layout: default
 |**2025-06-19**|**Enhancing Document-Level Question Answering via Multi-Hop Retrieval-Augmented Generation with LLaMA 3**|Xinyue Huang et.al.|[2506.16037](http://arxiv.org/abs/2506.16037)|null|
 |**2025-06-19**|**Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding**|Vishesh Tripathi et.al.|[2506.16035](http://arxiv.org/abs/2506.16035)|null|
 |**2025-06-19**|**HybridRAG-based LLM Agents for Low-Carbon Optimization in Low-Altitude Economy Networks**|Jinbo Wen et.al.|[2506.15947](http://arxiv.org/abs/2506.15947)|null|
-|**2025-06-18**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
+|**2025-06-23**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
 |**2025-06-18**|**MoR: Better Handling Diverse Queries with a Mixture of Sparse, Dense, and Human Retrievers**|Jushaan Singh Kalra et.al.|[2506.15862](http://arxiv.org/abs/2506.15862)|null|
 
 ## Large Model
