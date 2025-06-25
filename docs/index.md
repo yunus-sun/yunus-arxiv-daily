@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -34,7 +34,7 @@ layout: default
 |**2025-06-14**|**A Theoretical Framework for Virtual Power Plant Integration with Gigawatt-Scale AI Data Centers: Multi-Timescale Control and Stability Analysis**|Ali Peivandizadeh et.al.|[2506.17284](http://arxiv.org/abs/2506.17284)|null|
 |**2025-06-20**|**High-Speed Boulders and the Debris Field in DART Ejecta**|Tony L. Farnham et.al.|[2506.16694](http://arxiv.org/abs/2506.16694)|null|
 |**2025-06-18**|**Mechanisms to Verify International Agreements About AI Development**|Aaron Scher et.al.|[2506.15867](http://arxiv.org/abs/2506.15867)|null|
-|**2025-06-18**|**Photoabsorption Cross Sections studied within the axially deformed Relativistic Quasiparticle Finite Amplitude Framework**|C. Chen et.al.|[2506.15297](http://arxiv.org/abs/2506.15297)|null|
+|**2025-06-22**|**Photoabsorption Cross Sections studied within the axially deformed Relativistic Quasiparticle Finite Amplitude Framework**|C. Chen et.al.|[2506.15297](http://arxiv.org/abs/2506.15297)|null|
 |**2025-06-18**|**Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels**|David Nozadze et.al.|[2506.15105](http://arxiv.org/abs/2506.15105)|null|
 |**2025-06-17**|**Scaling Intelligence: Designing Data Centers for Next-Gen Language Models**|Jesmin Jahan Tithi et.al.|[2506.15006](http://arxiv.org/abs/2506.15006)|null|
 |**2025-06-16**|**Euclid: The potential of slitless infrared spectroscopy: A z=5.4 quasar and new ultracool dwarfs**|E. Bañados et.al.|[2506.13945](http://arxiv.org/abs/2506.13945)|null|
@@ -91,7 +91,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
 |**2025-06-23**|**ContinualFlow: Learning and Unlearning with Neural Flow Matching**|Lorenzo Simone et.al.|[2506.18747](http://arxiv.org/abs/2506.18747)|null|
-|**2025-06-23**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|
+|**2025-06-24**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|
 |**2025-06-23**|**Fanfiction in the Age of AI: Community Perspectives on Creativity, Authenticity and Adoption**|Roi Alfassi et.al.|[2506.18706](http://arxiv.org/abs/2506.18706)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
 |**2025-06-22**|**Two Sonification Methods for the MindCube**|Fangzheng Liu et.al.|[2506.18196](http://arxiv.org/abs/2506.18196)|null|
