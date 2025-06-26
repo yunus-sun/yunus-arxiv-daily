@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -22,7 +22,7 @@ layout: default
 |**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826](http://arxiv.org/abs/2506.19826)|null|
 |**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821](http://arxiv.org/abs/2506.19821)|null|
 |**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813](http://arxiv.org/abs/2506.19813)|null|
-|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
+|**2025-06-25**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
 |**2025-06-24**|**Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective**|Chenhao Si et.al.|[2506.19805](http://arxiv.org/abs/2506.19805)|null|
 
 ## Data Center

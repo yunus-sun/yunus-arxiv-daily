@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,10 +32,10 @@
 |**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826](http://arxiv.org/abs/2506.19826)|null|
 |**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821](http://arxiv.org/abs/2506.19821)|null|
 |**2025-06-24**|**Curating art exhibitions using machine learning**|Eurico Covas et.al.|[2506.19813](http://arxiv.org/abs/2506.19813)|null|
-|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
+|**2025-06-25**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808](http://arxiv.org/abs/2506.19808)|null|
 |**2025-06-24**|**Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective**|Chenhao Si et.al.|[2506.19805](http://arxiv.org/abs/2506.19805)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-22**|**Photoabsorption Cross Sections studied within the axially deformed Relativistic Quasiparticle Finite Amplitude Framework**|C. Chen et.al.|[2506.15297](http://arxiv.org/abs/2506.15297)|null|
 |**2025-06-18**|**Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels**|David Nozadze et.al.|[2506.15105](http://arxiv.org/abs/2506.15105)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-24**|**Fourier minimization and imputation of time series**|Will Burstein et.al.|[2506.19226](http://arxiv.org/abs/2506.19226)|null|
 |**2025-06-23**|**From Rows to Yields: How Foundation Models for Tabular Data Simplify Crop Yield Prediction**|Filip Sabo et.al.|[2506.19046](http://arxiv.org/abs/2506.19046)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559](http://arxiv.org/abs/2506.18559)|null|
 |**2025-06-23**|**Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance**|Yu Han et.al.|[2506.18511](http://arxiv.org/abs/2506.18511)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
 |**2025-06-24**|**Canary in the Mine: An LLM Augmented Survey of Disciplinary Complaints to the Ordre des ingénieurs du Québec (OIQ)**|Tammy Mackenzie et.al.|[2506.19775](http://arxiv.org/abs/2506.19775)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
 |**2025-06-23**|**ContinualFlow: Learning and Unlearning with Neural Flow Matching**|Lorenzo Simone et.al.|[2506.18747](http://arxiv.org/abs/2506.18747)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-06-24**|**Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks**|Nathan Maurer et.al.|[2506.19703](http://arxiv.org/abs/2506.19703)|null|
 |**2025-06-24**|**From memories to maps: Mechanisms of in context reinforcement learning in transformers**|Ching Fang et.al.|[2506.19686](http://arxiv.org/abs/2506.19686)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
 |**2025-06-23**|**Edge Association Strategies for Synthetic Data Empowered Hierarchical Federated Learning with Non-IID Data**|Jer Shyuan Ng et.al.|[2506.18259](http://arxiv.org/abs/2506.18259)|null|
 
-<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
