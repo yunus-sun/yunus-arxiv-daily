@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -93,7 +93,7 @@ layout: default
 |**2025-06-25**|**CogGen: A Learner-Centered Generative AI Architecture for Intelligent Tutoring with Programming Video**|Wengxi Li et.al.|[2506.20600](http://arxiv.org/abs/2506.20600)|null|
 |**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
 |**2025-06-25**|**Analyzing Security and Privacy Challenges in Generative AI Usage Guidelines for Higher Education**|Bei Yi Ng et.al.|[2506.20463](http://arxiv.org/abs/2506.20463)|null|
-|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
+|**2025-06-26**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
 |**2025-06-24**|**Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks**|Jingzhi Hu et.al.|[2506.19893](http://arxiv.org/abs/2506.19893)|null|
 |**2025-06-24**|**Towards an Introspective Dynamic Model of Globally Distributed Computing Infrastructures**|Ozgur O. Kilic et.al.|[2506.19578](http://arxiv.org/abs/2506.19578)|null|
 |**2025-06-24**|**Programming Geotechnical Reliability Algorithms using Generative AI**|Atma Sharma et.al.|[2506.19536](http://arxiv.org/abs/2506.19536)|null|
@@ -107,7 +107,7 @@ layout: default
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**PLoP: Precise LoRA Placement for Efficient Finetuning of Large Models**|Soufiane Hayou et.al.|[2506.20629](http://arxiv.org/abs/2506.20629)|null|
 |**2025-06-25**|**Reinforcement Learning Increases Wind Farm Power Production by Enabling Closed-Loop Collaborative Control**|Andrew Mole et.al.|[2506.20554](http://arxiv.org/abs/2506.20554)|null|
 |**2025-06-25**|**Demonstration of effective UCB-based routing in skill-based queues on real-world data**|Sanne van Kempen et.al.|[2506.20543](http://arxiv.org/abs/2506.20543)|null|
