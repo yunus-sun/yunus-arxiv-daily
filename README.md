@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 |**2025-06-26**|**Testing a 95 GeV Scalar at the CEPC with Machine Learning**|Yabo Dong et.al.|[2506.21454](http://arxiv.org/abs/2506.21454)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-21**|**Choosing the Right Battery Model for Data Center Simulations**|Paul Kilian et.al.|[2506.17739](http://arxiv.org/abs/2506.17739)|null|
 |**2025-06-20**|**High-Speed Boulders and the Debris Field in DART Ejecta**|Tony L. Farnham et.al.|[2506.16694](http://arxiv.org/abs/2506.16694)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-25**|**Central limit theory for Peaks-over-Threshold partial sums of long memory linear time series**|Ioan Scheffel et.al.|[2506.20789](http://arxiv.org/abs/2506.20789)|null|
 |**2025-06-25**|**Benchmarking Unsupervised Strategies for Anomaly Detection in Multivariate Time Series**|Laura Boggia et.al.|[2506.20574](http://arxiv.org/abs/2506.20574)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
 |**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-24**|**Programming Geotechnical Reliability Algorithms using Generative AI**|Atma Sharma et.al.|[2506.19536](http://arxiv.org/abs/2506.19536)|null|
 |**2025-06-24**|**Low-Complexity Semantic Packet Aggregation for Token Communication via Lookahead Search**|Seunghun Lee et.al.|[2506.19451](http://arxiv.org/abs/2506.19451)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-06-26**|**Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design**|Hampus Gummesson Svensson et.al.|[2506.21158](http://arxiv.org/abs/2506.21158)|null|
 |**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-25**|**Efficient Federated Learning with Encrypted Data Sharing for Data-Heterogeneous Edge Devices**|Hangyu Li et.al.|[2506.20644](http://arxiv.org/abs/2506.20644)|null|
 |**2025-06-25**|**WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning**|Arno Geimer et.al.|[2506.20518](http://arxiv.org/abs/2506.20518)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
