@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-24**|**PS-WL: A Probability-Sensitive Wear Leveling scheme for SSD array scaling**|Shuhang Xu et.al.|[2506.19660](http://arxiv.org/abs/2506.19660)|null|
 |**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566](http://arxiv.org/abs/2506.19566)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-26**|**Predicting Thermodynamics of Liquid Water from Time Series Analysis**|Małgorzata J. Zimoń et.al.|[2506.21821](http://arxiv.org/abs/2506.21821)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-26**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
 |**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Large Model
 
@@ -99,11 +99,11 @@
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-27**|**Towards Fair Rankings: Leveraging LLMs for Gender Bias Detection and Measurement**|Maryam Mousavian et.al.|[2506.22372](http://arxiv.org/abs/2506.22372)|null|
-|**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
+|**2025-06-30**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
 |**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359](http://arxiv.org/abs/2506.22359)|null|
 |**2025-06-27**|**Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts**|Xiang Li et.al.|[2506.22343](http://arxiv.org/abs/2506.22343)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-25**|**Analyzing Security and Privacy Challenges in Generative AI Usage Guidelines for Higher Education**|Bei Yi Ng et.al.|[2506.20463](http://arxiv.org/abs/2506.20463)|null|
 |**2025-06-26**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -134,10 +134,10 @@
 |**2025-06-27**|**Education-Oriented Graph Retrieval-Augmented Generation for Learning Path Recommendation**|Xinghe Cheng et.al.|[2506.22303](http://arxiv.org/abs/2506.22303)|null|
 |**2025-06-27**|**ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning**|Ming Zhao et.al.|[2506.22216](http://arxiv.org/abs/2506.22216)|null|
 |**2025-06-27**|**A Reinforcement Learning Framework for Some Singular Stochastic Control Problems**|Zongxia Liang et.al.|[2506.22203](http://arxiv.org/abs/2506.22203)|null|
-|**2025-06-27**|**EFRame: Deeper Reasoning via Exploration-Filtering-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
+|**2025-06-30**|**EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
 |**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054](http://arxiv.org/abs/2506.21054)|null|
 |**2025-06-26**|**An Information-Theoretic Analysis for Federated Learning under Concept Drift**|Fu Peng et.al.|[2506.21036](http://arxiv.org/abs/2506.21036)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
