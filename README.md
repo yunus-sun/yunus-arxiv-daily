@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081](http://arxiv.org/abs/2506.24081)|null|
 |**2025-06-30**|**The 3-path-connectivity of the augmented cubes**|S. A. Kandekar et.al.|[2506.24071](http://arxiv.org/abs/2506.24071)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-25**|**Demonstration of effective UCB-based routing in skill-based queues on real-world data**|Sanne van Kempen et.al.|[2506.20543](http://arxiv.org/abs/2506.20543)|null|
 |**2025-06-24**|**MAIZX: A Carbon-Aware Framework for Optimizing Cloud Computing Emissions**|Federico Ruilova et.al.|[2506.19972](http://arxiv.org/abs/2506.19972)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-06-29**|**A systematic bias in template-based RV extraction algorithms**|André M. Silva et.al.|[2506.23261](http://arxiv.org/abs/2506.23261)|null|
 |**2025-06-29**|**maneuverRecognition -- A Python package for Timeseries Classification in the domain of Vehicle Telematics**|Jonathan Schuster et.al.|[2506.23147](http://arxiv.org/abs/2506.23147)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-06-27**|**Evaluating Hybrid Retrieval Augmented Generation using Dynamic Test Sets: LiveRAG Challenge**|Chase Fensore et.al.|[2506.22644](http://arxiv.org/abs/2506.22644)|null|
 |**2025-06-27**|**UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2506.22210](http://arxiv.org/abs/2506.22210)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
 |**2025-06-30**|**TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation**|Renren Jin et.al.|[2506.23979](http://arxiv.org/abs/2506.23979)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-06-29**|**Securing AI Systems: A Guide to Known Attacks and Impacts**|Naoto Kiribuchi et.al.|[2506.23296](http://arxiv.org/abs/2506.23296)|null|
 |**2025-06-29**|**Dare to Plagiarize? Plagiarized Painting Recognition and Retrieval**|Sophie Zhou et.al.|[2506.23132](http://arxiv.org/abs/2506.23132)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[2506.23771](http://arxiv.org/abs/2506.23771)|null|
 |**2025-06-30**|**L0: Reinforcement Learning to Become General Agents**|Junjie Zhang et.al.|[2506.23667](http://arxiv.org/abs/2506.23667)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-06-29**|**FedRef: Communication-Efficient Bayesian Fine Tuning with Reference Model**|Taehwan Yoon et.al.|[2506.23210](http://arxiv.org/abs/2506.23210)|null|
 |**2025-06-28**|**P $^2$ U: Progressive Precision Update For Efficient Model Distribution**|Homayun Afrabandpey et.al.|[2506.22871](http://arxiv.org/abs/2506.22871)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
