@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924](http://arxiv.org/abs/2507.01924)|null|
 |**2025-07-02**|**Efficient stochastic simulation of gene regulatory networks using hybrid models of transcriptional bursting**|Mathilde Gaillard et.al.|[2507.01922](http://arxiv.org/abs/2507.01922)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257](http://arxiv.org/abs/2506.22257)|null|
 |**2025-06-27**|**Optimal Estimation of Two-Way Effects under Limited Mobility**|Xu Cheng et.al.|[2506.21987](http://arxiv.org/abs/2506.21987)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Time Series
 
@@ -63,13 +63,13 @@
 |**2025-07-02**|**Modeling the Deterioration of Pavement Skid Resistance and Surface Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842](http://arxiv.org/abs/2507.01842)|null|
 |**2025-07-02**|**Simulation and evaluation of local daily temperature and precipitation series derived by stochastic downscaling of ERA5 reanalysis**|Silius M. Vandeskog et.al.|[2507.01692](http://arxiv.org/abs/2507.01692)|null|
 |**2025-07-02**|**A Bayesian framework for change-point detection with uncertainty quantification**|Davis Berlind et.al.|[2507.01558](http://arxiv.org/abs/2507.01558)|null|
-|**2025-07-02**|**Tensor-product interactions in Markov-switching models**|Jan-Ole Koslik et.al.|[2507.01555](http://arxiv.org/abs/2507.01555)|null|
+|**2025-07-03**|**Tensor-product interactions in Markov-switching models**|Jan-Ole Koslik et.al.|[2507.01555](http://arxiv.org/abs/2507.01555)|null|
 |**2025-07-01**|**Tunnelling Through Time Series: A Probabilistic Visibility Graph for Local and Global Pattern Discovery**|Roberto Sotero et.al.|[2507.01247](http://arxiv.org/abs/2507.01247)|null|
 |**2025-07-01**|**Uniform Validity of the Subset Anderson-Rubin Test under Heteroskedasticity and Nonlinearity**|Atsushi Inoue et.al.|[2507.01167](http://arxiv.org/abs/2507.01167)|null|
 |**2025-07-01**|**Toward a Data Processing Pipeline for Mobile-Phone Tracking Data**|Marcin Jurek et.al.|[2507.00952](http://arxiv.org/abs/2507.00952)|null|
 |**2025-07-01**|**Time Series Foundation Models are Flow Predictors**|Massimiliano Luca et.al.|[2507.00945](http://arxiv.org/abs/2507.00945)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
 |**2025-07-01**|**Question Decomposition for Retrieval-Augmented Generation**|Paul J. L. Ammann et.al.|[2507.00355](http://arxiv.org/abs/2507.00355)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Large Model
 
@@ -94,8 +94,8 @@
 |---|---|---|---|---|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
 |**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
@@ -103,7 +103,7 @@
 |**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
 |**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-07-01**|**A Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model**|Wenbo Yu et.al.|[2507.00761](http://arxiv.org/abs/2507.00761)|null|
 |**2025-07-01**|**AI-Generated Video Detection via Perceptual Straightening**|Christian Internò et.al.|[2507.00583](http://arxiv.org/abs/2507.00583)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -132,12 +132,12 @@
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
 |**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
 |**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
-|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-03**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
 |**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
 |**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
 |**2025-07-02**|**Zero-Incentive Dynamics: a look at reward sparsity through the lens of unrewarded subgoals**|Yannick Molinghen et.al.|[2507.01470](http://arxiv.org/abs/2507.01470)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -146,7 +146,7 @@
 |**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581](http://arxiv.org/abs/2507.01581)|null|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
 |**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068](http://arxiv.org/abs/2507.01068)|null|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
+|**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
 |**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643](http://arxiv.org/abs/2507.00643)|null|
 |**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423](http://arxiv.org/abs/2507.00423)|null|
@@ -154,7 +154,7 @@
 |**2025-07-02**|**Who Should I Listen To? Adaptive Collaboration in Personalized Federated Learning**|Amr Abourayya et.al.|[2507.00259](http://arxiv.org/abs/2507.00259)|null|
 |**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230](http://arxiv.org/abs/2507.00230)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

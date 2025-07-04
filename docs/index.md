@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -49,7 +49,7 @@ layout: default
 |**2025-07-02**|**Modeling the Deterioration of Pavement Skid Resistance and Surface Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842](http://arxiv.org/abs/2507.01842)|null|
 |**2025-07-02**|**Simulation and evaluation of local daily temperature and precipitation series derived by stochastic downscaling of ERA5 reanalysis**|Silius M. Vandeskog et.al.|[2507.01692](http://arxiv.org/abs/2507.01692)|null|
 |**2025-07-02**|**A Bayesian framework for change-point detection with uncertainty quantification**|Davis Berlind et.al.|[2507.01558](http://arxiv.org/abs/2507.01558)|null|
-|**2025-07-02**|**Tensor-product interactions in Markov-switching models**|Jan-Ole Koslik et.al.|[2507.01555](http://arxiv.org/abs/2507.01555)|null|
+|**2025-07-03**|**Tensor-product interactions in Markov-switching models**|Jan-Ole Koslik et.al.|[2507.01555](http://arxiv.org/abs/2507.01555)|null|
 |**2025-07-01**|**Tunnelling Through Time Series: A Probabilistic Visibility Graph for Local and Global Pattern Discovery**|Roberto Sotero et.al.|[2507.01247](http://arxiv.org/abs/2507.01247)|null|
 |**2025-07-01**|**Uniform Validity of the Subset Anderson-Rubin Test under Heteroskedasticity and Nonlinearity**|Atsushi Inoue et.al.|[2507.01167](http://arxiv.org/abs/2507.01167)|null|
 |**2025-07-01**|**Toward a Data Processing Pipeline for Mobile-Phone Tracking Data**|Marcin Jurek et.al.|[2507.00952](http://arxiv.org/abs/2507.00952)|null|
@@ -76,8 +76,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
 |**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
@@ -110,7 +110,7 @@ layout: default
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
 |**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
 |**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
-|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-03**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
 |**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
 |**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
 |**2025-07-02**|**Zero-Incentive Dynamics: a look at reward sparsity through the lens of unrewarded subgoals**|Yannick Molinghen et.al.|[2507.01470](http://arxiv.org/abs/2507.01470)|null|
@@ -122,7 +122,7 @@ layout: default
 |**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581](http://arxiv.org/abs/2507.01581)|null|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
 |**2025-07-01**|**Prediction of Freezing of Gait in Parkinsons Disease using Explainable AI and Federated Deep Learning for Wearable Sensors**|Biplov Paneru et.al.|[2507.01068](http://arxiv.org/abs/2507.01068)|null|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
+|**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
 |**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643](http://arxiv.org/abs/2507.00643)|null|
 |**2025-07-01**|**Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning**|Wenjin Mo et.al.|[2507.00423](http://arxiv.org/abs/2507.00423)|null|
