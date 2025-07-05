@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.04
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
 |**2025-07-03**|**Connected k-Median with Disjoint and Non-disjoint Clusters**|Jan Eube et.al.|[2507.02774](http://arxiv.org/abs/2507.02774)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-27**|**Euclid preparation. Full-shape modelling of 2-point and 3-point correlation functions in real space**|Euclid Collaboration et.al.|[2506.22257](http://arxiv.org/abs/2506.22257)|null|
 |**2025-06-27**|**Optimal Estimation of Two-Way Effects under Limited Mobility**|Xu Cheng et.al.|[2506.21987](http://arxiv.org/abs/2506.21987)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-07-02**|**Simulation and evaluation of local daily temperature and precipitation series derived by stochastic downscaling of ERA5 reanalysis**|Silius M. Vandeskog et.al.|[2507.01692](http://arxiv.org/abs/2507.01692)|null|
 |**2025-07-02**|**A Bayesian framework for change-point detection with uncertainty quantification**|Davis Berlind et.al.|[2507.01558](http://arxiv.org/abs/2507.01558)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521](http://arxiv.org/abs/2507.00521)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
 |**2025-07-01**|**AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma**|Megan T. deBettencourt et.al.|[2507.01081](http://arxiv.org/abs/2507.01081)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-07-03**|**TUC-PPO: Team Utility-Constrained Proximal Policy Optimization for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2507.02675](http://arxiv.org/abs/2507.02675)|null|
 |**2025-07-03**|**On Efficient Bayesian Exploration in Model-Based Reinforcement Learning**|Alberto Caron et.al.|[2507.02639](http://arxiv.org/abs/2507.02639)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
