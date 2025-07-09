@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -50,10 +50,10 @@ layout: default
 |**2025-07-07**|**DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification**|Zhipeng Liu et.al.|[2507.04600](http://arxiv.org/abs/2507.04600)|null|
 |**2025-07-06**|**DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting**|Bing Fan et.al.|[2507.04381](http://arxiv.org/abs/2507.04381)|null|
 |**2025-07-06**|**Structural Classification of Locally Stationary Time Series Based on Second-order Characteristics**|Chen Qian et.al.|[2507.04237](http://arxiv.org/abs/2507.04237)|null|
-|**2025-07-05**|**skfolio: Portfolio Optimization in Python**|Carlo Nicolini et.al.|[2507.04176](http://arxiv.org/abs/2507.04176)|null|
+|**2025-07-08**|**skfolio: Portfolio Optimization in Python**|Carlo Nicolini et.al.|[2507.04176](http://arxiv.org/abs/2507.04176)|null|
 |**2025-07-05**|**Generative Regression with IQ-BART**|Sean O'Hagan et.al.|[2507.04168](http://arxiv.org/abs/2507.04168)|null|
 |**2025-07-05**|**Model selection for stochastic dynamics: a parsimonious and principled approach**|Andonis Gerardos et.al.|[2507.04121](http://arxiv.org/abs/2507.04121)|null|
-|**2025-07-05**|**Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework**|Harrison Katz et.al.|[2507.04087](http://arxiv.org/abs/2507.04087)|null|
+|**2025-07-08**|**Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework**|Harrison Katz et.al.|[2507.04087](http://arxiv.org/abs/2507.04087)|null|
 
 ## RAG
 
@@ -61,7 +61,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**The Hidden Threat in Plain Text: Attacking RAG Data Loaders**|Alberto Castagnaro et.al.|[2507.05093](http://arxiv.org/abs/2507.05093)|null|
-|**2025-07-07**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
+|**2025-07-08**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
 |**2025-07-07**|**SHARP: Shared State Reduction for Efficient Matching of Sequential Patterns**|Cong Yu et.al.|[2507.04872](http://arxiv.org/abs/2507.04872)|null|
 |**2025-07-07**|**$\textit{Grahak-Nyay:}$ Consumer Grievance Redressal through Large Language Models**|Shrey Ganatra et.al.|[2507.04854](http://arxiv.org/abs/2507.04854)|null|
 |**2025-07-07**|**UrbanMind: Towards Urban General Intelligence via Tool-Enhanced Retrieval-Augmented Generation and Multilevel Optimization**|Kai Yang et.al.|[2507.04706](http://arxiv.org/abs/2507.04706)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
 |**2025-07-07**|**Infrastructuring Contestability: A Framework for Community-Defined AI Value Pluralism**|Andreas Mayer et.al.|[2507.05187](http://arxiv.org/abs/2507.05187)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-06-30**|**Geminet: Learning the Duality-based Iterative Process for Lightweight Traffic Engineering in Changing Topologies**|Ximeng Liu et.al.|[2506.23640](http://arxiv.org/abs/2506.23640)|null|
 |**2025-06-27**|**Oobleck: Low-Compromise Design for Fault Tolerant Accelerators**|Guy Wilks et.al.|[2506.22654](http://arxiv.org/abs/2506.22654)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Time Series
 
@@ -64,12 +64,12 @@
 |**2025-07-07**|**DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification**|Zhipeng Liu et.al.|[2507.04600](http://arxiv.org/abs/2507.04600)|null|
 |**2025-07-06**|**DC-Mamber: A Dual Channel Prediction Model based on Mamba and Linear Transformer for Multivariate Time Series Forecasting**|Bing Fan et.al.|[2507.04381](http://arxiv.org/abs/2507.04381)|null|
 |**2025-07-06**|**Structural Classification of Locally Stationary Time Series Based on Second-order Characteristics**|Chen Qian et.al.|[2507.04237](http://arxiv.org/abs/2507.04237)|null|
-|**2025-07-05**|**skfolio: Portfolio Optimization in Python**|Carlo Nicolini et.al.|[2507.04176](http://arxiv.org/abs/2507.04176)|null|
+|**2025-07-08**|**skfolio: Portfolio Optimization in Python**|Carlo Nicolini et.al.|[2507.04176](http://arxiv.org/abs/2507.04176)|null|
 |**2025-07-05**|**Generative Regression with IQ-BART**|Sean O'Hagan et.al.|[2507.04168](http://arxiv.org/abs/2507.04168)|null|
 |**2025-07-05**|**Model selection for stochastic dynamics: a parsimonious and principled approach**|Andonis Gerardos et.al.|[2507.04121](http://arxiv.org/abs/2507.04121)|null|
-|**2025-07-05**|**Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework**|Harrison Katz et.al.|[2507.04087](http://arxiv.org/abs/2507.04087)|null|
+|**2025-07-08**|**Forecasting the U.S. Renewable-Energy Mix with an ALR-BDARMA Compositional Time-Series Framework**|Harrison Katz et.al.|[2507.04087](http://arxiv.org/abs/2507.04087)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## RAG
 
@@ -77,7 +77,7 @@
 |---|---|---|---|---|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**The Hidden Threat in Plain Text: Attacking RAG Data Loaders**|Alberto Castagnaro et.al.|[2507.05093](http://arxiv.org/abs/2507.05093)|null|
-|**2025-07-07**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
+|**2025-07-08**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
 |**2025-07-07**|**SHARP: Shared State Reduction for Efficient Matching of Sequential Patterns**|Cong Yu et.al.|[2507.04872](http://arxiv.org/abs/2507.04872)|null|
 |**2025-07-07**|**$\textit{Grahak-Nyay:}$ Consumer Grievance Redressal through Large Language Models**|Shrey Ganatra et.al.|[2507.04854](http://arxiv.org/abs/2507.04854)|null|
 |**2025-07-07**|**UrbanMind: Towards Urban General Intelligence via Tool-Enhanced Retrieval-Augmented Generation and Multilevel Optimization**|Kai Yang et.al.|[2507.04706](http://arxiv.org/abs/2507.04706)|null|
@@ -86,7 +86,7 @@
 |**2025-07-06**|**Source Attribution in Retrieval-Augmented Generation**|Ikhtiyor Nematov et.al.|[2507.04480](http://arxiv.org/abs/2507.04480)|null|
 |**2025-07-06**|**SpiritRAG: A Q&A System for Religion and Spirituality in the United Nations Archive**|Yingqiang Gao et.al.|[2507.04395](http://arxiv.org/abs/2507.04395)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195](http://arxiv.org/abs/2507.05195)|null|
 |**2025-07-07**|**From Fragments to Facts: A Curriculum-Driven DPO Approach for Generating Hindi News Veracity Explanations**|Pulkit Bansal et.al.|[2507.05179](http://arxiv.org/abs/2507.05179)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-07-04**|**MusGO: A Community-Driven Framework For Assessing Openness in Music-Generative AI**|Roser Batlle-Roca et.al.|[2507.03599](http://arxiv.org/abs/2507.03599)|null|
 |**2025-07-04**|**Prompt Engineering Guidelines for Using Large Language Models in Requirements Engineering**|Krishna Ronanki et.al.|[2507.03405](http://arxiv.org/abs/2507.03405)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-07-07**|**Object-centric Denoising Diffusion Models for Physical Reasoning**|Moritz Lange et.al.|[2507.04920](http://arxiv.org/abs/2507.04920)|null|
 |**2025-07-07**|**Beyond Training-time Poisoning: Component-level and Post-training Backdoors in Deep Reinforcement Learning**|Sanyam Vyas et.al.|[2507.04883](http://arxiv.org/abs/2507.04883)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-07-05**|**FedFog: Resource-Aware Federated Learning in Edge and Fog Networks**|Somayeh Sobati-M et.al.|[2507.03952](http://arxiv.org/abs/2507.03952)|null|
 |**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545](http://arxiv.org/abs/2507.03545)|null|
 
-<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
