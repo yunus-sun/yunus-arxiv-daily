@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.11
+## Updated on 2025.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-10**|**Hydrodynamic Insight Drives Multimodal Vortex-Field Dynamics via Streamline Engineering**|Wenxiang Yan et.al.|[2507.07928](http://arxiv.org/abs/2507.07928)|null|
 |**2025-07-10**|**Phase Stability and Transformations in Lead Mixed Halide Perovskites from Machine Learning Force Fields**|Xia Liang et.al.|[2507.07926](http://arxiv.org/abs/2507.07926)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-07-03**|**BLaST: High Performance Inference and Pretraining using BLock Sparse Transformers**|Patrik Okanovic et.al.|[2507.03117](http://arxiv.org/abs/2507.03117)|null|
 |**2025-07-02**|**Deep Recommender Models Inference: Automatic Asymmetric Data Flow Optimization**|Giuseppe Ruggeri et.al.|[2507.01676](http://arxiv.org/abs/2507.01676)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-07-10**|**Real-Time Decorrelation-Based Anomaly Detection for Multivariate Time Series**|Amirhossein Sadough et.al.|[2507.07559](http://arxiv.org/abs/2507.07559)|null|
 |**2025-07-10**|**A comprehensive study on radial velocity signals using ESPRESSO: Pushing precision to the 10 cm/s level**|P. Figueira et.al.|[2507.07514](http://arxiv.org/abs/2507.07514)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-09**|**Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation**|Anirban Saha Anik et.al.|[2507.07307](http://arxiv.org/abs/2507.07307)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-07-10**|**DTECT: Dynamic Topic Explorer & Context Tracker**|Suman Adhya et.al.|[2507.07910](http://arxiv.org/abs/2507.07910)|null|
 |**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906](http://arxiv.org/abs/2507.07906)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-07-09**|**Exploring Public Perceptions of Generative AI in Libraries: A Social Media Analysis of X Discussions**|Yuan Li et.al.|[2507.07047](http://arxiv.org/abs/2507.07047)|null|
 |**2025-07-09**|**Do AI tutors empower or enslave learners? Toward a critical use of AI in education**|Lucile Favero et.al.|[2507.06878](http://arxiv.org/abs/2507.06878)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
 |**2025-07-10**|**Stable Preference Optimization for LLMs: A Bilevel Approach Beyond Direct Preference Optimization**|Chengtao Jian et.al.|[2507.07723](http://arxiv.org/abs/2507.07723)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652](http://arxiv.org/abs/2507.06652)|null|
 |**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250712>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
