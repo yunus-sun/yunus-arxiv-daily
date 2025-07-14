@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -50,7 +50,7 @@ layout: default
 |**2025-07-10**|**On the capabilities of LLMs for classifying and segmenting time series of fruit picking motions into primitive actions**|Eleni Konstantinidou et.al.|[2507.07745](http://arxiv.org/abs/2507.07745)|null|
 |**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678](http://arxiv.org/abs/2507.07678)|null|
 |**2025-07-10**|**A Novel Hybrid Approach for Time Series Forecasting: Period Estimation and Climate Data Analysis Using Unsupervised Learning and Spline Interpolation**|Tanmay Kayal et.al.|[2507.07652](http://arxiv.org/abs/2507.07652)|null|
-|**2025-07-10**|**A forecasting framework for galactic cosmic ray flux in space weather applications**|David Pelosi et.al.|[2507.07616](http://arxiv.org/abs/2507.07616)|null|
+|**2025-07-11**|**A forecasting framework for galactic cosmic ray flux in space weather applications**|David Pelosi et.al.|[2507.07616](http://arxiv.org/abs/2507.07616)|null|
 |**2025-07-10**|**Functional Time Series Forecasting of Distributions: A Koopman-Wasserstein Approach**|Ziyue Wang et.al.|[2507.07570](http://arxiv.org/abs/2507.07570)|null|
 |**2025-07-10**|**Real-Time Decorrelation-Based Anomaly Detection for Multivariate Time Series**|Amirhossein Sadough et.al.|[2507.07559](http://arxiv.org/abs/2507.07559)|null|
 |**2025-07-10**|**A comprehensive study on radial velocity signals using ESPRESSO: Pushing precision to the 10 cm/s level**|P. Figueira et.al.|[2507.07514](http://arxiv.org/abs/2507.07514)|null|
