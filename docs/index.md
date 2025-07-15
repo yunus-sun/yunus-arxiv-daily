@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Communications
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-11**|**The THESAN-ZOOM project: Mystery N/O more -- uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at $3<z<12$**|William McClymont et.al.|[2507.08787](http://arxiv.org/abs/2507.08787)|null|
 |**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784](http://arxiv.org/abs/2507.08784)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Robust Contextual State Estimation with Limited Measurement Data**|J. G. De la Varga et.al.|[2507.08767](http://arxiv.org/abs/2507.08767)|null|
 |**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766](http://arxiv.org/abs/2507.08766)|null|
 |**2025-07-11**|**Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network**|Chuanqi Chen et.al.|[2507.08749](http://arxiv.org/abs/2507.08749)|null|
@@ -31,7 +31,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-04**|**Energy Management for Renewable-Colocated Artificial Intelligence Data Centers**|Siying Li et.al.|[2507.08011](http://arxiv.org/abs/2507.08011)|null|
 |**2025-07-10**|**Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390**|T. Schrabback et.al.|[2507.07629](http://arxiv.org/abs/2507.07629)|null|
-|**2025-07-09**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
+|**2025-07-13**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
 |**2025-07-08**|**Voltage Regulation in Distribution Systems with Data Center Loads**|Yize Chen et.al.|[2507.06416](http://arxiv.org/abs/2507.06416)|null|
 |**2025-07-10**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107](http://arxiv.org/abs/2507.06107)|null|
 |**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751](http://arxiv.org/abs/2507.05751)|null|

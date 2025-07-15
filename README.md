@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,12 @@
 |**2025-07-11**|**The THESAN-ZOOM project: Mystery N/O more -- uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at $3<z<12$**|William McClymont et.al.|[2507.08787](http://arxiv.org/abs/2507.08787)|null|
 |**2025-07-11**|**Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees**|Chuyan Chen et.al.|[2507.08784](http://arxiv.org/abs/2507.08784)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Robust Contextual State Estimation with Limited Measurement Data**|J. G. De la Varga et.al.|[2507.08767](http://arxiv.org/abs/2507.08767)|null|
 |**2025-07-11**|**A Hybrid Multi-Well Hopfield-CNN with Feature Extraction and K-Means for MNIST Classification**|Ahmed Farooq et.al.|[2507.08766](http://arxiv.org/abs/2507.08766)|null|
 |**2025-07-11**|**Modeling Partially Observed Nonlinear Dynamical Systems and Efficient Data Assimilation via Discrete-Time Conditional Gaussian Koopman Network**|Chuanqi Chen et.al.|[2507.08749](http://arxiv.org/abs/2507.08749)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Data Center
 
@@ -43,7 +43,7 @@
 |---|---|---|---|---|
 |**2025-07-04**|**Energy Management for Renewable-Colocated Artificial Intelligence Data Centers**|Siying Li et.al.|[2507.08011](http://arxiv.org/abs/2507.08011)|null|
 |**2025-07-10**|**Euclid: Early Release Observations. Weak gravitational lensing analysis of Abell 2390**|T. Schrabback et.al.|[2507.07629](http://arxiv.org/abs/2507.07629)|null|
-|**2025-07-09**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
+|**2025-07-13**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
 |**2025-07-08**|**Voltage Regulation in Distribution Systems with Data Center Loads**|Yize Chen et.al.|[2507.06416](http://arxiv.org/abs/2507.06416)|null|
 |**2025-07-10**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107](http://arxiv.org/abs/2507.06107)|null|
 |**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751](http://arxiv.org/abs/2507.05751)|null|
@@ -52,7 +52,7 @@
 |**2025-07-03**|**RCA Copilot: Transforming Network Data into Actionable Insights via Large Language Models**|Alexander Shan et.al.|[2507.03224](http://arxiv.org/abs/2507.03224)|null|
 |**2025-07-03**|**BLaST: High Performance Inference and Pretraining using BLock Sparse Transformers**|Patrik Okanovic et.al.|[2507.03117](http://arxiv.org/abs/2507.03117)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-07-11**|**A forecasting framework for galactic cosmic ray flux in space weather applications**|David Pelosi et.al.|[2507.07616](http://arxiv.org/abs/2507.07616)|null|
 |**2025-07-10**|**Functional Time Series Forecasting of Distributions: A Koopman-Wasserstein Approach**|Ziyue Wang et.al.|[2507.07570](http://arxiv.org/abs/2507.07570)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
 |**2025-07-10**|**From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry**|Chetan Arora et.al.|[2507.07689](http://arxiv.org/abs/2507.07689)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-07-11**|**LLMCup: Ranking-Enhanced Comment Updating with LLMs**|Hua Ge et.al.|[2507.08671](http://arxiv.org/abs/2507.08671)|null|
 |**2025-07-11**|**KELPS: A Framework for Verified Multi-Language Autoformalization via Semantic-Syntactic Alignment**|Jiyao Zhang et.al.|[2507.08665](http://arxiv.org/abs/2507.08665)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,7 +120,7 @@
 |**2025-07-10**|**Working with AI: Measuring the Occupational Implications of Generative AI**|Kiran Tomlinson et.al.|[2507.07935](http://arxiv.org/abs/2507.07935)|null|
 |**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906](http://arxiv.org/abs/2507.07906)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,7 +137,7 @@
 |**2025-07-11**|**Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning**|Xingguang Ji et.al.|[2507.08649](http://arxiv.org/abs/2507.08649)|null|
 |**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -154,7 +154,7 @@
 |**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316](http://arxiv.org/abs/2507.07316)|null|
 |**2025-07-09**|**FedP3E: Privacy-Preserving Prototype Exchange for Non-IID IoT Malware Detection in Cross-Silo Federated Learning**|Rami Darwish et.al.|[2507.07258](http://arxiv.org/abs/2507.07258)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
