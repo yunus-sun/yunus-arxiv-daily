@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-14**|**RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|[2507.10461](http://arxiv.org/abs/2507.10461)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,7 +52,7 @@
 |**2025-07-08**|**Voltage Regulation in Distribution Systems with Data Center Loads**|Yize Chen et.al.|[2507.06416](http://arxiv.org/abs/2507.06416)|null|
 |**2025-07-10**|**A Unified Ontology for Scalable Knowledge Graph-Driven Operational Data Analytics in High-Performance Computing Systems**|Junaid Ahmed Khan et.al.|[2507.06107](http://arxiv.org/abs/2507.06107)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Time Series
 
@@ -69,7 +69,7 @@
 |**2025-07-14**|**Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series**|Zikun Deng et.al.|[2507.09917](http://arxiv.org/abs/2507.09917)|null|
 |**2025-07-14**|**Solving dynamic portfolio selection problems via score-based diffusion models**|Ahmad Aghapour et.al.|[2507.09916](http://arxiv.org/abs/2507.09916)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
 |**2025-07-12**|**Knowledge Conceptualization Impacts RAG Efficacy**|Chris Davis Jaldi et.al.|[2507.09389](http://arxiv.org/abs/2507.09389)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Large Model
 
@@ -103,7 +103,7 @@
 |**2025-07-14**|**From BERT to Qwen: Hate Detection across architectures**|Ariadna Mon et.al.|[2507.10468](http://arxiv.org/abs/2507.10468)|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Generative AI
 
@@ -111,7 +111,7 @@
 |---|---|---|---|---|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
-|**2025-07-14**|**Self-Admitted GenAI Usage in Open-Source Software**|Tao Xiao et.al.|[2507.10422](http://arxiv.org/abs/2507.10422)|null|
+|**2025-07-15**|**Self-Admitted GenAI Usage in Open-Source Software**|Tao Xiao et.al.|[2507.10422](http://arxiv.org/abs/2507.10422)|null|
 |**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
 |**2025-07-13**|**SimStep: Chain-of-Abstractions for Incremental Specification and Debugging of AI-Generated Interactive Simulations**|Zoe Kaputa et.al.|[2507.09664](http://arxiv.org/abs/2507.09664)|null|
 |**2025-07-13**|**GenAI-based Multi-Agent Reinforcement Learning towards Distributed Agent Intelligence: A Generative-RL Agent Perspective**|Hang Wang et.al.|[2507.09495](http://arxiv.org/abs/2507.09495)|null|
@@ -120,7 +120,7 @@
 |**2025-07-12**|**Banzhida: Advancing Large Language Models for Tibetan with Curated Data and Continual Pre-Training**|Leiyu Pan et.al.|[2507.09205](http://arxiv.org/abs/2507.09205)|null|
 |**2025-07-11**|**ToxBench: A Binding Affinity Prediction Benchmark with AB-FEP-Calculated Labels for Human Estrogen Receptor Alpha**|Meng Liu et.al.|[2507.08966](http://arxiv.org/abs/2507.08966)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -137,14 +137,14 @@
 |**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
 |**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Federated Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474](http://arxiv.org/abs/2507.10474)|null|
-|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
+|**2025-07-15**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
 |**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
 |**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325](http://arxiv.org/abs/2507.10325)|null|
 |**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162](http://arxiv.org/abs/2507.10162)|null|
@@ -154,7 +154,7 @@
 |**2025-07-13**|**DRAGD: A Federated Unlearning Data Reconstruction Attack Based on Gradient Differences**|Bocheng Ju et.al.|[2507.09602](http://arxiv.org/abs/2507.09602)|null|
 |**2025-07-13**|**Lightweight Federated Learning over Wireless Edge Networks**|Xiangwang Hou et.al.|[2507.09546](http://arxiv.org/abs/2507.09546)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
