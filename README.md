@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-15**|**Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides**|Thomas Robiglio et.al.|[2507.11503](http://arxiv.org/abs/2507.11503)|null|
 |**2025-07-15**|**Laser-driven few-cycle Terahertz sources with high average power**|Robin Löscher et.al.|[2507.11501](http://arxiv.org/abs/2507.11501)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Data Center
 
@@ -52,24 +52,24 @@
 |**2025-07-11**|**MQFQ-Sticky: Fair Queueing For Serverless GPU Functions**|Alexander Fuerst et.al.|[2507.08954](http://arxiv.org/abs/2507.08954)|null|
 |**2025-07-11**|**CEO-DC: An Actionable Framework to Close the Carbon Gap in HPC Data Centers**|Rubén Rodríguez Álvarez et.al.|[2507.08923](http://arxiv.org/abs/2507.08923)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Time Series
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-15**|**D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data**|Harsha Varun Marisetty et.al.|[2507.11471](http://arxiv.org/abs/2507.11471)|null|
-|**2025-07-15**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
+|**2025-07-16**|**Data Augmentation in Time Series Forecasting through Inverted Framework**|Hongming Tan et.al.|[2507.11439](http://arxiv.org/abs/2507.11439)|null|
 |**2025-07-15**|**Extropy Rate: Properties and Application in Feature Selection**|Naveen Kumar et.al.|[2507.11242](http://arxiv.org/abs/2507.11242)|null|
 |**2025-07-15**|**Gradient Regularization-based Neural Granger Causality**|Meiliang Liu et.al.|[2507.11178](http://arxiv.org/abs/2507.11178)|null|
 |**2025-07-15**|**Joint semi-parametric INAR bootstrap inference for model coefficients and innovation distribution**|Maxime Faymonville et.al.|[2507.11124](http://arxiv.org/abs/2507.11124)|null|
-|**2025-07-15**|**Finding Order-Preserving Subgraphs**|Haruya Imamura et.al.|[2507.11115](http://arxiv.org/abs/2507.11115)|null|
+|**2025-07-16**|**Finding Order-Preserving Subgraphs**|Haruya Imamura et.al.|[2507.11115](http://arxiv.org/abs/2507.11115)|null|
 |**2025-07-15**|**Time-series forecasting for nonlinear high-dimensional system using hybrid method combining autoencoder and multi-parallelized quantum long short-term memory and gated recurrent unit**|Makoto Takagi et.al.|[2507.10876](http://arxiv.org/abs/2507.10876)|null|
 |**2025-07-14**|**Detecting AI Assistance in Abstract Complex Tasks**|Tyler King et.al.|[2507.10761](http://arxiv.org/abs/2507.10761)|null|
 |**2025-07-14**|**Absolute Calibration of Cluster Mira Variables to Provide a New Anchor for the Hubble Constant Determination**|Anupam Bhardwaj et.al.|[2507.10658](http://arxiv.org/abs/2507.10658)|null|
 |**2025-07-14**|**Inference of time delay in stochastic systems**|Robin A. Kopp et.al.|[2507.10429](http://arxiv.org/abs/2507.10429)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## RAG
 
@@ -86,7 +86,7 @@
 |**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Samson Yu et.al.|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
 |**2025-07-14**|**Enhancing Retrieval Augmented Generation with Hierarchical Text Segmentation Chunking**|Hai Toan Nguyen et.al.|[2507.09935](http://arxiv.org/abs/2507.09935)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Large Model
 
@@ -101,9 +101,9 @@
 |**2025-07-15**|**REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation**|Xiaohang Tang et.al.|[2507.11470](http://arxiv.org/abs/2507.11470)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-16**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Generative AI
 
@@ -120,13 +120,13 @@
 |**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
 |**2025-07-13**|**SimStep: Chain-of-Abstractions for Incremental Specification and Debugging of AI-Generated Interactive Simulations**|Zoe Kaputa et.al.|[2507.09664](http://arxiv.org/abs/2507.09664)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Reinforcement Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-15**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
+|**2025-07-16**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
 |**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
 |**2025-07-15**|**Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light**|Mani Hamidi et.al.|[2507.11482](http://arxiv.org/abs/2507.11482)|null|
 |**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
@@ -137,7 +137,7 @@
 |**2025-07-15**|**Real-Time Bayesian Detection of Drift-Evasive GNSS Spoofing in Reinforcement Learning Based UAV Deconfliction**|Deepak Kumar Panda et.al.|[2507.11173](http://arxiv.org/abs/2507.11173)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Federated Learning
 
@@ -152,9 +152,9 @@
 |**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325](http://arxiv.org/abs/2507.10325)|null|
 |**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162](http://arxiv.org/abs/2507.10162)|null|
 |**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160](http://arxiv.org/abs/2507.10160)|null|
-|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
+|**2025-07-16**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
