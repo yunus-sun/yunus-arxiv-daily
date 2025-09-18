@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
